@@ -1,4 +1,4 @@
-Total messages:		14114
+Total messages:		7329
 
 =================================================================
 1 INFO-level messages exist
@@ -6,19 +6,18 @@ Total messages:		14114
 GENERIC.MissingPubRequirement:	1
 
 =================================================================
-79 WARNING-level messages exist
+80 WARNING-level messages exist
 
-SEQ_DESCR.BioSourceMissing:	77
+SEQ_DESCR.NoTaxonID:	78
 SEQ_FEAT.EcNumberInProteinName:	2
 
 =================================================================
-14034 ERROR-level messages exist
+7248 ERROR-level messages exist
 
-SEQ_INST.StopInProtein:	7010
+SEQ_INST.BadProteinStart:	1
 SEQ_DESCR.NoPubFound:	1
-SEQ_DESCR.NoSourceDescriptor:	1
-SEQ_FEAT.InternalStop:	7010
-SEQ_FEAT.NoStop:	6
-SEQ_FEAT.SuspiciousFrame:	6
+SEQ_FEAT.StartCodon:	1
+SEQ_FEAT.MisMatchAA:	254
+SEQ_FEAT.NoStop:	6991
 
 =================================================================
