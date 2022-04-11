@@ -19,13 +19,27 @@ def make_feautre_header(contig_id):
 def make_table_entry(gene_obj):
     result = ''
 
-    prefix = '\t'.join(gene_obj['coords'])
-    result += f"{prefix}\tgene\t\t\n"
-    result += f"\t\t\tlocus_tag\t{gene_obj['locus_tag']}\n"
-
     coords = gene_obj['coords']
+
     if gene_obj['direction'] == '-':
         coords.reverse()
+        coords[1] -= 3
+
+    elif gene_obj['direction'] == '+':
+        coords[1] += 3
+    else:
+        raise(Exception(f'Weird direction in {gene_obj}'))
+
+    if coords[1] < 1:
+        coords[1] = '<1'
+    elif coords[1] > gene_obj['contig_length']:
+        coords[1] = f">{ gene_obj['contig_length'] }"
+
+    coords = [str(e) for e in coords]
+
+    prefix = '\t'.join(coords)
+    result += f"{prefix}\tgene\t\t\n"
+    result += f"\t\t\tlocus_tag\t{gene_obj['locus_tag']}\n"
 
     prefix = '\t'.join(coords)
     result += f"{prefix}\t{'CDS' if gene_obj['type'] == 'gene' else gene_obj['type']}\t\t\n"
@@ -76,12 +90,16 @@ def main():
             gene_obj['locus_tag'] = f'{LOCUS_PREFIX}_{gene_cnt:05d}'
 
             gene_obj['coords'] = splitted[0].split('|')[1].split('-')
+            gene_obj['coords'] = [int(e) for e in gene_obj['coords']]
 
             key_coords = tuple([int(e) for e in gene_obj['coords']])
             if key_coords not in struct_annot_data:
                 raise(Exception(f'Cannot find coordinates {key_coords} in structural annotation'))
             else:
                 gene_obj['direction'] = struct_annot_data[key_coords]['direction']
+
+            contig_length = int(contig_id.split('_')[-1])
+            gene_obj['contig_length'] = contig_length
 
             if 'no hit found' in splitted[-1]:
                 gene_obj['gene_func'] = None
@@ -116,7 +134,8 @@ def main():
 
             gene_obj['gene_name'] = uuid.uuid4().hex
             gene_obj['locus_tag'] = f'{LOCUS_PREFIX}_{gene_cnt:05d}'
-            gene_obj['coords'] = [splitted[3], splitted[4]]
+            gene_obj['coords'] = [int(splitted[3]), int(splitted[4])]
+            gene_obj['contig_length'] = int(contig_id.split('_')[-1])
             gene_obj['direction'] = splitted[6].strip()
             gene_obj['gene_func'] = splitted[8].split(';')[-1].split('=')[-1]
             gene_obj['type'] = splitted[2]
