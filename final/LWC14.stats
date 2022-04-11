@@ -1,4 +1,4 @@
-Total messages:		21356
+Total messages:		14114
 
 =================================================================
 1 INFO-level messages exist
@@ -12,15 +12,13 @@ SEQ_DESCR.BioSourceMissing:	77
 SEQ_FEAT.EcNumberInProteinName:	2
 
 =================================================================
-21276 ERROR-level messages exist
+14034 ERROR-level messages exist
 
-SEQ_INST.StopInProtein:	7120
-SEQ_INST.BadProteinStart:	3391
+SEQ_INST.StopInProtein:	7010
 SEQ_DESCR.NoPubFound:	1
 SEQ_DESCR.NoSourceDescriptor:	1
-SEQ_FEAT.StartCodon:	3391
-SEQ_FEAT.InternalStop:	7120
-SEQ_FEAT.NoStop:	244
-SEQ_FEAT.SuspiciousFrame:	8
+SEQ_FEAT.InternalStop:	7010
+SEQ_FEAT.NoStop:	6
+SEQ_FEAT.SuspiciousFrame:	6
 
 =================================================================

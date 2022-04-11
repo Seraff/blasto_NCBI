@@ -5,7 +5,9 @@ import uuid
 
 GENES_FILENAME = 'genes.fasta'
 FUNC_ANNOT_FILENAME = 'func_annot.tsv'
+STRUCT_ANNOT_FILENAME = 'struct_annot.gff'
 RNA_ANNOT_FILENAME = 't_r_rnas.gff'
+OUTPUT_PATH = 'final/LWC14.tbl'
 LOCUS_PREFIX = 'LWC14'
 DEFAULT_FUNCTION = 'hypothetical protein'
 
@@ -21,7 +23,11 @@ def make_table_entry(gene_obj):
     result += f"{prefix}\tgene\t\t\n"
     result += f"\t\t\tlocus_tag\t{gene_obj['locus_tag']}\n"
 
-    prefix = '\t'.join(gene_obj['coords'])
+    coords = gene_obj['coords']
+    if gene_obj['direction'] == '-':
+        coords.reverse()
+
+    prefix = '\t'.join(coords)
     result += f"{prefix}\t{'CDS' if gene_obj['type'] == 'gene' else gene_obj['type']}\t\t\n"
 
     gene_func = gene_obj['gene_func'] if gene_obj['gene_func'] else DEFAULT_FUNCTION
@@ -31,11 +37,25 @@ def make_table_entry(gene_obj):
 
 
 def main():
-    annot_gff = {}
-    rna_gff = {}
+    annotated_genes = {}
+    struct_annot_data = {}
     gene_cnt = 1
 
-    # Preparing predicted genes
+    # get data from structural annotation
+
+    with open(STRUCT_ANNOT_FILENAME) as f:
+        for line in f:
+            line = line.strip()
+            if line == '':
+                continue
+
+            splitted = line.split('\t')
+            key = (int(splitted[3]), int(splitted[4]))
+            if key not in struct_annot_data:
+                struct_annot_data[key] = {}
+            struct_annot_data[key]['direction'] = splitted[6].strip()
+
+    # Preparing predicted genes, fetch data from functional annotation
 
     with open(FUNC_ANNOT_FILENAME) as f:
         for line in f:
@@ -46,8 +66,8 @@ def main():
             splitted = line.split('\t')
 
             contig_id = splitted[0].split(' ')[1].split('|')[0]
-            if contig_id not in annot_gff:
-                annot_gff[contig_id] = []
+            if contig_id not in annotated_genes:
+                annotated_genes[contig_id] = []
 
             gene_obj = {}
 
@@ -56,6 +76,12 @@ def main():
             gene_obj['locus_tag'] = f'{LOCUS_PREFIX}_{gene_cnt:05d}'
 
             gene_obj['coords'] = splitted[0].split('|')[1].split('-')
+
+            key_coords = tuple([int(e) for e in gene_obj['coords']])
+            if key_coords not in struct_annot_data:
+                raise(Exception(f'Cannot find coordinates {key_coords} in structural annotation'))
+            else:
+                gene_obj['direction'] = struct_annot_data[key_coords]['direction']
 
             if 'no hit found' in splitted[-1]:
                 gene_obj['gene_func'] = None
@@ -67,7 +93,7 @@ def main():
 
             gene_obj['type'] = 'gene'
 
-            annot_gff[contig_id].append(gene_obj)
+            annotated_genes[contig_id].append(gene_obj)
             gene_cnt += 1
 
     # preparing RNAs
@@ -83,18 +109,19 @@ def main():
                 continue
 
             contig_id = splitted[0]
-            if contig_id not in annot_gff:
-                annot_gff[contig_id] = []
+            if contig_id not in annotated_genes:
+                annotated_genes[contig_id] = []
 
             gene_obj = {}
 
             gene_obj['gene_name'] = uuid.uuid4().hex
             gene_obj['locus_tag'] = f'{LOCUS_PREFIX}_{gene_cnt:05d}'
             gene_obj['coords'] = [splitted[3], splitted[4]]
+            gene_obj['direction'] = splitted[6].strip()
             gene_obj['gene_func'] = splitted[8].split(';')[-1].split('=')[-1]
             gene_obj['type'] = splitted[2]
 
-            annot_gff[contig_id].append(gene_obj)
+            annotated_genes[contig_id].append(gene_obj)
             gene_cnt += 1
 
     # Checking if everythin is ok
@@ -102,13 +129,13 @@ def main():
     for rec in SeqIO.parse(GENES_FILENAME, 'fasta'):
         contig_id = rec.description.split(' ')[1].split('|')[0]
 
-        if rec.id not in [e['gene_name'] for e in annot_gff[contig_id]]:
+        if rec.id not in [e['gene_name'] for e in annotated_genes[contig_id]]:
             raise(Exception(f'{rec.id} is not in Kika\'s annotation! Meh...'))
 
     # Making the actual file
 
-    with open('Tb_func_annot.tbl', 'w') as out_f:
-        for contig_id, data in annot_gff.items():
+    with open(OUTPUT_PATH, 'w') as out_f:
+        for contig_id, data in annotated_genes.items():
             out_f.write(make_feautre_header(contig_id))
             for gene_obj in data:
                 out_f.write(make_table_entry(gene_obj))
