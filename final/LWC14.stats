@@ -1,22 +1,11 @@
-Total messages:		7328
+Total messages:		7401
 
 =================================================================
-1 INFO-level messages exist
+7401 WARNING-level messages exist
 
-GENERIC.MissingPubRequirement:	1
-
-=================================================================
-80 WARNING-level messages exist
-
-SEQ_DESCR.NoTaxonID:	78
+GENERIC.BadDate:	1
+SEQ_FEAT.PartialProblemNotSpliceConsensus3Prime:	7244
+SEQ_FEAT.PartialProblem3Prime:	154
 SEQ_FEAT.EcNumberInProteinName:	2
-
-=================================================================
-7247 ERROR-level messages exist
-
-SEQ_INST.BadProteinStart:	1
-SEQ_DESCR.NoPubFound:	1
-SEQ_FEAT.StartCodon:	1
-SEQ_FEAT.MisMatchAA:	7244
 
 =================================================================

@@ -23,17 +23,16 @@ def make_table_entry(gene_obj):
 
     if gene_obj['direction'] == '-':
         coords.reverse()
-        coords[1] -= 3
+        coords[1] = f">{coords[1]}"
 
     elif gene_obj['direction'] == '+':
-        coords[1] += 3
+        coords[1] = f">{coords[1]}"
     else:
         raise(Exception(f'Weird direction in {gene_obj}'))
 
-    if coords[1] < 1:
-        coords[1] = '<1'
-    elif coords[1] > gene_obj['contig_length']:
-        coords[1] = f">{ gene_obj['contig_length'] }"
+    # dirty workaround
+    if gene_obj['gene_name'] == '62d6d129cb58c511855043acab2823dd':
+        coords[0] = f"<{coords[0]}"
 
     coords = [str(e) for e in coords]
 
