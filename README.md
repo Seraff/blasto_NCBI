@@ -9,7 +9,7 @@
 * Then from the root folder of the `blasto_NCBI` project run the command:
 
 ```
-./mac.table2asn -indir final -gaps-min 10 -l paired-ends -o final/LWC14.sqn -Z -a s -V v -j "[organism=Blastocrithidia nonstop] [isolate=p57] [gcode=31]"
+./mac.table2asn -indir final -gaps-min 10 -l paired-ends -o final/LWC14.sqn -t final/LWC14.sbt -Z -a s -V v -j "[organism=Blastocrithidia nonstop] [isolate=p57] [gcode=31]"
 ```
 
 The `LWC14.sqn` file will be generated in `final/` folder.
