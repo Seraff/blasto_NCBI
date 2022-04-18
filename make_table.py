@@ -21,14 +21,15 @@ def make_table_entry(gene_obj):
 
     coords = gene_obj['coords']
 
-    if gene_obj['direction'] == '-':
-        coords.reverse()
-        coords[1] = f">{coords[1]}"
+    if gene_obj['source'] != 'RNA':
+        if gene_obj['direction'] == '-':
+            coords.reverse()
+            coords[1] = f">{coords[1]}"
 
-    elif gene_obj['direction'] == '+':
-        coords[1] = f">{coords[1]}"
-    else:
-        raise(Exception(f'Weird direction in {gene_obj}'))
+        elif gene_obj['direction'] == '+':
+            coords[1] = f">{coords[1]}"
+        else:
+            raise(Exception(f'Weird direction in {gene_obj}'))
 
     # dirty workaround
     if gene_obj['gene_name'] == '62d6d129cb58c511855043acab2823dd':
@@ -109,6 +110,7 @@ def main():
                 gene_obj['gene_func'] = func_data['gene_product']
 
             gene_obj['type'] = 'gene'
+            gene_obj['source'] = 'annotation'
 
             annotated_genes[contig_id].append(gene_obj)
             gene_cnt += 1
@@ -138,6 +140,7 @@ def main():
             gene_obj['direction'] = splitted[6].strip()
             gene_obj['gene_func'] = splitted[8].split(';')[-1].split('=')[-1]
             gene_obj['type'] = splitted[2]
+            gene_obj['source'] = 'RNA'
 
             annotated_genes[contig_id].append(gene_obj)
             gene_cnt += 1

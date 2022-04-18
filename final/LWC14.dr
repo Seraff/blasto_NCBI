@@ -61,6 +61,7 @@ SUSPECT_PRODUCT_NAMES: 1692 product_names contain suspect phrases or characters
 		17 features Is longer than 100 characters. Remove descriptive phrases or synonyms from product names. Keep valid long product names, eg long enzyme names
 	use protein instead of gene as appropriate
 		26 features contain 'gene'
+SHORT_RRNA: 2 rRNA features are too short
 AUTODEF_USER_OBJECT: 78 nucleotide sequences have no autodef user objects
 BIOPROJECT_ID: 78 sequences contain BioProject IDs
 FLATFILE_FIND: Fixable
@@ -3357,6 +3358,9 @@ LWC14.sqn:CDS	expression site-associated gene 3 (ESAG3)-like protein	lcl|Ctg56_l
 LWC14.sqn:CDS	expression site-associated gene 3 (ESAG3) protein, putative	lcl|Ctg59_length_180577:174014->175612	LWC14_05998
 LWC14.sqn:CDS	expression site-associated gene 3 (ESAG3) protein, putative	lcl|Ctg65_length_329517:147237->148877	LWC14_00514
 LWC14.sqn:CDS	expression site-associated gene (ESAG) protein, putative	lcl|Ctg77_length_18386:5895->7514	LWC14_04400
+SHORT_RRNA: 2 rRNA features are too short
+LWC14.sqn:rRNA	rRNA 28s RNA alpha	lcl|Ctg50_length_307361:813-2696	LWC14_07317
+LWC14.sqn:rRNA	rRNA 28s RNA beta	lcl|Ctg50_length_307361:3454-4617	LWC14_07318
 AUTODEF_USER_OBJECT: 78 nucleotide sequences have no autodef user objects
 LWC14.sqn:Ctg0_length_1405360 (length 1405360)
 LWC14.sqn:Ctg1_length_335614 (length 335614)
@@ -3649,5 +3653,5 @@ LWC14.sqn:CDS	NADH-cytochrome b5 reductase-like protein	lcl|Ctg51_length_441521:
 LWC14.sqn:CDS	cytochrome oxidase subunit VI	lcl|Ctg59_length_180577:c125983-<125507	LWC14_05975
 LWC14.sqn:CDS	succinate dehydrogenase cytochrome B subunit	lcl|Ctg68_length_114353:72013->72474	LWC14_02962
 ORG_TRNAS: 2 tRNAs are too long
-LWC14.sqn:tRNA	Tyr	lcl|Ctg17_length_605537:524223->524313	LWC14_07286
-LWC14.sqn:tRNA	Tyr	lcl|Ctg35_length_582086:c558499-<558409	LWC14_07304
+LWC14.sqn:tRNA	Tyr	lcl|Ctg17_length_605537:524223-524313	LWC14_07286
+LWC14.sqn:tRNA	Tyr	lcl|Ctg35_length_582086:558409-558499	LWC14_07304

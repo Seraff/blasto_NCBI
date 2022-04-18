@@ -1,11 +1,9 @@
-Total messages:		7401
+Total messages:		7246
 
 =================================================================
-7401 WARNING-level messages exist
+7246 WARNING-level messages exist
 
-GENERIC.BadDate:	1
 SEQ_FEAT.PartialProblemNotSpliceConsensus3Prime:	7244
-SEQ_FEAT.PartialProblem3Prime:	154
 SEQ_FEAT.EcNumberInProteinName:	2
 
 =================================================================

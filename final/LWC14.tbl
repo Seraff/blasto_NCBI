@@ -1188,9 +1188,9 @@
 			locus_tag	LWC14_00297
 216501	>217304	CDS		
 			product	hypothetical protein, conserved
-524223	>524313	gene		
+524223	524313	gene		
 			locus_tag	LWC14_07286
-524223	>524313	tRNA		
+524223	524313	tRNA		
 			product	tRNA-Tyr(gta)
 >Feature	Ctg72_length_72729			
 18404	>19906	gene		
@@ -2453,9 +2453,9 @@
 			locus_tag	LWC14_00611
 86741	>85839	CDS		
 			product	hypothetical protein
-160112	>160041	gene		
+160041	160112	gene		
 			locus_tag	LWC14_07333
-160112	>160041	tRNA		
+160041	160112	tRNA		
 			product	tRNA-Thr(agt)
 >Feature	Ctg61_length_82014			
 44047	>43187	gene		
@@ -2550,17 +2550,17 @@
 			locus_tag	LWC14_00634
 7309	>5972	CDS		
 			product	hypothetical protein
-23694	>23622	gene		
+23622	23694	gene		
 			locus_tag	LWC14_07330
-23694	>23622	tRNA		
+23622	23694	tRNA		
 			product	tRNA-Phe(gaa)
-23772	>23844	gene		
+23772	23844	gene		
 			locus_tag	LWC14_07331
-23772	>23844	tRNA		
+23772	23844	tRNA		
 			product	tRNA-Glu(tta)
-24100	>24027	gene		
+24027	24100	gene		
 			locus_tag	LWC14_07332
-24100	>24027	tRNA		
+24027	24100	tRNA		
 			product	tRNA-Arg(ccg)
 >Feature	Ctg4_length_196660			
 26142	>25150	gene		
@@ -3240,29 +3240,29 @@
 			locus_tag	LWC14_00803
 204263	>205945	CDS		
 			product	hypothetical protein
-8723	>8641	gene		
+8641	8723	gene		
 			locus_tag	LWC14_07314
-8723	>8641	tRNA		
+8641	8723	tRNA		
 			product	tRNA-Leu(taa)
-8980	>9051	gene		
+8980	9051	gene		
 			locus_tag	LWC14_07315
-8980	>9051	tRNA		
+8980	9051	tRNA		
 			product	tRNA-Pro(cgg)
-306977	>307051	gene		
+306977	307051	gene		
 			locus_tag	LWC14_07316
-306977	>307051	tRNA		
+306977	307051	tRNA		
 			product	tRNA-Pyl(cta)
-813	>2696	gene		
+813	2696	gene		
 			locus_tag	LWC14_07317
-813	>2696	rRNA		
+813	2696	rRNA		
 			product	rRNA 28s RNA alpha
-3454	>4617	gene		
+3454	4617	gene		
 			locus_tag	LWC14_07318
-3454	>4617	rRNA		
+3454	4617	rRNA		
 			product	rRNA 28s RNA beta
-300	>470	gene		
+300	470	gene		
 			locus_tag	LWC14_07319
-300	>470	rRNA		
+300	470	rRNA		
 			product	rRNA 5.8S
 >Feature	Ctg13_length_300672			
 45275	>44418	gene		
@@ -5585,25 +5585,25 @@
 			locus_tag	LWC14_01382
 1166507	>1168711	CDS		
 			product	LSU ribosomal protein, mitochondrial, putative
-117073	>117146	gene		
+117073	117146	gene		
 			locus_tag	LWC14_07287
-117073	>117146	tRNA		
+117073	117146	tRNA		
 			product	tRNA-Asn(gtt)
-1061200	>1061117	gene		
+1061117	1061200	gene		
 			locus_tag	LWC14_07288
-1061200	>1061117	tRNA		
+1061117	1061200	tRNA		
 			product	tRNA-Leu(aag)
-1061352	>1061281	gene		
+1061281	1061352	gene		
 			locus_tag	LWC14_07289
-1061352	>1061281	tRNA		
+1061281	1061352	tRNA		
 			product	tRNA-Met(cat)
-1061453	>1061524	gene		
+1061453	1061524	gene		
 			locus_tag	LWC14_07290
-1061453	>1061524	tRNA		
+1061453	1061524	tRNA		
 			product	tRNA-Pro(tgg)
-1061646	>1061575	gene		
+1061575	1061646	gene		
 			locus_tag	LWC14_07291
-1061646	>1061575	tRNA		
+1061575	1061646	tRNA		
 			product	tRNA-Cys(gca)
 >Feature	Ctg43_length_108135			
 19383	>20444	gene		
@@ -7760,17 +7760,17 @@
 			locus_tag	LWC14_01920
 144019	>140015	CDS		
 			product	STE/STE11 serine/threonine-protein kinase, putative
-424955	>424882	gene		
+424882	424955	gene		
 			locus_tag	LWC14_07260
-424955	>424882	tRNA		
+424882	424955	tRNA		
 			product	tRNA-Lys(ctt)
-425085	>425014	gene		
+425014	425085	gene		
 			locus_tag	LWC14_07261
-425085	>425014	tRNA		
+425014	425085	tRNA		
 			product	tRNA-Trp(cca)
-537009	>536938	gene		
+536938	537009	gene		
 			locus_tag	LWC14_07262
-537009	>536938	tRNA		
+536938	537009	tRNA		
 			product	tRNA-Thr(cgt)
 >Feature	Ctg39_length_323072			
 233398	>235392	gene		
@@ -8676,9 +8676,9 @@
 			locus_tag	LWC14_02145
 37061	>33894	CDS		
 			product	Lapatinib-binding protein kinase 3
-21096	>21167	gene		
+21096	21167	gene		
 			locus_tag	LWC14_07334
-21096	>21167	tRNA		
+21096	21167	tRNA		
 			product	tRNA-Asp(gtc)
 >Feature	Ctg12_length_257868			
 20465	>22234	gene		
@@ -8985,17 +8985,17 @@
 			locus_tag	LWC14_02221
 99877	>101970	CDS		
 			product	hypothetical protein
-244528	>244598	gene		
+244528	244598	gene		
 			locus_tag	LWC14_07279
-244528	>244598	tRNA		
+244528	244598	tRNA		
 			product	tRNA-His(gtg)
-244722	>244651	gene		
+244651	244722	gene		
 			locus_tag	LWC14_07280
-244722	>244651	tRNA		
+244651	244722	tRNA		
 			product	tRNA-Glu(ttc)
-244823	>244895	gene		
+244823	244895	gene		
 			locus_tag	LWC14_07281
-244823	>244895	tRNA		
+244823	244895	tRNA		
 			product	tRNA-Phe(gaa)
 >Feature	Ctg34_length_306897			
 164085	>162007	gene		
@@ -9270,9 +9270,9 @@
 			locus_tag	LWC14_02289
 227446	>227204	CDS		
 			product	hypothetical protein
-141591	>141664	gene		
+141591	141664	gene		
 			locus_tag	LWC14_07301
-141591	>141664	tRNA		
+141591	141664	tRNA		
 			product	tRNA-Val(cac)
 >Feature	Ctg8_length_1014657			
 949928	>950479	gene		
@@ -11264,25 +11264,25 @@
 			locus_tag	LWC14_02786
 387482	>388465	CDS		
 			product	hypothetical protein
-558167	>558086	gene		
+558086	558167	gene		
 			locus_tag	LWC14_07302
-558167	>558086	tRNA		
+558086	558167	tRNA		
 			product	tRNA-Leu(tag)
-558259	>558342	gene		
+558259	558342	gene		
 			locus_tag	LWC14_07303
-558259	>558342	tRNA		
+558259	558342	tRNA		
 			product	tRNA-Ser(tga)
-558499	>558409	gene		
+558409	558499	gene		
 			locus_tag	LWC14_07304
-558499	>558409	tRNA		
+558409	558499	tRNA		
 			product	tRNA-Tyr(gta)
-558611	>558685	gene		
+558611	558685	gene		
 			locus_tag	LWC14_07305
-558611	>558685	tRNA		
+558611	558685	tRNA		
 			product	tRNA-Val(aac)
-558745	>558819	gene		
+558745	558819	gene		
 			locus_tag	LWC14_07306
-558745	>558819	tRNA		
+558745	558819	tRNA		
 			product	tRNA-Ile(aat)
 >Feature	Ctg29_length_525938			
 142375	>136553	gene		
@@ -11986,9 +11986,9 @@
 			locus_tag	LWC14_02961
 91372	>87026	CDS		
 			product	hypothetical protein, conserved
-127476	>127547	gene		
+127476	127547	gene		
 			locus_tag	LWC14_07292
-127476	>127547	tRNA		
+127476	127547	tRNA		
 			product	tRNA-Asp(gtc)
 >Feature	Ctg68_length_114353			
 72013	>72474	gene		
@@ -13662,9 +13662,9 @@
 			locus_tag	LWC14_03378
 201666	>199798	CDS		
 			product	hypothetical protein, conserved
-52772	>52846	gene		
+52772	52846	gene		
 			locus_tag	LWC14_07293
-52772	>52846	tRNA		
+52772	52846	tRNA		
 			product	tRNA-Arg(acg)
 >Feature	Ctg55_length_366998			
 137550	>136648	gene		
@@ -14816,45 +14816,45 @@
 			locus_tag	LWC14_03665
 423894	>423616	CDS		
 			product	hypothetical protein, conserved
-397616	>397542	gene		
+397542	397616	gene		
 			locus_tag	LWC14_07264
-397616	>397542	tRNA		
+397542	397616	tRNA		
 			product	tRNA-Ile(tat)
-397697	>397770	gene		
+397697	397770	gene		
 			locus_tag	LWC14_07265
-397697	>397770	tRNA		
+397697	397770	tRNA		
 			product	tRNA-Lys(ttt)
-398191	>398116	gene		
+398116	398191	gene		
 			locus_tag	LWC14_07266
-398191	>398116	tRNA		
+398116	398191	tRNA		
 			product	tRNA-Lys(ctt)
-398321	>398250	gene		
+398250	398321	gene		
 			locus_tag	LWC14_07267
-398321	>398250	tRNA		
+398250	398321	tRNA		
 			product	tRNA-Trp(cca)
-398416	>398487	gene		
+398416	398487	gene		
 			locus_tag	LWC14_07268
-398416	>398487	tRNA		
+398416	398487	tRNA		
 			product	tRNA-Gly(tcc)
-398551	>398622	gene		
+398551	398622	gene		
 			locus_tag	LWC14_07269
-398551	>398622	tRNA		
+398551	398622	tRNA		
 			product	tRNA-Gln(ttg)
-398708	>398783	gene		
+398708	398783	gene		
 			locus_tag	LWC14_07270
-398708	>398783	tRNA		
+398708	398783	tRNA		
 			product	tRNA-Val(tac)
-398902	>398830	gene		
+398830	398902	gene		
 			locus_tag	LWC14_07271
-398902	>398830	tRNA		
+398830	398902	tRNA		
 			product	tRNA-Arg(tcg)
-399014	>399085	gene		
+399014	399085	gene		
 			locus_tag	LWC14_07272
-399014	>399085	tRNA		
+399014	399085	tRNA		
 			product	tRNA-Thr(tgt)
-399416	>399489	gene		
+399416	399489	gene		
 			locus_tag	LWC14_07273
-399416	>399489	tRNA		
+399416	399489	tRNA		
 			product	tRNA-Lys(ttt)
 >Feature	Ctg70_length_37778			
 5449	>7755	gene		
@@ -14898,13 +14898,13 @@
 			locus_tag	LWC14_03675
 15212	>17485	CDS		
 			product	hypothetical protein
-13289	>13570	gene		
+13289	13570	gene		
 			locus_tag	LWC14_07335
-13289	>13570	rRNA		
+13289	13570	rRNA		
 			product	rRNA 12S mito
-13825	>14203	gene		
+13825	14203	gene		
 			locus_tag	LWC14_07336
-13825	>14203	rRNA		
+13825	14203	rRNA		
 			product	rRNA 9S mito
 >Feature	Ctg56_length_171595			
 78029	>78985	gene		
@@ -15568,41 +15568,41 @@
 			locus_tag	LWC14_03840
 41625	>43280	CDS		
 			product	cdc2-related kinase 8, putative
-174822	>174749	gene		
+174749	174822	gene		
 			locus_tag	LWC14_07320
-174822	>174749	tRNA		
+174749	174822	tRNA		
 			product	tRNA-Ala(cgc)
-174951	>174881	gene		
+174881	174951	gene		
 			locus_tag	LWC14_07321
-174951	>174881	tRNA		
+174881	174951	tRNA		
 			product	tRNA-Gly(ccc)
-175019	>175101	gene		
+175019	175101	gene		
 			locus_tag	LWC14_07322
-175019	>175101	tRNA		
+175019	175101	tRNA		
 			product	tRNA-Leu(aag)
-185186	>185104	gene		
+185104	185186	gene		
 			locus_tag	LWC14_07323
-185186	>185104	tRNA		
+185104	185186	tRNA		
 			product	tRNA-Leu(aag)
-185254	>185324	gene		
+185254	185324	gene		
 			locus_tag	LWC14_07324
-185254	>185324	tRNA		
+185254	185324	tRNA		
 			product	tRNA-Gly(ccc)
-185383	>185456	gene		
+185383	185456	gene		
 			locus_tag	LWC14_07325
-185383	>185456	tRNA		
+185383	185456	tRNA		
 			product	tRNA-Ala(cgc)
-332794	>332721	gene		
+332721	332794	gene		
 			locus_tag	LWC14_07326
-332794	>332721	tRNA		
+332721	332794	tRNA		
 			product	tRNA-Arg(acg)
-332873	>332947	gene		
+332873	332947	gene		
 			locus_tag	LWC14_07327
-332873	>332947	tRNA		
+332873	332947	tRNA		
 			product	tRNA-Met(cat)
-333069	>332998	gene		
+332998	333069	gene		
 			locus_tag	LWC14_07328
-333069	>332998	tRNA		
+332998	333069	tRNA		
 			product	tRNA-Asp(gtc)
 >Feature	Ctg22_length_469092			
 111813	>112286	gene		
@@ -16734,21 +16734,21 @@
 			locus_tag	LWC14_04122
 628048	>629295	CDS		
 			product	hypothetical protein
-394448	>394523	gene		
+394448	394523	gene		
 			locus_tag	LWC14_07297
-394448	>394523	tRNA		
+394448	394523	tRNA		
 			product	tRNA-Ile(aat)
-394620	>394702	gene		
+394620	394702	gene		
 			locus_tag	LWC14_07298
-394620	>394702	tRNA		
+394620	394702	tRNA		
 			product	tRNA-Ser(aga)
-547889	>547816	gene		
+547816	547889	gene		
 			locus_tag	LWC14_07299
-547889	>547816	tRNA		
+547816	547889	tRNA		
 			product	tRNA-Glu(ctc)
-548018	>547948	gene		
+547948	548018	gene		
 			locus_tag	LWC14_07300
-548018	>547948	tRNA		
+547948	548018	tRNA		
 			product	tRNA-Gly(gcc)
 >Feature	Ctg14_length_947886			
 588066	>589016	gene		
@@ -17859,9 +17859,9 @@
 			locus_tag	LWC14_04399
 797863	>792854	CDS		
 			product	hypothetical protein, conserved
-206989	>206902	gene		
+206902	206989	gene		
 			locus_tag	LWC14_07282
-206989	>206902	tRNA		
+206902	206989	tRNA		
 			product	tRNA-SeC(tca)
 >Feature	Ctg77_length_18386			
 5895	>7514	gene		
@@ -18089,9 +18089,9 @@
 			locus_tag	LWC14_04455
 87638	>85233	CDS		
 			product	NPAPL
-60207	>60280	gene		
+60207	60280	gene		
 			locus_tag	LWC14_07329
-60207	>60280	tRNA		
+60207	60280	tRNA		
 			product	tRNA-Arg(acg)
 >Feature	Ctg48_length_582818			
 340795	>346107	gene		
@@ -20475,17 +20475,17 @@
 			locus_tag	LWC14_05049
 240854	>241396	CDS		
 			product	vacuolar transporter chaperone, putative
-383739	>383812	gene		
+383739	383812	gene		
 			locus_tag	LWC14_07274
-383739	>383812	tRNA		
+383739	383812	tRNA		
 			product	tRNA-Ala(agc)
-619187	>619259	gene		
+619187	619259	gene		
 			locus_tag	LWC14_07275
-619187	>619259	tRNA		
+619187	619259	tRNA		
 			product	tRNA-Asn(gtt)
-103	>221	gene		
+103	221	gene		
 			locus_tag	LWC14_07276
-103	>221	rRNA		
+103	221	rRNA		
 			product	rRNA 5S
 >Feature	Ctg28_length_81690			
 4780	>2456	gene		
@@ -22172,17 +22172,17 @@
 			locus_tag	LWC14_05469
 498004	>498456	CDS		
 			product	Mitochondrial ATP synthase subunit c-1
-695837	>695766	gene		
+695766	695837	gene		
 			locus_tag	LWC14_07309
-695837	>695766	tRNA		
+695766	695837	tRNA		
 			product	tRNA-Ala(tgc)
-695929	>696001	gene		
+695929	696001	gene		
 			locus_tag	LWC14_07310
-695929	>696001	tRNA		
+695929	696001	tRNA		
 			product	tRNA-Arg(tct)
-696061	>696135	gene		
+696061	696135	gene		
 			locus_tag	LWC14_07311
-696061	>696135	tRNA		
+696061	696135	tRNA		
 			product	tRNA-Arg(cct)
 >Feature	Ctg74_length_22497			
 17748	>14815	gene		
@@ -23530,9 +23530,9 @@
 			locus_tag	LWC14_05804
 193659	>192316	CDS		
 			product	thymidine kinase
-163407	>163478	gene		
+163407	163478	gene		
 			locus_tag	LWC14_07285
-163407	>163478	tRNA		
+163407	163478	tRNA		
 			product	tRNA-Pro(agg)
 >Feature	Ctg15_length_322852			
 35616	>34039	gene		
@@ -23935,13 +23935,13 @@
 			locus_tag	LWC14_05904
 219587	>221047	CDS		
 			product	ATP-dependent 6-phosphofructokinase, glycosomal
-55860	>55942	gene		
+55860	55942	gene		
 			locus_tag	LWC14_07283
-55860	>55942	tRNA		
+55860	55942	tRNA		
 			product	tRNA-Leu(caa)
-56072	>55992	gene		
+55992	56072	gene		
 			locus_tag	LWC14_07284
-56072	>55992	tRNA		
+55992	56072	tRNA		
 			product	tRNA-Ser(cga)
 >Feature	Ctg63_length_155900			
 41051	>42418	gene		
@@ -26496,9 +26496,9 @@
 			locus_tag	LWC14_06540
 21625	>22098	CDS		
 			product	hypothetical protein, conserved
-180916	>180843	gene		
+180843	180916	gene		
 			locus_tag	LWC14_07312
-180916	>180843	tRNA		
+180843	180916	tRNA		
 			product	tRNA-Ala(agc)
 >Feature	Ctg62_length_353262			
 290073	>288751	gene		
@@ -27514,13 +27514,13 @@
 			locus_tag	LWC14_06793
 129065	>128475	CDS		
 			product	Amastin surface glycoprotein, putative
-160957	>160881	gene		
+160881	160957	gene		
 			locus_tag	LWC14_07277
-160957	>160881	tRNA		
+160881	160957	tRNA		
 			product	tRNA-Ile(gat)
-4056	>1726	gene		
+1726	4056	gene		
 			locus_tag	LWC14_07278
-4056	>1726	rRNA		
+1726	4056	rRNA		
 			product	rRNA 18S
 >Feature	Ctg1_length_335614			
 80336	>81454	gene		
@@ -27923,9 +27923,9 @@
 			locus_tag	LWC14_06893
 91250	>92608	CDS		
 			product	Poly(ADP-ribose) polymerase and DNA-Ligase Zn-finger region/Zinc-finger (CX5CX6HX5H) motif containing protein, putative
-92948	>92877	gene		
+92877	92948	gene		
 			locus_tag	LWC14_07263
-92948	>92877	tRNA		
+92877	92948	tRNA		
 			product	tRNA-Thr(agt)
 >Feature	Ctg73_length_38203			
 29216	>27561	gene		
@@ -28297,13 +28297,13 @@
 			locus_tag	LWC14_06985
 58427	>57810	CDS		
 			product	hypothetical protein
-173931	>173851	gene		
+173851	173931	gene		
 			locus_tag	LWC14_07307
-173931	>173851	tRNA		
+173851	173931	tRNA		
 			product	tRNA-Ser(gct)
-186828	>186748	gene		
+186748	186828	gene		
 			locus_tag	LWC14_07308
-186828	>186748	tRNA		
+186748	186828	tRNA		
 			product	tRNA-Ser(gct)
 >Feature	Ctg11_length_337809			
 101976	>96793	gene		
@@ -29404,20 +29404,20 @@
 			locus_tag	LWC14_07259
 135593	>135925	CDS		
 			product	hypothetical protein
-131805	>131732	gene		
+131732	131805	gene		
 			locus_tag	LWC14_07313
-131805	>131732	tRNA		
+131732	131805	tRNA		
 			product	tRNA-Gln(ctg)
 >Feature	Ctg28_length_82368			
-270	>200	gene		
+200	270	gene		
 			locus_tag	LWC14_07294
-270	>200	tRNA		
+200	270	tRNA		
 			product	tRNA-Pyl(cta)
-403	>330	gene		
+330	403	gene		
 			locus_tag	LWC14_07295
-403	>330	tRNA		
+330	403	tRNA		
 			product	tRNA-Asn(gtt)
-502	>584	gene		
+502	584	gene		
 			locus_tag	LWC14_07296
-502	>584	tRNA		
+502	584	tRNA		
 			product	tRNA-Leu(cag)
