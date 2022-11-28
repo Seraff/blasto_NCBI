@@ -76,50 +76,73 @@ def make_gff_entry(gene_obj):
 
     rows = []
 
-    source = 'nonstop_annotator'
+    source = gene_obj['source']
     product = gene_obj['gene_func'] if gene_obj['gene_func'] else DEFAULT_FUNCTION
 
-    # 1. gene (ID=Pelo_1;locus_tag=Pelo_1)
-    record = [gene_obj['contig_id'], source, 'gene']
-    record.extend(gene_obj['zoi_coords'])
-    record.extend(['.', gene_obj['direction'], gene_obj['frame']])
+    if gene_obj['scheme'] == 'annotation':
 
-    gene_id = gene_obj['locus_tag']
-    description = {'ID': gene_id, 'locus_tag': gene_id}
-    record.append(dict_to_gff_description(description))
-    rows.append(join_gff_list(record))
+        # 1. gene (ID=Pelo_1;locus_tag=Pelo_1)
+        record = [gene_obj['contig_id'], source, 'gene']
+        record.extend(gene_obj['zoi_coords'])
+        record.extend(['.', gene_obj['direction'], gene_obj['frame']])
 
-
-    # 2. mRNA
-    record = [gene_obj['contig_id'], source, 'mRNA']
-    record.extend(gene_obj['zoi_coords'])
-    record.extend(['.', gene_obj['direction'], gene_obj['frame']])
-
-    mrna_id = f"{gene_id}_1"
-    description = {'ID': mrna_id, 'Parent': gene_id, 'product': product}
-    record.append(dict_to_gff_description(description))
-    rows.append(join_gff_list(record))
+        gene_id = gene_obj['locus_tag']
+        description = {'ID': gene_id, 'locus_tag': gene_id}
+        record.append(dict_to_gff_description(description))
+        rows.append(join_gff_list(record))
 
 
-    # 3. exon
-    record = [gene_obj['contig_id'], source, 'exon']
-    record.extend(gene_obj['coords'])
-    record.extend(['.', gene_obj['direction'], gene_obj['frame']])
+        # 2. mRNA
+        record = [gene_obj['contig_id'], source, 'mRNA']
+        record.extend(gene_obj['zoi_coords'])
+        record.extend(['.', gene_obj['direction'], gene_obj['frame']])
 
-    exon_id = f"{gene_id}.exon1"
-    description = {'ID': exon_id, 'Parent': mrna_id, 'product': product}
-    record.append(dict_to_gff_description(description))
-    rows.append(join_gff_list(record))
+        mrna_id = f"{gene_id}_1"
+        description = {'ID': mrna_id, 'Parent': gene_id, 'product': product}
+        record.append(dict_to_gff_description(description))
+        rows.append(join_gff_list(record))
 
-    # 4. CDS
-    record = [gene_obj['contig_id'], source, 'CDS']
-    record.extend(gene_obj['coords'])
-    record.extend(['.', gene_obj['direction'], gene_obj['frame']])
 
-    cds_id = f"cds.{gene_id}"
-    description = {'ID': cds_id, 'Parent': mrna_id, 'product': product}
-    record.append(dict_to_gff_description(description))
-    rows.append(join_gff_list(record))
+        # 3. exon
+        record = [gene_obj['contig_id'], source, 'exon']
+        record.extend(gene_obj['coords'])
+        record.extend(['.', gene_obj['direction'], gene_obj['frame']])
+
+        exon_id = f"{gene_id}.exon1"
+        description = {'ID': exon_id, 'Parent': mrna_id, 'product': product}
+        record.append(dict_to_gff_description(description))
+        rows.append(join_gff_list(record))
+
+        # 4. CDS
+        record = [gene_obj['contig_id'], source, 'CDS']
+        record.extend(gene_obj['coords'])
+        record.extend(['.', gene_obj['direction'], gene_obj['frame']])
+
+        cds_id = f"cds.{gene_id}"
+        description = {'ID': cds_id, 'Parent': mrna_id, 'product': product}
+        record.append(dict_to_gff_description(description))
+        rows.append(join_gff_list(record))
+
+    elif gene_obj['scheme'] == 'trRNA':
+        # 1. gene (ID=Pelo_1;locus_tag=Pelo_1)
+        record = [gene_obj['contig_id'], source, 'gene']
+        record.extend(gene_obj['coords'])
+        record.extend(['.', gene_obj['direction'], gene_obj['frame']])
+
+        gene_id = gene_obj['locus_tag']
+        description = {'ID': gene_id, 'locus_tag': gene_id}
+        record.append(dict_to_gff_description(description))
+        rows.append(join_gff_list(record))
+
+        # 2. t- r- RNA
+        record = [gene_obj['contig_id'], source, gene_obj['type']]
+        record.extend(gene_obj['coords'])
+        record.extend(['.', gene_obj['direction'], gene_obj['frame']])
+
+        mrna_id = f"{gene_id}_1"
+        description = {'ID': mrna_id, 'Parent': gene_id, 'product': product}
+        record.append(dict_to_gff_description(description))
+        rows.append(join_gff_list(record))
 
 
     # [print(e + "\n") for e in rows]
@@ -166,7 +189,6 @@ def main():
 
 
     # Preparing predicted genes, fetch data from functional annotation
-
     with open(FUNC_ANNOT_FILENAME) as f:
         for line in f:
             line = line.strip()
@@ -180,6 +202,8 @@ def main():
                 annotated_genes[contig_id] = []
 
             gene_obj = {}
+
+            gene_obj['scheme'] = 'annotation'
 
             seq_id = splitted[0].split(' ')[0]
             gene_obj['gene_name'] = seq_id
@@ -212,7 +236,7 @@ def main():
                 gene_obj['gene_func'] = func_data['gene_product']
 
             gene_obj['type'] = 'gene'
-            gene_obj['source'] = 'annotation'
+            gene_obj['source'] = 'nonstop_annotator'
 
             annotated_genes[contig_id].append(gene_obj)
 
@@ -224,7 +248,6 @@ def main():
         cnt = 1
 
         for line in f:
-            break
             line = line.strip()
             splitted = line.split('\t')
 
@@ -237,14 +260,19 @@ def main():
 
             gene_obj = {}
 
+            gene_obj['scheme'] = 'trRNA'
+
+            gene_obj['contig_id'] = splitted[0].strip()
+            gene_obj['source'] = splitted[1].strip()
+            gene_obj['type'] = splitted[2].strip()
+
             gene_obj['gene_name'] = uuid.uuid4().hex
             gene_obj['locus_tag'] = f'{LOCUS_PREFIX}_{gene_cnt:05d}'
             gene_obj['coords'] = [int(splitted[3]), int(splitted[4])]
             gene_obj['contig_length'] = int(contig_id.split('_')[-1])
             gene_obj['direction'] = splitted[6].strip()
+            gene_obj['frame'] = splitted[7].strip()
             gene_obj['gene_func'] = splitted[8].split(';')[-1].split('=')[-1]
-            gene_obj['type'] = splitted[2]
-            gene_obj['source'] = 'RNA'
 
             annotated_genes[contig_id].append(gene_obj)
             gene_cnt += 1

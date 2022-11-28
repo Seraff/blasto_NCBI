@@ -1186,6 +1186,8 @@ Ctg17_length_605537	nonstop_annotator	gene	216355	218499	.	+	2	ID=LWC14_00297;lo
 Ctg17_length_605537	nonstop_annotator	mRNA	216355	218499	.	+	2	ID=LWC14_00297_1;Parent=LWC14_00297;product=hypothetical protein, conserved
 Ctg17_length_605537	nonstop_annotator	exon	216501	217304	.	+	2	ID=LWC14_00297.exon1;Parent=LWC14_00297_1;product=hypothetical protein, conserved
 Ctg17_length_605537	nonstop_annotator	CDS	216501	217304	.	+	2	ID=cds.LWC14_00297;Parent=LWC14_00297_1;product=hypothetical protein, conserved
+Ctg17_length_605537	aragorn	gene	524223	524313	.	+	.	ID=LWC14_07286;locus_tag=LWC14_07286
+Ctg17_length_605537	aragorn	tRNA	524223	524313	.	+	.	ID=LWC14_07286_1;Parent=LWC14_07286;product=tRNA-Tyr(gta)
 Ctg72_length_72729	nonstop_annotator	gene	18284	20249	.	+	1	ID=LWC14_00298;locus_tag=LWC14_00298
 Ctg72_length_72729	nonstop_annotator	mRNA	18284	20249	.	+	1	ID=LWC14_00298_1;Parent=LWC14_00298;product=hypothetical protein, conserved
 Ctg72_length_72729	nonstop_annotator	exon	18404	19906	.	+	1	ID=LWC14_00298.exon1;Parent=LWC14_00298_1;product=hypothetical protein, conserved
@@ -2442,6 +2444,8 @@ Ctg65_length_329517	nonstop_annotator	gene	83492	86765	.	-	1	ID=LWC14_00611;locu
 Ctg65_length_329517	nonstop_annotator	mRNA	83492	86765	.	-	1	ID=LWC14_00611_1;Parent=LWC14_00611;product=hypothetical protein
 Ctg65_length_329517	nonstop_annotator	exon	85839	86741	.	-	1	ID=LWC14_00611.exon1;Parent=LWC14_00611_1;product=hypothetical protein
 Ctg65_length_329517	nonstop_annotator	CDS	85839	86741	.	-	1	ID=cds.LWC14_00611;Parent=LWC14_00611_1;product=hypothetical protein
+Ctg65_length_329517	aragorn	gene	160041	160112	.	-	.	ID=LWC14_07333;locus_tag=LWC14_07333
+Ctg65_length_329517	aragorn	tRNA	160041	160112	.	-	.	ID=LWC14_07333_1;Parent=LWC14_07333;product=tRNA-Thr(agt)
 Ctg61_length_82014	nonstop_annotator	gene	42451	44238	.	-	2	ID=LWC14_00612;locus_tag=LWC14_00612
 Ctg61_length_82014	nonstop_annotator	mRNA	42451	44238	.	-	2	ID=LWC14_00612_1;Parent=LWC14_00612;product=Guide RNA binding protein 25
 Ctg61_length_82014	nonstop_annotator	exon	43187	44047	.	-	2	ID=LWC14_00612.exon1;Parent=LWC14_00612_1;product=Guide RNA binding protein 25
@@ -2534,6 +2538,12 @@ Ctg61_length_82014	nonstop_annotator	gene	3347	7319	.	-	2	ID=LWC14_00634;locus_t
 Ctg61_length_82014	nonstop_annotator	mRNA	3347	7319	.	-	2	ID=LWC14_00634_1;Parent=LWC14_00634;product=hypothetical protein
 Ctg61_length_82014	nonstop_annotator	exon	5972	7309	.	-	2	ID=LWC14_00634.exon1;Parent=LWC14_00634_1;product=hypothetical protein
 Ctg61_length_82014	nonstop_annotator	CDS	5972	7309	.	-	2	ID=cds.LWC14_00634;Parent=LWC14_00634_1;product=hypothetical protein
+Ctg61_length_82014	aragorn	gene	23622	23694	.	-	.	ID=LWC14_07330;locus_tag=LWC14_07330
+Ctg61_length_82014	aragorn	tRNA	23622	23694	.	-	.	ID=LWC14_07330_1;Parent=LWC14_07330;product=tRNA-Phe(gaa)
+Ctg61_length_82014	aragorn	gene	23772	23844	.	+	.	ID=LWC14_07331;locus_tag=LWC14_07331
+Ctg61_length_82014	aragorn	tRNA	23772	23844	.	+	.	ID=LWC14_07331_1;Parent=LWC14_07331;product=tRNA-Glu(tta)
+Ctg61_length_82014	aragorn	gene	24027	24100	.	-	.	ID=LWC14_07332;locus_tag=LWC14_07332
+Ctg61_length_82014	aragorn	tRNA	24027	24100	.	-	.	ID=LWC14_07332_1;Parent=LWC14_07332;product=tRNA-Arg(ccg)
 Ctg4_length_196660	nonstop_annotator	gene	23764	26319	.	-	1	ID=LWC14_00635;locus_tag=LWC14_00635
 Ctg4_length_196660	nonstop_annotator	mRNA	23764	26319	.	-	1	ID=LWC14_00635_1;Parent=LWC14_00635;product=hypothetical protein
 Ctg4_length_196660	nonstop_annotator	exon	25150	26142	.	-	1	ID=LWC14_00635.exon1;Parent=LWC14_00635_1;product=hypothetical protein
@@ -3210,6 +3220,18 @@ Ctg50_length_307361	nonstop_annotator	gene	204217	207723	.	+	1	ID=LWC14_00803;lo
 Ctg50_length_307361	nonstop_annotator	mRNA	204217	207723	.	+	1	ID=LWC14_00803_1;Parent=LWC14_00803;product=hypothetical protein
 Ctg50_length_307361	nonstop_annotator	exon	204263	205945	.	+	1	ID=LWC14_00803.exon1;Parent=LWC14_00803_1;product=hypothetical protein
 Ctg50_length_307361	nonstop_annotator	CDS	204263	205945	.	+	1	ID=cds.LWC14_00803;Parent=LWC14_00803_1;product=hypothetical protein
+Ctg50_length_307361	aragorn	gene	8641	8723	.	-	.	ID=LWC14_07314;locus_tag=LWC14_07314
+Ctg50_length_307361	aragorn	tRNA	8641	8723	.	-	.	ID=LWC14_07314_1;Parent=LWC14_07314;product=tRNA-Leu(taa)
+Ctg50_length_307361	aragorn	gene	8980	9051	.	+	.	ID=LWC14_07315;locus_tag=LWC14_07315
+Ctg50_length_307361	aragorn	tRNA	8980	9051	.	+	.	ID=LWC14_07315_1;Parent=LWC14_07315;product=tRNA-Pro(cgg)
+Ctg50_length_307361	aragorn	gene	306977	307051	.	+	.	ID=LWC14_07316;locus_tag=LWC14_07316
+Ctg50_length_307361	aragorn	tRNA	306977	307051	.	+	.	ID=LWC14_07316_1;Parent=LWC14_07316;product=tRNA-Pyl(cta)
+Ctg50_length_307361	blast	gene	813	2696	.	+	.	ID=LWC14_07317;locus_tag=LWC14_07317
+Ctg50_length_307361	blast	rRNA	813	2696	.	+	.	ID=LWC14_07317_1;Parent=LWC14_07317;product=rRNA 28s RNA alpha
+Ctg50_length_307361	blast	gene	3454	4617	.	+	.	ID=LWC14_07318;locus_tag=LWC14_07318
+Ctg50_length_307361	blast	rRNA	3454	4617	.	+	.	ID=LWC14_07318_1;Parent=LWC14_07318;product=rRNA 28s RNA beta
+Ctg50_length_307361	blast	gene	300	470	.	+	.	ID=LWC14_07319;locus_tag=LWC14_07319
+Ctg50_length_307361	blast	rRNA	300	470	.	+	.	ID=LWC14_07319_1;Parent=LWC14_07319;product=rRNA 5.8S
 Ctg13_length_300672	nonstop_annotator	gene	42913	45538	.	-	1	ID=LWC14_00804;locus_tag=LWC14_00804
 Ctg13_length_300672	nonstop_annotator	mRNA	42913	45538	.	-	1	ID=LWC14_00804_1;Parent=LWC14_00804;product=zinc finger protein family member, putative
 Ctg13_length_300672	nonstop_annotator	exon	44418	45275	.	-	1	ID=LWC14_00804.exon1;Parent=LWC14_00804_1;product=zinc finger protein family member, putative
@@ -5526,6 +5548,16 @@ Ctg18_length_1409826	nonstop_annotator	gene	1166506	1168818	.	+	1	ID=LWC14_01382
 Ctg18_length_1409826	nonstop_annotator	mRNA	1166506	1168818	.	+	1	ID=LWC14_01382_1;Parent=LWC14_01382;product=LSU ribosomal protein, mitochondrial, putative
 Ctg18_length_1409826	nonstop_annotator	exon	1166507	1168711	.	+	1	ID=LWC14_01382.exon1;Parent=LWC14_01382_1;product=LSU ribosomal protein, mitochondrial, putative
 Ctg18_length_1409826	nonstop_annotator	CDS	1166507	1168711	.	+	1	ID=cds.LWC14_01382;Parent=LWC14_01382_1;product=LSU ribosomal protein, mitochondrial, putative
+Ctg18_length_1409826	aragorn	gene	117073	117146	.	+	.	ID=LWC14_07287;locus_tag=LWC14_07287
+Ctg18_length_1409826	aragorn	tRNA	117073	117146	.	+	.	ID=LWC14_07287_1;Parent=LWC14_07287;product=tRNA-Asn(gtt)
+Ctg18_length_1409826	aragorn	gene	1061117	1061200	.	-	.	ID=LWC14_07288;locus_tag=LWC14_07288
+Ctg18_length_1409826	aragorn	tRNA	1061117	1061200	.	-	.	ID=LWC14_07288_1;Parent=LWC14_07288;product=tRNA-Leu(aag)
+Ctg18_length_1409826	aragorn	gene	1061281	1061352	.	-	.	ID=LWC14_07289;locus_tag=LWC14_07289
+Ctg18_length_1409826	aragorn	tRNA	1061281	1061352	.	-	.	ID=LWC14_07289_1;Parent=LWC14_07289;product=tRNA-Met(cat)
+Ctg18_length_1409826	aragorn	gene	1061453	1061524	.	+	.	ID=LWC14_07290;locus_tag=LWC14_07290
+Ctg18_length_1409826	aragorn	tRNA	1061453	1061524	.	+	.	ID=LWC14_07290_1;Parent=LWC14_07290;product=tRNA-Pro(tgg)
+Ctg18_length_1409826	aragorn	gene	1061575	1061646	.	-	.	ID=LWC14_07291;locus_tag=LWC14_07291
+Ctg18_length_1409826	aragorn	tRNA	1061575	1061646	.	-	.	ID=LWC14_07291_1;Parent=LWC14_07291;product=tRNA-Cys(gca)
 Ctg43_length_108135	nonstop_annotator	gene	19298	20663	.	+	2	ID=LWC14_01383;locus_tag=LWC14_01383
 Ctg43_length_108135	nonstop_annotator	mRNA	19298	20663	.	+	2	ID=LWC14_01383_1;Parent=LWC14_01383;product=hypothetical protein, conserved
 Ctg43_length_108135	nonstop_annotator	exon	19383	20444	.	+	2	ID=LWC14_01383.exon1;Parent=LWC14_01383_1;product=hypothetical protein, conserved
@@ -7678,6 +7710,12 @@ Ctg0_length_1405360	nonstop_annotator	gene	138584	144064	.	-	0	ID=LWC14_01920;lo
 Ctg0_length_1405360	nonstop_annotator	mRNA	138584	144064	.	-	0	ID=LWC14_01920_1;Parent=LWC14_01920;product=STE/STE11 serine/threonine-protein kinase, putative
 Ctg0_length_1405360	nonstop_annotator	exon	140015	144019	.	-	0	ID=LWC14_01920.exon1;Parent=LWC14_01920_1;product=STE/STE11 serine/threonine-protein kinase, putative
 Ctg0_length_1405360	nonstop_annotator	CDS	140015	144019	.	-	0	ID=cds.LWC14_01920;Parent=LWC14_01920_1;product=STE/STE11 serine/threonine-protein kinase, putative
+Ctg0_length_1405360	aragorn	gene	424882	424955	.	-	.	ID=LWC14_07260;locus_tag=LWC14_07260
+Ctg0_length_1405360	aragorn	tRNA	424882	424955	.	-	.	ID=LWC14_07260_1;Parent=LWC14_07260;product=tRNA-Lys(ctt)
+Ctg0_length_1405360	aragorn	gene	425014	425085	.	-	.	ID=LWC14_07261;locus_tag=LWC14_07261
+Ctg0_length_1405360	aragorn	tRNA	425014	425085	.	-	.	ID=LWC14_07261_1;Parent=LWC14_07261;product=tRNA-Trp(cca)
+Ctg0_length_1405360	aragorn	gene	536938	537009	.	-	.	ID=LWC14_07262;locus_tag=LWC14_07262
+Ctg0_length_1405360	aragorn	tRNA	536938	537009	.	-	.	ID=LWC14_07262_1;Parent=LWC14_07262;product=tRNA-Thr(cgt)
 Ctg39_length_323072	nonstop_annotator	gene	232838	235494	.	+	0	ID=LWC14_01921;locus_tag=LWC14_01921
 Ctg39_length_323072	nonstop_annotator	mRNA	232838	235494	.	+	0	ID=LWC14_01921_1;Parent=LWC14_01921;product=hypothetical protein, conserved
 Ctg39_length_323072	nonstop_annotator	exon	233398	235392	.	+	0	ID=LWC14_01921.exon1;Parent=LWC14_01921_1;product=hypothetical protein, conserved
@@ -8578,6 +8616,8 @@ Ctg71_length_46347	nonstop_annotator	gene	32969	37151	.	-	1	ID=LWC14_02145;locus
 Ctg71_length_46347	nonstop_annotator	mRNA	32969	37151	.	-	1	ID=LWC14_02145_1;Parent=LWC14_02145;product=Lapatinib-binding protein kinase 3
 Ctg71_length_46347	nonstop_annotator	exon	33894	37061	.	-	1	ID=LWC14_02145.exon1;Parent=LWC14_02145_1;product=Lapatinib-binding protein kinase 3
 Ctg71_length_46347	nonstop_annotator	CDS	33894	37061	.	-	1	ID=cds.LWC14_02145;Parent=LWC14_02145_1;product=Lapatinib-binding protein kinase 3
+Ctg71_length_46347	aragorn	gene	21096	21167	.	+	.	ID=LWC14_07334;locus_tag=LWC14_07334
+Ctg71_length_46347	aragorn	tRNA	21096	21167	.	+	.	ID=LWC14_07334_1;Parent=LWC14_07334;product=tRNA-Asp(gtc)
 Ctg12_length_257868	nonstop_annotator	gene	20312	22896	.	+	1	ID=LWC14_02146;locus_tag=LWC14_02146
 Ctg12_length_257868	nonstop_annotator	mRNA	20312	22896	.	+	1	ID=LWC14_02146_1;Parent=LWC14_02146;product=ATP-dependent protease ATPase subunit HslU2
 Ctg12_length_257868	nonstop_annotator	exon	20465	22234	.	+	1	ID=LWC14_02146.exon1;Parent=LWC14_02146_1;product=ATP-dependent protease ATPase subunit HslU2
@@ -8882,6 +8922,12 @@ Ctg12_length_257868	nonstop_annotator	gene	99801	103796	.	+	0	ID=LWC14_02221;loc
 Ctg12_length_257868	nonstop_annotator	mRNA	99801	103796	.	+	0	ID=LWC14_02221_1;Parent=LWC14_02221;product=hypothetical protein
 Ctg12_length_257868	nonstop_annotator	exon	99877	101970	.	+	0	ID=LWC14_02221.exon1;Parent=LWC14_02221_1;product=hypothetical protein
 Ctg12_length_257868	nonstop_annotator	CDS	99877	101970	.	+	0	ID=cds.LWC14_02221;Parent=LWC14_02221_1;product=hypothetical protein
+Ctg12_length_257868	aragorn	gene	244528	244598	.	+	.	ID=LWC14_07279;locus_tag=LWC14_07279
+Ctg12_length_257868	aragorn	tRNA	244528	244598	.	+	.	ID=LWC14_07279_1;Parent=LWC14_07279;product=tRNA-His(gtg)
+Ctg12_length_257868	aragorn	gene	244651	244722	.	-	.	ID=LWC14_07280;locus_tag=LWC14_07280
+Ctg12_length_257868	aragorn	tRNA	244651	244722	.	-	.	ID=LWC14_07280_1;Parent=LWC14_07280;product=tRNA-Glu(ttc)
+Ctg12_length_257868	aragorn	gene	244823	244895	.	+	.	ID=LWC14_07281;locus_tag=LWC14_07281
+Ctg12_length_257868	aragorn	tRNA	244823	244895	.	+	.	ID=LWC14_07281_1;Parent=LWC14_07281;product=tRNA-Phe(gaa)
 Ctg34_length_306897	nonstop_annotator	gene	161710	164303	.	-	0	ID=LWC14_02222;locus_tag=LWC14_02222
 Ctg34_length_306897	nonstop_annotator	mRNA	161710	164303	.	-	0	ID=LWC14_02222_1;Parent=LWC14_02222;product=proteasome regulatory non-ATPase subunit 6
 Ctg34_length_306897	nonstop_annotator	exon	162007	164085	.	-	0	ID=LWC14_02222.exon1;Parent=LWC14_02222_1;product=proteasome regulatory non-ATPase subunit 6
@@ -9154,6 +9200,8 @@ Ctg34_length_306897	nonstop_annotator	gene	227121	227552	.	-	2	ID=LWC14_02289;lo
 Ctg34_length_306897	nonstop_annotator	mRNA	227121	227552	.	-	2	ID=LWC14_02289_1;Parent=LWC14_02289;product=hypothetical protein
 Ctg34_length_306897	nonstop_annotator	exon	227204	227446	.	-	2	ID=LWC14_02289.exon1;Parent=LWC14_02289_1;product=hypothetical protein
 Ctg34_length_306897	nonstop_annotator	CDS	227204	227446	.	-	2	ID=cds.LWC14_02289;Parent=LWC14_02289_1;product=hypothetical protein
+Ctg34_length_306897	aragorn	gene	141591	141664	.	+	.	ID=LWC14_07301;locus_tag=LWC14_07301
+Ctg34_length_306897	aragorn	tRNA	141591	141664	.	+	.	ID=LWC14_07301_1;Parent=LWC14_07301;product=tRNA-Val(cac)
 Ctg8_length_1014657	nonstop_annotator	gene	949774	950935	.	+	1	ID=LWC14_02290;locus_tag=LWC14_02290
 Ctg8_length_1014657	nonstop_annotator	mRNA	949774	950935	.	+	1	ID=LWC14_02290_1;Parent=LWC14_02290;product=hypothetical protein, conserved
 Ctg8_length_1014657	nonstop_annotator	exon	949928	950479	.	+	1	ID=LWC14_02290.exon1;Parent=LWC14_02290_1;product=hypothetical protein, conserved
@@ -11142,6 +11190,16 @@ Ctg35_length_582086	nonstop_annotator	gene	387369	388751	.	+	1	ID=LWC14_02786;lo
 Ctg35_length_582086	nonstop_annotator	mRNA	387369	388751	.	+	1	ID=LWC14_02786_1;Parent=LWC14_02786;product=hypothetical protein
 Ctg35_length_582086	nonstop_annotator	exon	387482	388465	.	+	1	ID=LWC14_02786.exon1;Parent=LWC14_02786_1;product=hypothetical protein
 Ctg35_length_582086	nonstop_annotator	CDS	387482	388465	.	+	1	ID=cds.LWC14_02786;Parent=LWC14_02786_1;product=hypothetical protein
+Ctg35_length_582086	aragorn	gene	558086	558167	.	-	.	ID=LWC14_07302;locus_tag=LWC14_07302
+Ctg35_length_582086	aragorn	tRNA	558086	558167	.	-	.	ID=LWC14_07302_1;Parent=LWC14_07302;product=tRNA-Leu(tag)
+Ctg35_length_582086	aragorn	gene	558259	558342	.	+	.	ID=LWC14_07303;locus_tag=LWC14_07303
+Ctg35_length_582086	aragorn	tRNA	558259	558342	.	+	.	ID=LWC14_07303_1;Parent=LWC14_07303;product=tRNA-Ser(tga)
+Ctg35_length_582086	aragorn	gene	558409	558499	.	-	.	ID=LWC14_07304;locus_tag=LWC14_07304
+Ctg35_length_582086	aragorn	tRNA	558409	558499	.	-	.	ID=LWC14_07304_1;Parent=LWC14_07304;product=tRNA-Tyr(gta)
+Ctg35_length_582086	aragorn	gene	558611	558685	.	+	.	ID=LWC14_07305;locus_tag=LWC14_07305
+Ctg35_length_582086	aragorn	tRNA	558611	558685	.	+	.	ID=LWC14_07305_1;Parent=LWC14_07305;product=tRNA-Val(aac)
+Ctg35_length_582086	aragorn	gene	558745	558819	.	+	.	ID=LWC14_07306;locus_tag=LWC14_07306
+Ctg35_length_582086	aragorn	tRNA	558745	558819	.	+	.	ID=LWC14_07306_1;Parent=LWC14_07306;product=tRNA-Ile(aat)
 Ctg29_length_525938	nonstop_annotator	gene	135685	142858	.	-	1	ID=LWC14_02787;locus_tag=LWC14_02787
 Ctg29_length_525938	nonstop_annotator	mRNA	135685	142858	.	-	1	ID=LWC14_02787_1;Parent=LWC14_02787;product=glutamine hydrolysing (not ammonia-dependent) carbomoyl phosphate synthase, putative
 Ctg29_length_525938	nonstop_annotator	exon	136553	142375	.	-	1	ID=LWC14_02787.exon1;Parent=LWC14_02787_1;product=glutamine hydrolysing (not ammonia-dependent) carbomoyl phosphate synthase, putative
@@ -11842,6 +11900,8 @@ Ctg26_length_141477	nonstop_annotator	gene	86661	91410	.	-	2	ID=LWC14_02961;locu
 Ctg26_length_141477	nonstop_annotator	mRNA	86661	91410	.	-	2	ID=LWC14_02961_1;Parent=LWC14_02961;product=hypothetical protein, conserved
 Ctg26_length_141477	nonstop_annotator	exon	87026	91372	.	-	2	ID=LWC14_02961.exon1;Parent=LWC14_02961_1;product=hypothetical protein, conserved
 Ctg26_length_141477	nonstop_annotator	CDS	87026	91372	.	-	2	ID=cds.LWC14_02961;Parent=LWC14_02961_1;product=hypothetical protein, conserved
+Ctg26_length_141477	aragorn	gene	127476	127547	.	+	.	ID=LWC14_07292;locus_tag=LWC14_07292
+Ctg26_length_141477	aragorn	tRNA	127476	127547	.	+	.	ID=LWC14_07292_1;Parent=LWC14_07292;product=tRNA-Asp(gtc)
 Ctg68_length_114353	nonstop_annotator	gene	71905	73172	.	+	0	ID=LWC14_02962;locus_tag=LWC14_02962
 Ctg68_length_114353	nonstop_annotator	mRNA	71905	73172	.	+	0	ID=LWC14_02962_1;Parent=LWC14_02962;product=succinate dehydrogenase cytochrome B subunit
 Ctg68_length_114353	nonstop_annotator	exon	72013	72474	.	+	0	ID=LWC14_02962.exon1;Parent=LWC14_02962_1;product=succinate dehydrogenase cytochrome B subunit
@@ -13510,6 +13570,8 @@ Ctg27_length_404805	nonstop_annotator	gene	199633	201813	.	-	0	ID=LWC14_03378;lo
 Ctg27_length_404805	nonstop_annotator	mRNA	199633	201813	.	-	0	ID=LWC14_03378_1;Parent=LWC14_03378;product=hypothetical protein, conserved
 Ctg27_length_404805	nonstop_annotator	exon	199798	201666	.	-	0	ID=LWC14_03378.exon1;Parent=LWC14_03378_1;product=hypothetical protein, conserved
 Ctg27_length_404805	nonstop_annotator	CDS	199798	201666	.	-	0	ID=cds.LWC14_03378;Parent=LWC14_03378_1;product=hypothetical protein, conserved
+Ctg27_length_404805	aragorn	gene	52772	52846	.	+	.	ID=LWC14_07293;locus_tag=LWC14_07293
+Ctg27_length_404805	aragorn	tRNA	52772	52846	.	+	.	ID=LWC14_07293_1;Parent=LWC14_07293;product=tRNA-Arg(acg)
 Ctg55_length_366998	nonstop_annotator	gene	136057	137852	.	-	2	ID=LWC14_03379;locus_tag=LWC14_03379
 Ctg55_length_366998	nonstop_annotator	mRNA	136057	137852	.	-	2	ID=LWC14_03379_1;Parent=LWC14_03379;product=KREPA6
 Ctg55_length_366998	nonstop_annotator	exon	136648	137550	.	-	2	ID=LWC14_03379.exon1;Parent=LWC14_03379_1;product=KREPA6
@@ -14658,6 +14720,26 @@ Ctg2_length_511893	nonstop_annotator	gene	423053	424006	.	-	0	ID=LWC14_03665;loc
 Ctg2_length_511893	nonstop_annotator	mRNA	423053	424006	.	-	0	ID=LWC14_03665_1;Parent=LWC14_03665;product=hypothetical protein, conserved
 Ctg2_length_511893	nonstop_annotator	exon	423616	423894	.	-	0	ID=LWC14_03665.exon1;Parent=LWC14_03665_1;product=hypothetical protein, conserved
 Ctg2_length_511893	nonstop_annotator	CDS	423616	423894	.	-	0	ID=cds.LWC14_03665;Parent=LWC14_03665_1;product=hypothetical protein, conserved
+Ctg2_length_511893	aragorn	gene	397542	397616	.	-	.	ID=LWC14_07264;locus_tag=LWC14_07264
+Ctg2_length_511893	aragorn	tRNA	397542	397616	.	-	.	ID=LWC14_07264_1;Parent=LWC14_07264;product=tRNA-Ile(tat)
+Ctg2_length_511893	aragorn	gene	397697	397770	.	+	.	ID=LWC14_07265;locus_tag=LWC14_07265
+Ctg2_length_511893	aragorn	tRNA	397697	397770	.	+	.	ID=LWC14_07265_1;Parent=LWC14_07265;product=tRNA-Lys(ttt)
+Ctg2_length_511893	aragorn	gene	398116	398191	.	-	.	ID=LWC14_07266;locus_tag=LWC14_07266
+Ctg2_length_511893	aragorn	tRNA	398116	398191	.	-	.	ID=LWC14_07266_1;Parent=LWC14_07266;product=tRNA-Lys(ctt)
+Ctg2_length_511893	aragorn	gene	398250	398321	.	-	.	ID=LWC14_07267;locus_tag=LWC14_07267
+Ctg2_length_511893	aragorn	tRNA	398250	398321	.	-	.	ID=LWC14_07267_1;Parent=LWC14_07267;product=tRNA-Trp(cca)
+Ctg2_length_511893	aragorn	gene	398416	398487	.	+	.	ID=LWC14_07268;locus_tag=LWC14_07268
+Ctg2_length_511893	aragorn	tRNA	398416	398487	.	+	.	ID=LWC14_07268_1;Parent=LWC14_07268;product=tRNA-Gly(tcc)
+Ctg2_length_511893	aragorn	gene	398551	398622	.	+	.	ID=LWC14_07269;locus_tag=LWC14_07269
+Ctg2_length_511893	aragorn	tRNA	398551	398622	.	+	.	ID=LWC14_07269_1;Parent=LWC14_07269;product=tRNA-Gln(ttg)
+Ctg2_length_511893	aragorn	gene	398708	398783	.	+	.	ID=LWC14_07270;locus_tag=LWC14_07270
+Ctg2_length_511893	aragorn	tRNA	398708	398783	.	+	.	ID=LWC14_07270_1;Parent=LWC14_07270;product=tRNA-Val(tac)
+Ctg2_length_511893	aragorn	gene	398830	398902	.	-	.	ID=LWC14_07271;locus_tag=LWC14_07271
+Ctg2_length_511893	aragorn	tRNA	398830	398902	.	-	.	ID=LWC14_07271_1;Parent=LWC14_07271;product=tRNA-Arg(tcg)
+Ctg2_length_511893	aragorn	gene	399014	399085	.	+	.	ID=LWC14_07272;locus_tag=LWC14_07272
+Ctg2_length_511893	aragorn	tRNA	399014	399085	.	+	.	ID=LWC14_07272_1;Parent=LWC14_07272;product=tRNA-Thr(tgt)
+Ctg2_length_511893	aragorn	gene	399416	399489	.	+	.	ID=LWC14_07273;locus_tag=LWC14_07273
+Ctg2_length_511893	aragorn	tRNA	399416	399489	.	+	.	ID=LWC14_07273_1;Parent=LWC14_07273;product=tRNA-Lys(ttt)
 Ctg70_length_37778	nonstop_annotator	gene	5355	8219	.	+	0	ID=LWC14_03666;locus_tag=LWC14_03666
 Ctg70_length_37778	nonstop_annotator	mRNA	5355	8219	.	+	0	ID=LWC14_03666_1;Parent=LWC14_03666;product=Mitochondrial SSU ribosomal protein, putative
 Ctg70_length_37778	nonstop_annotator	exon	5449	7755	.	+	0	ID=LWC14_03666.exon1;Parent=LWC14_03666_1;product=Mitochondrial SSU ribosomal protein, putative
@@ -14698,6 +14780,10 @@ Ctg32_length_42107	nonstop_annotator	gene	14944	17502	.	+	1	ID=LWC14_03675;locus
 Ctg32_length_42107	nonstop_annotator	mRNA	14944	17502	.	+	1	ID=LWC14_03675_1;Parent=LWC14_03675;product=hypothetical protein
 Ctg32_length_42107	nonstop_annotator	exon	15212	17485	.	+	1	ID=LWC14_03675.exon1;Parent=LWC14_03675_1;product=hypothetical protein
 Ctg32_length_42107	nonstop_annotator	CDS	15212	17485	.	+	1	ID=cds.LWC14_03675;Parent=LWC14_03675_1;product=hypothetical protein
+Ctg32_length_42107	blast	gene	13289	13570	.	+	.	ID=LWC14_07335;locus_tag=LWC14_07335
+Ctg32_length_42107	blast	rRNA	13289	13570	.	+	.	ID=LWC14_07335_1;Parent=LWC14_07335;product=rRNA 12S mito
+Ctg32_length_42107	blast	gene	13825	14203	.	+	.	ID=LWC14_07336;locus_tag=LWC14_07336
+Ctg32_length_42107	blast	rRNA	13825	14203	.	+	.	ID=LWC14_07336_1;Parent=LWC14_07336;product=rRNA 9S mito
 Ctg56_length_171595	nonstop_annotator	gene	77916	79402	.	+	1	ID=LWC14_03676;locus_tag=LWC14_03676
 Ctg56_length_171595	nonstop_annotator	mRNA	77916	79402	.	+	1	ID=LWC14_03676_1;Parent=LWC14_03676;product=hypothetical protein, conserved
 Ctg56_length_171595	nonstop_annotator	exon	78029	78985	.	+	1	ID=LWC14_03676.exon1;Parent=LWC14_03676_1;product=hypothetical protein, conserved
@@ -15358,6 +15444,24 @@ Ctg51_length_441521	nonstop_annotator	gene	41621	43390	.	+	2	ID=LWC14_03840;locu
 Ctg51_length_441521	nonstop_annotator	mRNA	41621	43390	.	+	2	ID=LWC14_03840_1;Parent=LWC14_03840;product=cdc2-related kinase 8, putative
 Ctg51_length_441521	nonstop_annotator	exon	41625	43280	.	+	2	ID=LWC14_03840.exon1;Parent=LWC14_03840_1;product=cdc2-related kinase 8, putative
 Ctg51_length_441521	nonstop_annotator	CDS	41625	43280	.	+	2	ID=cds.LWC14_03840;Parent=LWC14_03840_1;product=cdc2-related kinase 8, putative
+Ctg51_length_441521	aragorn	gene	174749	174822	.	-	.	ID=LWC14_07320;locus_tag=LWC14_07320
+Ctg51_length_441521	aragorn	tRNA	174749	174822	.	-	.	ID=LWC14_07320_1;Parent=LWC14_07320;product=tRNA-Ala(cgc)
+Ctg51_length_441521	aragorn	gene	174881	174951	.	-	.	ID=LWC14_07321;locus_tag=LWC14_07321
+Ctg51_length_441521	aragorn	tRNA	174881	174951	.	-	.	ID=LWC14_07321_1;Parent=LWC14_07321;product=tRNA-Gly(ccc)
+Ctg51_length_441521	aragorn	gene	175019	175101	.	+	.	ID=LWC14_07322;locus_tag=LWC14_07322
+Ctg51_length_441521	aragorn	tRNA	175019	175101	.	+	.	ID=LWC14_07322_1;Parent=LWC14_07322;product=tRNA-Leu(aag)
+Ctg51_length_441521	aragorn	gene	185104	185186	.	-	.	ID=LWC14_07323;locus_tag=LWC14_07323
+Ctg51_length_441521	aragorn	tRNA	185104	185186	.	-	.	ID=LWC14_07323_1;Parent=LWC14_07323;product=tRNA-Leu(aag)
+Ctg51_length_441521	aragorn	gene	185254	185324	.	+	.	ID=LWC14_07324;locus_tag=LWC14_07324
+Ctg51_length_441521	aragorn	tRNA	185254	185324	.	+	.	ID=LWC14_07324_1;Parent=LWC14_07324;product=tRNA-Gly(ccc)
+Ctg51_length_441521	aragorn	gene	185383	185456	.	+	.	ID=LWC14_07325;locus_tag=LWC14_07325
+Ctg51_length_441521	aragorn	tRNA	185383	185456	.	+	.	ID=LWC14_07325_1;Parent=LWC14_07325;product=tRNA-Ala(cgc)
+Ctg51_length_441521	aragorn	gene	332721	332794	.	-	.	ID=LWC14_07326;locus_tag=LWC14_07326
+Ctg51_length_441521	aragorn	tRNA	332721	332794	.	-	.	ID=LWC14_07326_1;Parent=LWC14_07326;product=tRNA-Arg(acg)
+Ctg51_length_441521	aragorn	gene	332873	332947	.	+	.	ID=LWC14_07327;locus_tag=LWC14_07327
+Ctg51_length_441521	aragorn	tRNA	332873	332947	.	+	.	ID=LWC14_07327_1;Parent=LWC14_07327;product=tRNA-Met(cat)
+Ctg51_length_441521	aragorn	gene	332998	333069	.	-	.	ID=LWC14_07328;locus_tag=LWC14_07328
+Ctg51_length_441521	aragorn	tRNA	332998	333069	.	-	.	ID=LWC14_07328_1;Parent=LWC14_07328;product=tRNA-Asp(gtc)
 Ctg22_length_469092	nonstop_annotator	gene	111691	112464	.	+	2	ID=LWC14_03841;locus_tag=LWC14_03841
 Ctg22_length_469092	nonstop_annotator	mRNA	111691	112464	.	+	2	ID=LWC14_03841_1;Parent=LWC14_03841;product=Cardiolipin-dependent protein 18kDa
 Ctg22_length_469092	nonstop_annotator	exon	111813	112286	.	+	2	ID=LWC14_03841.exon1;Parent=LWC14_03841_1;product=Cardiolipin-dependent protein 18kDa
@@ -16486,6 +16590,14 @@ Ctg30_length_652959	nonstop_annotator	gene	627720	630557	.	+	0	ID=LWC14_04122;lo
 Ctg30_length_652959	nonstop_annotator	mRNA	627720	630557	.	+	0	ID=LWC14_04122_1;Parent=LWC14_04122;product=hypothetical protein
 Ctg30_length_652959	nonstop_annotator	exon	628048	629295	.	+	0	ID=LWC14_04122.exon1;Parent=LWC14_04122_1;product=hypothetical protein
 Ctg30_length_652959	nonstop_annotator	CDS	628048	629295	.	+	0	ID=cds.LWC14_04122;Parent=LWC14_04122_1;product=hypothetical protein
+Ctg30_length_652959	aragorn	gene	394448	394523	.	+	.	ID=LWC14_07297;locus_tag=LWC14_07297
+Ctg30_length_652959	aragorn	tRNA	394448	394523	.	+	.	ID=LWC14_07297_1;Parent=LWC14_07297;product=tRNA-Ile(aat)
+Ctg30_length_652959	aragorn	gene	394620	394702	.	+	.	ID=LWC14_07298;locus_tag=LWC14_07298
+Ctg30_length_652959	aragorn	tRNA	394620	394702	.	+	.	ID=LWC14_07298_1;Parent=LWC14_07298;product=tRNA-Ser(aga)
+Ctg30_length_652959	aragorn	gene	547816	547889	.	-	.	ID=LWC14_07299;locus_tag=LWC14_07299
+Ctg30_length_652959	aragorn	tRNA	547816	547889	.	-	.	ID=LWC14_07299_1;Parent=LWC14_07299;product=tRNA-Glu(ctc)
+Ctg30_length_652959	aragorn	gene	547948	548018	.	-	.	ID=LWC14_07300;locus_tag=LWC14_07300
+Ctg30_length_652959	aragorn	tRNA	547948	548018	.	-	.	ID=LWC14_07300_1;Parent=LWC14_07300;product=tRNA-Gly(gcc)
 Ctg14_length_947886	nonstop_annotator	gene	587883	590129	.	+	2	ID=LWC14_04123;locus_tag=LWC14_04123
 Ctg14_length_947886	nonstop_annotator	mRNA	587883	590129	.	+	2	ID=LWC14_04123_1;Parent=LWC14_04123;product=mitochondrial malate dehydrogenase
 Ctg14_length_947886	nonstop_annotator	exon	588066	589016	.	+	2	ID=LWC14_04123.exon1;Parent=LWC14_04123_1;product=mitochondrial malate dehydrogenase
@@ -17594,6 +17706,8 @@ Ctg14_length_947886	nonstop_annotator	gene	792415	797943	.	-	2	ID=LWC14_04399;lo
 Ctg14_length_947886	nonstop_annotator	mRNA	792415	797943	.	-	2	ID=LWC14_04399_1;Parent=LWC14_04399;product=hypothetical protein, conserved
 Ctg14_length_947886	nonstop_annotator	exon	792854	797863	.	-	2	ID=LWC14_04399.exon1;Parent=LWC14_04399_1;product=hypothetical protein, conserved
 Ctg14_length_947886	nonstop_annotator	CDS	792854	797863	.	-	2	ID=cds.LWC14_04399;Parent=LWC14_04399_1;product=hypothetical protein, conserved
+Ctg14_length_947886	aragorn	gene	206902	206989	.	-	.	ID=LWC14_07282;locus_tag=LWC14_07282
+Ctg14_length_947886	aragorn	tRNA	206902	206989	.	-	.	ID=LWC14_07282_1;Parent=LWC14_07282;product=tRNA-SeC(tca)
 Ctg77_length_18386	nonstop_annotator	gene	5777	8060	.	+	2	ID=LWC14_04400;locus_tag=LWC14_04400
 Ctg77_length_18386	nonstop_annotator	mRNA	5777	8060	.	+	2	ID=LWC14_04400_1;Parent=LWC14_04400;product=expression site-associated gene (ESAG) protein, putative
 Ctg77_length_18386	nonstop_annotator	exon	5895	7514	.	+	2	ID=LWC14_04400.exon1;Parent=LWC14_04400_1;product=expression site-associated gene (ESAG) protein, putative
@@ -17818,6 +17932,8 @@ Ctg52_length_198271	nonstop_annotator	gene	84569	87730	.	-	2	ID=LWC14_04455;locu
 Ctg52_length_198271	nonstop_annotator	mRNA	84569	87730	.	-	2	ID=LWC14_04455_1;Parent=LWC14_04455;product=NPAPL
 Ctg52_length_198271	nonstop_annotator	exon	85233	87638	.	-	2	ID=LWC14_04455.exon1;Parent=LWC14_04455_1;product=NPAPL
 Ctg52_length_198271	nonstop_annotator	CDS	85233	87638	.	-	2	ID=cds.LWC14_04455;Parent=LWC14_04455_1;product=NPAPL
+Ctg52_length_198271	aragorn	gene	60207	60280	.	+	.	ID=LWC14_07329;locus_tag=LWC14_07329
+Ctg52_length_198271	aragorn	tRNA	60207	60280	.	+	.	ID=LWC14_07329_1;Parent=LWC14_07329;product=tRNA-Arg(acg)
 Ctg48_length_582818	nonstop_annotator	gene	340427	346697	.	+	0	ID=LWC14_04456;locus_tag=LWC14_04456
 Ctg48_length_582818	nonstop_annotator	mRNA	340427	346697	.	+	0	ID=LWC14_04456_1;Parent=LWC14_04456;product=hypothetical protein, conserved
 Ctg48_length_582818	nonstop_annotator	exon	340795	346107	.	+	0	ID=LWC14_04456.exon1;Parent=LWC14_04456_1;product=hypothetical protein, conserved
@@ -20194,6 +20310,12 @@ Ctg5_length_914768	nonstop_annotator	gene	240701	242009	.	+	1	ID=LWC14_05049;loc
 Ctg5_length_914768	nonstop_annotator	mRNA	240701	242009	.	+	1	ID=LWC14_05049_1;Parent=LWC14_05049;product=vacuolar transporter chaperone, putative
 Ctg5_length_914768	nonstop_annotator	exon	240854	241396	.	+	1	ID=LWC14_05049.exon1;Parent=LWC14_05049_1;product=vacuolar transporter chaperone, putative
 Ctg5_length_914768	nonstop_annotator	CDS	240854	241396	.	+	1	ID=cds.LWC14_05049;Parent=LWC14_05049_1;product=vacuolar transporter chaperone, putative
+Ctg5_length_914768	aragorn	gene	383739	383812	.	+	.	ID=LWC14_07274;locus_tag=LWC14_07274
+Ctg5_length_914768	aragorn	tRNA	383739	383812	.	+	.	ID=LWC14_07274_1;Parent=LWC14_07274;product=tRNA-Ala(agc)
+Ctg5_length_914768	aragorn	gene	619187	619259	.	+	.	ID=LWC14_07275;locus_tag=LWC14_07275
+Ctg5_length_914768	aragorn	tRNA	619187	619259	.	+	.	ID=LWC14_07275_1;Parent=LWC14_07275;product=tRNA-Asn(gtt)
+Ctg5_length_914768	blast	gene	103	221	.	+	.	ID=LWC14_07276;locus_tag=LWC14_07276
+Ctg5_length_914768	blast	rRNA	103	221	.	+	.	ID=LWC14_07276_1;Parent=LWC14_07276;product=rRNA 5S
 Ctg28_length_81690	nonstop_annotator	gene	755	6291	.	-	2	ID=LWC14_05050;locus_tag=LWC14_05050
 Ctg28_length_81690	nonstop_annotator	mRNA	755	6291	.	-	2	ID=LWC14_05050_1;Parent=LWC14_05050;product=hypothetical protein
 Ctg28_length_81690	nonstop_annotator	exon	2456	4780	.	-	2	ID=LWC14_05050.exon1;Parent=LWC14_05050_1;product=hypothetical protein
@@ -21874,6 +21996,12 @@ Ctg41_length_853671	nonstop_annotator	gene	497830	499075	.	+	0	ID=LWC14_05469;lo
 Ctg41_length_853671	nonstop_annotator	mRNA	497830	499075	.	+	0	ID=LWC14_05469_1;Parent=LWC14_05469;product=Mitochondrial ATP synthase subunit c-1
 Ctg41_length_853671	nonstop_annotator	exon	498004	498456	.	+	0	ID=LWC14_05469.exon1;Parent=LWC14_05469_1;product=Mitochondrial ATP synthase subunit c-1
 Ctg41_length_853671	nonstop_annotator	CDS	498004	498456	.	+	0	ID=cds.LWC14_05469;Parent=LWC14_05469_1;product=Mitochondrial ATP synthase subunit c-1
+Ctg41_length_853671	aragorn	gene	695766	695837	.	-	.	ID=LWC14_07309;locus_tag=LWC14_07309
+Ctg41_length_853671	aragorn	tRNA	695766	695837	.	-	.	ID=LWC14_07309_1;Parent=LWC14_07309;product=tRNA-Ala(tgc)
+Ctg41_length_853671	aragorn	gene	695929	696001	.	+	.	ID=LWC14_07310;locus_tag=LWC14_07310
+Ctg41_length_853671	aragorn	tRNA	695929	696001	.	+	.	ID=LWC14_07310_1;Parent=LWC14_07310;product=tRNA-Arg(tct)
+Ctg41_length_853671	aragorn	gene	696061	696135	.	+	.	ID=LWC14_07311;locus_tag=LWC14_07311
+Ctg41_length_853671	aragorn	tRNA	696061	696135	.	+	.	ID=LWC14_07311_1;Parent=LWC14_07311;product=tRNA-Arg(cct)
 Ctg74_length_22497	nonstop_annotator	gene	12260	17994	.	-	0	ID=LWC14_05470;locus_tag=LWC14_05470
 Ctg74_length_22497	nonstop_annotator	mRNA	12260	17994	.	-	0	ID=LWC14_05470_1;Parent=LWC14_05470;product=Leucine-rich repeat domain containing protein
 Ctg74_length_22497	nonstop_annotator	exon	14815	17748	.	-	0	ID=LWC14_05470.exon1;Parent=LWC14_05470_1;product=Leucine-rich repeat domain containing protein
@@ -23214,6 +23342,8 @@ Ctg16_length_250046	nonstop_annotator	gene	191187	193893	.	-	2	ID=LWC14_05804;lo
 Ctg16_length_250046	nonstop_annotator	mRNA	191187	193893	.	-	2	ID=LWC14_05804_1;Parent=LWC14_05804;product=thymidine kinase
 Ctg16_length_250046	nonstop_annotator	exon	192316	193659	.	-	2	ID=LWC14_05804.exon1;Parent=LWC14_05804_1;product=thymidine kinase
 Ctg16_length_250046	nonstop_annotator	CDS	192316	193659	.	-	2	ID=cds.LWC14_05804;Parent=LWC14_05804_1;product=thymidine kinase
+Ctg16_length_250046	aragorn	gene	163407	163478	.	+	.	ID=LWC14_07285;locus_tag=LWC14_07285
+Ctg16_length_250046	aragorn	tRNA	163407	163478	.	+	.	ID=LWC14_07285_1;Parent=LWC14_07285;product=tRNA-Pro(agg)
 Ctg15_length_322852	nonstop_annotator	gene	33614	35757	.	-	1	ID=LWC14_05805;locus_tag=LWC14_05805
 Ctg15_length_322852	nonstop_annotator	mRNA	33614	35757	.	-	1	ID=LWC14_05805_1;Parent=LWC14_05805;product=dihydrolipoamide dehydrogenase
 Ctg15_length_322852	nonstop_annotator	exon	34039	35616	.	-	1	ID=LWC14_05805.exon1;Parent=LWC14_05805_1;product=dihydrolipoamide dehydrogenase
@@ -23614,6 +23744,10 @@ Ctg15_length_322852	nonstop_annotator	gene	218207	223337	.	+	1	ID=LWC14_05904;lo
 Ctg15_length_322852	nonstop_annotator	mRNA	218207	223337	.	+	1	ID=LWC14_05904_1;Parent=LWC14_05904;product=ATP-dependent 6-phosphofructokinase, glycosomal
 Ctg15_length_322852	nonstop_annotator	exon	219587	221047	.	+	1	ID=LWC14_05904.exon1;Parent=LWC14_05904_1;product=ATP-dependent 6-phosphofructokinase, glycosomal
 Ctg15_length_322852	nonstop_annotator	CDS	219587	221047	.	+	1	ID=cds.LWC14_05904;Parent=LWC14_05904_1;product=ATP-dependent 6-phosphofructokinase, glycosomal
+Ctg15_length_322852	aragorn	gene	55860	55942	.	+	.	ID=LWC14_07283;locus_tag=LWC14_07283
+Ctg15_length_322852	aragorn	tRNA	55860	55942	.	+	.	ID=LWC14_07283_1;Parent=LWC14_07283;product=tRNA-Leu(caa)
+Ctg15_length_322852	aragorn	gene	55992	56072	.	-	.	ID=LWC14_07284;locus_tag=LWC14_07284
+Ctg15_length_322852	aragorn	tRNA	55992	56072	.	-	.	ID=LWC14_07284_1;Parent=LWC14_07284;product=tRNA-Ser(cga)
 Ctg63_length_155900	nonstop_annotator	gene	40949	42878	.	+	1	ID=LWC14_05905;locus_tag=LWC14_05905
 Ctg63_length_155900	nonstop_annotator	mRNA	40949	42878	.	+	1	ID=LWC14_05905_1;Parent=LWC14_05905;product=Present in the outer mitochondrial membrane proteome 11
 Ctg63_length_155900	nonstop_annotator	exon	41051	42418	.	+	1	ID=LWC14_05905.exon1;Parent=LWC14_05905_1;product=Present in the outer mitochondrial membrane proteome 11
@@ -26158,6 +26292,8 @@ Ctg45_length_311575	nonstop_annotator	gene	21448	22454	.	+	0	ID=LWC14_06540;locu
 Ctg45_length_311575	nonstop_annotator	mRNA	21448	22454	.	+	0	ID=LWC14_06540_1;Parent=LWC14_06540;product=hypothetical protein, conserved
 Ctg45_length_311575	nonstop_annotator	exon	21625	22098	.	+	0	ID=LWC14_06540.exon1;Parent=LWC14_06540_1;product=hypothetical protein, conserved
 Ctg45_length_311575	nonstop_annotator	CDS	21625	22098	.	+	0	ID=cds.LWC14_06540;Parent=LWC14_06540_1;product=hypothetical protein, conserved
+Ctg45_length_311575	aragorn	gene	180843	180916	.	-	.	ID=LWC14_07312;locus_tag=LWC14_07312
+Ctg45_length_311575	aragorn	tRNA	180843	180916	.	-	.	ID=LWC14_07312_1;Parent=LWC14_07312;product=tRNA-Ala(agc)
 Ctg62_length_353262	nonstop_annotator	gene	287847	290325	.	-	0	ID=LWC14_06541;locus_tag=LWC14_06541
 Ctg62_length_353262	nonstop_annotator	mRNA	287847	290325	.	-	0	ID=LWC14_06541_1;Parent=LWC14_06541;product=nucleolar RNA binding protein, putative
 Ctg62_length_353262	nonstop_annotator	exon	288751	290073	.	-	0	ID=LWC14_06541.exon1;Parent=LWC14_06541_1;product=nucleolar RNA binding protein, putative
@@ -27170,6 +27306,10 @@ Ctg6_length_518510	nonstop_annotator	gene	126875	129291	.	-	0	ID=LWC14_06793;loc
 Ctg6_length_518510	nonstop_annotator	mRNA	126875	129291	.	-	0	ID=LWC14_06793_1;Parent=LWC14_06793;product=Amastin surface glycoprotein, putative
 Ctg6_length_518510	nonstop_annotator	exon	128475	129065	.	-	0	ID=LWC14_06793.exon1;Parent=LWC14_06793_1;product=Amastin surface glycoprotein, putative
 Ctg6_length_518510	nonstop_annotator	CDS	128475	129065	.	-	0	ID=cds.LWC14_06793;Parent=LWC14_06793_1;product=Amastin surface glycoprotein, putative
+Ctg6_length_518510	aragorn	gene	160881	160957	.	-	.	ID=LWC14_07277;locus_tag=LWC14_07277
+Ctg6_length_518510	aragorn	tRNA	160881	160957	.	-	.	ID=LWC14_07277_1;Parent=LWC14_07277;product=tRNA-Ile(gat)
+Ctg6_length_518510	blast	gene	1726	4056	.	-	.	ID=LWC14_07278;locus_tag=LWC14_07278
+Ctg6_length_518510	blast	rRNA	1726	4056	.	-	.	ID=LWC14_07278_1;Parent=LWC14_07278;product=rRNA 18S
 Ctg1_length_335614	nonstop_annotator	gene	80214	82403	.	+	1	ID=LWC14_06794;locus_tag=LWC14_06794
 Ctg1_length_335614	nonstop_annotator	mRNA	80214	82403	.	+	1	ID=LWC14_06794_1;Parent=LWC14_06794;product=fructose-bisphosphate aldolase, glycosomal, putative
 Ctg1_length_335614	nonstop_annotator	exon	80336	81454	.	+	1	ID=LWC14_06794.exon1;Parent=LWC14_06794_1;product=fructose-bisphosphate aldolase, glycosomal, putative
@@ -27570,6 +27710,8 @@ Ctg1_length_335614	nonstop_annotator	gene	91182	92820	.	+	1	ID=LWC14_06893;locus
 Ctg1_length_335614	nonstop_annotator	mRNA	91182	92820	.	+	1	ID=LWC14_06893_1;Parent=LWC14_06893;product=Poly(ADP-ribose) polymerase and DNA-Ligase Zn-finger region/Zinc-finger (CX5CX6HX5H) motif containing protein, putative
 Ctg1_length_335614	nonstop_annotator	exon	91250	92608	.	+	1	ID=LWC14_06893.exon1;Parent=LWC14_06893_1;product=Poly(ADP-ribose) polymerase and DNA-Ligase Zn-finger region/Zinc-finger (CX5CX6HX5H) motif containing protein, putative
 Ctg1_length_335614	nonstop_annotator	CDS	91250	92608	.	+	1	ID=cds.LWC14_06893;Parent=LWC14_06893_1;product=Poly(ADP-ribose) polymerase and DNA-Ligase Zn-finger region/Zinc-finger (CX5CX6HX5H) motif containing protein, putative
+Ctg1_length_335614	aragorn	gene	92877	92948	.	-	.	ID=LWC14_07263;locus_tag=LWC14_07263
+Ctg1_length_335614	aragorn	tRNA	92877	92948	.	-	.	ID=LWC14_07263_1;Parent=LWC14_07263;product=tRNA-Thr(agt)
 Ctg73_length_38203	nonstop_annotator	gene	26677	29439	.	-	2	ID=LWC14_06894;locus_tag=LWC14_06894
 Ctg73_length_38203	nonstop_annotator	mRNA	26677	29439	.	-	2	ID=LWC14_06894_1;Parent=LWC14_06894;product=Guide RNA binding complex protein 6
 Ctg73_length_38203	nonstop_annotator	exon	27561	29216	.	-	2	ID=LWC14_06894.exon1;Parent=LWC14_06894_1;product=Guide RNA binding complex protein 6
@@ -27938,6 +28080,10 @@ Ctg38_length_238073	nonstop_annotator	gene	56877	58941	.	-	0	ID=LWC14_06985;locu
 Ctg38_length_238073	nonstop_annotator	mRNA	56877	58941	.	-	0	ID=LWC14_06985_1;Parent=LWC14_06985;product=hypothetical protein
 Ctg38_length_238073	nonstop_annotator	exon	57810	58427	.	-	0	ID=LWC14_06985.exon1;Parent=LWC14_06985_1;product=hypothetical protein
 Ctg38_length_238073	nonstop_annotator	CDS	57810	58427	.	-	0	ID=cds.LWC14_06985;Parent=LWC14_06985_1;product=hypothetical protein
+Ctg38_length_238073	aragorn	gene	173851	173931	.	-	.	ID=LWC14_07307;locus_tag=LWC14_07307
+Ctg38_length_238073	aragorn	tRNA	173851	173931	.	-	.	ID=LWC14_07307_1;Parent=LWC14_07307;product=tRNA-Ser(gct)
+Ctg38_length_238073	aragorn	gene	186748	186828	.	-	.	ID=LWC14_07308;locus_tag=LWC14_07308
+Ctg38_length_238073	aragorn	tRNA	186748	186828	.	-	.	ID=LWC14_07308_1;Parent=LWC14_07308;product=tRNA-Ser(gct)
 Ctg11_length_337809	nonstop_annotator	gene	95894	102075	.	-	0	ID=LWC14_06986;locus_tag=LWC14_06986
 Ctg11_length_337809	nonstop_annotator	mRNA	95894	102075	.	-	0	ID=LWC14_06986_1;Parent=LWC14_06986;product=WD domain, G-beta repeat, putative
 Ctg11_length_337809	nonstop_annotator	exon	96793	101976	.	-	0	ID=LWC14_06986.exon1;Parent=LWC14_06986_1;product=WD domain, G-beta repeat, putative
@@ -29034,3 +29180,11 @@ Ctg47_length_425809	nonstop_annotator	gene	135560	135977	.	+	1	ID=LWC14_07259;lo
 Ctg47_length_425809	nonstop_annotator	mRNA	135560	135977	.	+	1	ID=LWC14_07259_1;Parent=LWC14_07259;product=hypothetical protein
 Ctg47_length_425809	nonstop_annotator	exon	135593	135925	.	+	1	ID=LWC14_07259.exon1;Parent=LWC14_07259_1;product=hypothetical protein
 Ctg47_length_425809	nonstop_annotator	CDS	135593	135925	.	+	1	ID=cds.LWC14_07259;Parent=LWC14_07259_1;product=hypothetical protein
+Ctg47_length_425809	aragorn	gene	131732	131805	.	-	.	ID=LWC14_07313;locus_tag=LWC14_07313
+Ctg47_length_425809	aragorn	tRNA	131732	131805	.	-	.	ID=LWC14_07313_1;Parent=LWC14_07313;product=tRNA-Gln(ctg)
+Ctg28_length_82368	aragorn	gene	200	270	.	-	.	ID=LWC14_07294;locus_tag=LWC14_07294
+Ctg28_length_82368	aragorn	tRNA	200	270	.	-	.	ID=LWC14_07294_1;Parent=LWC14_07294;product=tRNA-Pyl(cta)
+Ctg28_length_82368	aragorn	gene	330	403	.	-	.	ID=LWC14_07295;locus_tag=LWC14_07295
+Ctg28_length_82368	aragorn	tRNA	330	403	.	-	.	ID=LWC14_07295_1;Parent=LWC14_07295;product=tRNA-Asn(gtt)
+Ctg28_length_82368	aragorn	gene	502	584	.	+	.	ID=LWC14_07296;locus_tag=LWC14_07296
+Ctg28_length_82368	aragorn	tRNA	502	584	.	+	.	ID=LWC14_07296_1;Parent=LWC14_07296;product=tRNA-Leu(cag)
