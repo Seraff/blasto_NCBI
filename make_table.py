@@ -2,11 +2,14 @@
 from Bio import SeqIO
 from pprint import pprint
 import uuid
+import csv
+
+from natsort import os_sorted
 
 GENES_FILENAME = 'genes.fasta'
 FUNC_ANNOT_FILENAME = 'func_annot.tsv'
 STRUCT_ANNOT_FILENAME = 'struct_annot.gff'
-RNA_ANNOT_FILENAME = 't_r_rnas.gff'
+TR_RNA_TABLE = 't_r_rnas.tsv'
 OUTPUT_PATH = 'final/result.gff'
 # OUTPUT_PATH = 'final/LWC14.tbl'
 
@@ -189,15 +192,10 @@ def main():
 
 
     # Preparing predicted genes, fetch data from functional annotation
-    with open(FUNC_ANNOT_FILENAME) as f:
-        for line in f:
-            line = line.strip()
-            if line == '' or line.startswith('qseqid'):
-                continue
+    with open(FUNC_ANNOT_FILENAME, newline='') as f:
+        for csv_rec in csv.DictReader(f, delimiter='\t'):
+            contig_id = csv_rec['qseqid'].split(' ')[1].split('|')[0]
 
-            splitted = line.split('\t')
-
-            contig_id = splitted[0].split(' ')[1].split('|')[0]
             if contig_id not in annotated_genes:
                 annotated_genes[contig_id] = []
 
@@ -205,11 +203,11 @@ def main():
 
             gene_obj['scheme'] = 'annotation'
 
-            seq_id = splitted[0].split(' ')[0]
+            seq_id = csv_rec['qseqid'].split(' ')[0]
             gene_obj['gene_name'] = seq_id
             gene_obj['locus_tag'] = f'{LOCUS_PREFIX}_{gene_cnt:05d}'
 
-            gene_obj['coords'] = splitted[0].split('|')[1].split('-')
+            gene_obj['coords'] = csv_rec['qseqid'].split('|')[1].split('-')
             gene_obj['coords'] = [int(e) for e in gene_obj['coords']]
 
             key_coords = tuple([int(e) for e in gene_obj['coords']])
@@ -227,13 +225,10 @@ def main():
             contig_length = int(contig_id.split('_')[-1])
             gene_obj['contig_length'] = contig_length
 
-            if 'no hit found' in splitted[-1]:
+            if 'no hit found' in csv_rec['sseqdef']:
                 gene_obj['gene_func'] = None
             else:
-                func_data = [e.strip() for e in splitted[3].split('|')]
-                func_data = dict([e.split('=') for e in func_data if e != ''])
-
-                gene_obj['gene_func'] = func_data['gene_product']
+                gene_obj['gene_func'] = csv_rec['sseqdef']
 
             gene_obj['type'] = 'gene'
             gene_obj['source'] = 'nonstop_annotator'
@@ -242,42 +237,8 @@ def main():
 
             gene_cnt += 1
 
-    # preparing RNAs
 
-    with open(RNA_ANNOT_FILENAME) as f:
-        cnt = 1
-
-        for line in f:
-            line = line.strip()
-            splitted = line.split('\t')
-
-            if line == '' or splitted[2] == 'gene':
-                continue
-
-            contig_id = splitted[0]
-            if contig_id not in annotated_genes:
-                annotated_genes[contig_id] = []
-
-            gene_obj = {}
-
-            gene_obj['scheme'] = 'trRNA'
-
-            gene_obj['contig_id'] = splitted[0].strip()
-            gene_obj['source'] = splitted[1].strip()
-            gene_obj['type'] = splitted[2].strip()
-
-            gene_obj['gene_name'] = uuid.uuid4().hex
-            gene_obj['locus_tag'] = f'{LOCUS_PREFIX}_{gene_cnt:05d}'
-            gene_obj['coords'] = [int(splitted[3]), int(splitted[4])]
-            gene_obj['contig_length'] = int(contig_id.split('_')[-1])
-            gene_obj['direction'] = splitted[6].strip()
-            gene_obj['frame'] = splitted[7].strip()
-            gene_obj['gene_func'] = splitted[8].split(';')[-1].split('=')[-1]
-
-            annotated_genes[contig_id].append(gene_obj)
-            gene_cnt += 1
-
-    # Checking if everythin is ok
+    # Checking if we have func. annotation for all our annotated genes
 
     for rec in SeqIO.parse(GENES_FILENAME, 'fasta'):
         contig_id = rec.description.split(' ')[1].split('|')[0]
@@ -285,12 +246,42 @@ def main():
         if rec.id not in [e['gene_name'] for e in annotated_genes[contig_id]]:
             raise(Exception(f'{rec.id} is not in Kika\'s annotation! Meh...'))
 
+
+    # preparing RNAs
+    with open(TR_RNA_TABLE, newline='') as f:
+        for csv_rec in csv.DictReader(f, delimiter='\t'):
+            if csv_rec['contig'] not in annotated_genes:
+                annotated_genes[contig_id] = []
+
+            gene_obj = {}
+
+            gene_obj['scheme'] = 'trRNA'
+
+            gene_obj['contig_id'] = csv_rec['contig']
+            gene_obj['type'] = csv_rec['type']
+            gene_obj['source'] = csv_rec['source'].lower()
+
+            gene_obj['gene_name'] = uuid.uuid4().hex
+            gene_obj['locus_tag'] = f'{LOCUS_PREFIX}_{gene_cnt:05d}'
+            gene_obj['coords'] = sorted([int(csv_rec['start']), int(csv_rec['end'])])
+            gene_obj['direction'] = csv_rec['strain']
+            gene_obj['frame'] = '.'
+            gene_obj['gene_func'] = csv_rec['product']
+
+            annotated_genes[contig_id].append(gene_obj)
+            gene_cnt += 1
+
     # Making the actual file
 
     with open(OUTPUT_PATH, 'w') as out_f:
-        for contig_id, data in annotated_genes.items():
+        contig_ids = os_sorted(list(annotated_genes.keys()))
+
+        for contig_id in contig_ids:
+            data = annotated_genes[contig_id]
             # >Feature	Ctg44_length_309375
             # out_f.write(make_feautre_header(contig_id))
+
+            data.sort(key=lambda x: x['coords'][0])
 
             for gene_obj in data:
                 # out_f.write(make_table_entry(gene_obj))
