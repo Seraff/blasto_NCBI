@@ -1,18 +1,18 @@
-Total messages:		14269
+Total messages:		14003
 
 =================================================================
-14009 WARNING-level messages exist
+13749 WARNING-level messages exist
 
 SEQ_FEAT.ProteinNameEndsInBracket:	2
 SEQ_FEAT.PartialProblemMismatch3Prime:	2
-SEQ_FEAT.PartialProblemNotSpliceConsensus3Prime:	7002
-SEQ_FEAT.PartialProblem3Prime:	7001
+SEQ_FEAT.PartialProblemNotSpliceConsensus3Prime:	6872
+SEQ_FEAT.PartialProblem3Prime:	6871
 SEQ_FEAT.EcNumberInProteinName:	2
 
 =================================================================
-260 ERROR-level messages exist
+254 ERROR-level messages exist
 
-SEQ_FEAT.MisMatchAA:	256
+SEQ_FEAT.MisMatchAA:	250
 SEQ_FEAT.BadTrailingHyphen:	2
 SEQ_FEAT.PartialProblem3Prime:	2
 
