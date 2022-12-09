@@ -590,6 +590,10 @@ Ctg0_length_1405360	nonstop_annotator	gene	422618	424702	.	+	0	ID=LWC14_03680;lo
 Ctg0_length_1405360	nonstop_annotator	mRNA	422618	424702	.	+	0	ID=LWC14_03680_1;Parent=LWC14_03680;product=hypothetical protein, conserved
 Ctg0_length_1405360	nonstop_annotator	exon	422917	424461	.	+	0	ID=LWC14_03680.exon1;Parent=LWC14_03680_1;product=hypothetical protein, conserved
 Ctg0_length_1405360	nonstop_annotator	CDS	422917	424461	.	+	0	ID=cds.LWC14_03680;Parent=LWC14_03680_1;product=hypothetical protein, conserved
+Ctg0_length_1405360	aragorn	gene	424882	424955	.	-	.	ID=LWC14_07302;locus_tag=LWC14_07302
+Ctg0_length_1405360	aragorn	tRNA	424882	424955	.	-	.	ID=LWC14_07302_1;Parent=LWC14_07302;product=tRNA-Lys(ctt)
+Ctg0_length_1405360	aragorn	gene	425014	425085	.	-	.	ID=LWC14_07324;locus_tag=LWC14_07324
+Ctg0_length_1405360	aragorn	tRNA	425014	425085	.	-	.	ID=LWC14_07324_1;Parent=LWC14_07324;product=tRNA-Trp(cca)
 Ctg0_length_1405360	nonstop_annotator	gene	426327	429472	.	+	0	ID=LWC14_00263;locus_tag=LWC14_00263
 Ctg0_length_1405360	nonstop_annotator	mRNA	426327	429472	.	+	0	ID=LWC14_00263_1;Parent=LWC14_00263;product=hypothetical protein
 Ctg0_length_1405360	nonstop_annotator	exon	426355	429267	.	+	0	ID=LWC14_00263.exon1;Parent=LWC14_00263_1;product=hypothetical protein
@@ -734,6 +738,8 @@ Ctg0_length_1405360	nonstop_annotator	gene	535785	536723	.	+	0	ID=LWC14_00271;lo
 Ctg0_length_1405360	nonstop_annotator	mRNA	535785	536723	.	+	0	ID=LWC14_00271_1;Parent=LWC14_00271;product=hypothetical protein
 Ctg0_length_1405360	nonstop_annotator	exon	535981	536679	.	+	0	ID=LWC14_00271.exon1;Parent=LWC14_00271_1;product=hypothetical protein
 Ctg0_length_1405360	nonstop_annotator	CDS	535981	536679	.	+	0	ID=cds.LWC14_00271;Parent=LWC14_00271_1;product=hypothetical protein
+Ctg0_length_1405360	aragorn	gene	536938	537009	.	-	.	ID=LWC14_07321;locus_tag=LWC14_07321
+Ctg0_length_1405360	aragorn	tRNA	536938	537009	.	-	.	ID=LWC14_07321_1;Parent=LWC14_07321;product=tRNA-Thr(cgt)
 Ctg0_length_1405360	nonstop_annotator	gene	537252	539558	.	-	0	ID=LWC14_00287;locus_tag=LWC14_00287
 Ctg0_length_1405360	nonstop_annotator	mRNA	537252	539558	.	-	0	ID=LWC14_00287_1;Parent=LWC14_00287;product=hypothetical protein
 Ctg0_length_1405360	nonstop_annotator	exon	537260	539308	.	-	0	ID=LWC14_00287.exon1;Parent=LWC14_00287_1;product=hypothetical protein
@@ -1982,6 +1988,8 @@ Ctg1_length_335614	nonstop_annotator	gene	91182	92820	.	+	1	ID=LWC14_05780;locus
 Ctg1_length_335614	nonstop_annotator	mRNA	91182	92820	.	+	1	ID=LWC14_05780_1;Parent=LWC14_05780;product=Poly(ADP-ribose) polymerase and DNA-Ligase Zn-finger region/Zinc-finger (CX5CX6HX5H) motif containing protein
 Ctg1_length_335614	nonstop_annotator	exon	91250	92608	.	+	1	ID=LWC14_05780.exon1;Parent=LWC14_05780_1;product=Poly(ADP-ribose) polymerase and DNA-Ligase Zn-finger region/Zinc-finger (CX5CX6HX5H) motif containing protein
 Ctg1_length_335614	nonstop_annotator	CDS	91250	92608	.	+	1	ID=cds.LWC14_05780;Parent=LWC14_05780_1;product=Poly(ADP-ribose) polymerase and DNA-Ligase Zn-finger region/Zinc-finger (CX5CX6HX5H) motif containing protein
+Ctg1_length_335614	aragorn	gene	92877	92948	.	-	.	ID=LWC14_07320;locus_tag=LWC14_07320
+Ctg1_length_335614	aragorn	tRNA	92877	92948	.	-	.	ID=LWC14_07320_1;Parent=LWC14_07320;product=tRNA-Thr(agt)
 Ctg1_length_335614	nonstop_annotator	gene	93326	94693	.	-	2	ID=LWC14_02855;locus_tag=LWC14_02855
 Ctg1_length_335614	nonstop_annotator	mRNA	93326	94693	.	-	2	ID=LWC14_02855_1;Parent=LWC14_02855;product=Extradiol ring-cleavage dioxygenase, putative
 Ctg1_length_335614	nonstop_annotator	exon	93804	94625	.	-	2	ID=LWC14_02855.exon1;Parent=LWC14_02855_1;product=Extradiol ring-cleavage dioxygenase, putative
@@ -2774,6 +2782,26 @@ Ctg2_length_511893	nonstop_annotator	gene	395876	397406	.	+	0	ID=LWC14_05277;loc
 Ctg2_length_511893	nonstop_annotator	mRNA	395876	397406	.	+	0	ID=LWC14_05277_1;Parent=LWC14_05277;product=Mitoribosomal SSU assembly factor 20
 Ctg2_length_511893	nonstop_annotator	exon	395989	397353	.	+	0	ID=LWC14_05277.exon1;Parent=LWC14_05277_1;product=Mitoribosomal SSU assembly factor 20
 Ctg2_length_511893	nonstop_annotator	CDS	395989	397353	.	+	0	ID=cds.LWC14_05277;Parent=LWC14_05277_1;product=Mitoribosomal SSU assembly factor 20
+Ctg2_length_511893	aragorn	gene	397542	397616	.	-	.	ID=LWC14_07294;locus_tag=LWC14_07294
+Ctg2_length_511893	aragorn	tRNA	397542	397616	.	-	.	ID=LWC14_07294_1;Parent=LWC14_07294;product=tRNA-Ile(tat)
+Ctg2_length_511893	aragorn	gene	397697	397770	.	+	.	ID=LWC14_07304;locus_tag=LWC14_07304
+Ctg2_length_511893	aragorn	tRNA	397697	397770	.	+	.	ID=LWC14_07304_1;Parent=LWC14_07304;product=tRNA-Lys(ttt)
+Ctg2_length_511893	aragorn	gene	398116	398191	.	-	.	ID=LWC14_07303;locus_tag=LWC14_07303
+Ctg2_length_511893	aragorn	tRNA	398116	398191	.	-	.	ID=LWC14_07303_1;Parent=LWC14_07303;product=tRNA-Lys(ctt)
+Ctg2_length_511893	aragorn	gene	398250	398321	.	-	.	ID=LWC14_07323;locus_tag=LWC14_07323
+Ctg2_length_511893	aragorn	tRNA	398250	398321	.	-	.	ID=LWC14_07323_1;Parent=LWC14_07323;product=tRNA-Trp(cca)
+Ctg2_length_511893	aragorn	gene	398416	398487	.	+	.	ID=LWC14_07289;locus_tag=LWC14_07289
+Ctg2_length_511893	aragorn	tRNA	398416	398487	.	+	.	ID=LWC14_07289_1;Parent=LWC14_07289;product=tRNA-Gly(tcc)
+Ctg2_length_511893	aragorn	gene	398551	398622	.	+	.	ID=LWC14_07280;locus_tag=LWC14_07280
+Ctg2_length_511893	aragorn	tRNA	398551	398622	.	+	.	ID=LWC14_07280_1;Parent=LWC14_07280;product=tRNA-Gln(ttg)
+Ctg2_length_511893	aragorn	gene	398708	398783	.	+	.	ID=LWC14_07329;locus_tag=LWC14_07329
+Ctg2_length_511893	aragorn	tRNA	398708	398783	.	+	.	ID=LWC14_07329_1;Parent=LWC14_07329;product=tRNA-Val(tac)
+Ctg2_length_511893	aragorn	gene	398830	398902	.	-	.	ID=LWC14_07270;locus_tag=LWC14_07270
+Ctg2_length_511893	aragorn	tRNA	398830	398902	.	-	.	ID=LWC14_07270_1;Parent=LWC14_07270;product=tRNA-Arg(tcg)
+Ctg2_length_511893	aragorn	gene	399014	399085	.	+	.	ID=LWC14_07322;locus_tag=LWC14_07322
+Ctg2_length_511893	aragorn	tRNA	399014	399085	.	+	.	ID=LWC14_07322_1;Parent=LWC14_07322;product=tRNA-Thr(tgt)
+Ctg2_length_511893	aragorn	gene	399416	399489	.	+	.	ID=LWC14_07305;locus_tag=LWC14_07305
+Ctg2_length_511893	aragorn	tRNA	399416	399489	.	+	.	ID=LWC14_07305_1;Parent=LWC14_07305;product=tRNA-Lys(ttt)
 Ctg2_length_511893	nonstop_annotator	gene	399636	401837	.	-	2	ID=LWC14_05779;locus_tag=LWC14_05779
 Ctg2_length_511893	nonstop_annotator	mRNA	399636	401837	.	-	2	ID=LWC14_05779_1;Parent=LWC14_05779;product=Poly(A)-specific ribonuclease PARN-1
 Ctg2_length_511893	nonstop_annotator	exon	399812	401662	.	-	2	ID=LWC14_05779.exon1;Parent=LWC14_05779_1;product=Poly(A)-specific ribonuclease PARN-1
@@ -3694,6 +3722,8 @@ Ctg4_length_196660	nonstop_annotator	gene	190736	192102	.	+	2	ID=LWC14_02729;loc
 Ctg4_length_196660	nonstop_annotator	mRNA	190736	192102	.	+	2	ID=LWC14_02729_1;Parent=LWC14_02729;product=Endonuclease-reverse transcriptase/Reverse transcriptase (RNA-dependent DNA polymerase), putative
 Ctg4_length_196660	nonstop_annotator	exon	190818	191957	.	+	2	ID=LWC14_02729.exon1;Parent=LWC14_02729_1;product=Endonuclease-reverse transcriptase/Reverse transcriptase (RNA-dependent DNA polymerase), putative
 Ctg4_length_196660	nonstop_annotator	CDS	190818	191957	.	+	2	ID=cds.LWC14_02729;Parent=LWC14_02729_1;product=Endonuclease-reverse transcriptase/Reverse transcriptase (RNA-dependent DNA polymerase), putative
+Ctg5_length_914768	blast	gene	103	221	.	+	.	ID=LWC14_07330;locus_tag=LWC14_07330
+Ctg5_length_914768	blast	rRNA	103	221	.	+	.	ID=LWC14_07330_1;Parent=LWC14_07330;product=5S ribosomal RNA
 Ctg5_length_914768	nonstop_annotator	gene	595	1805	.	-	2	ID=LWC14_05762;locus_tag=LWC14_05762
 Ctg5_length_914768	nonstop_annotator	mRNA	595	1805	.	-	2	ID=LWC14_05762_1;Parent=LWC14_05762;product=phytanoyl-CoA dioxygenase (PhyH), putative
 Ctg5_length_914768	nonstop_annotator	exon	667	1740	.	-	2	ID=LWC14_05762.exon1;Parent=LWC14_05762_1;product=phytanoyl-CoA dioxygenase (PhyH), putative
@@ -4110,6 +4140,8 @@ Ctg5_length_914768	nonstop_annotator	gene	378871	382468	.	-	1	ID=LWC14_04919;loc
 Ctg5_length_914768	nonstop_annotator	mRNA	378871	382468	.	-	1	ID=LWC14_04919_1;Parent=LWC14_04919;product=lipase, putative
 Ctg5_length_914768	nonstop_annotator	exon	381065	382087	.	-	1	ID=LWC14_04919.exon1;Parent=LWC14_04919_1;product=lipase, putative
 Ctg5_length_914768	nonstop_annotator	CDS	381065	382087	.	-	1	ID=cds.LWC14_04919;Parent=LWC14_04919_1;product=lipase, putative
+Ctg5_length_914768	aragorn	gene	383739	383812	.	+	.	ID=LWC14_07261;locus_tag=LWC14_07261
+Ctg5_length_914768	aragorn	tRNA	383739	383812	.	+	.	ID=LWC14_07261_1;Parent=LWC14_07261;product=tRNA-Ala(agc)
 Ctg5_length_914768	nonstop_annotator	gene	383986	385437	.	-	0	ID=LWC14_05474;locus_tag=LWC14_05474
 Ctg5_length_914768	nonstop_annotator	mRNA	383986	385437	.	-	0	ID=LWC14_05474_1;Parent=LWC14_05474;product=Nuclear distribution protein C
 Ctg5_length_914768	nonstop_annotator	exon	384150	385262	.	-	0	ID=LWC14_05474.exon1;Parent=LWC14_05474_1;product=Nuclear distribution protein C
@@ -4382,6 +4414,8 @@ Ctg5_length_914768	nonstop_annotator	gene	610680	614396	.	-	0	ID=LWC14_00964;loc
 Ctg5_length_914768	nonstop_annotator	mRNA	610680	614396	.	-	0	ID=LWC14_00964_1;Parent=LWC14_00964;product=hypothetical protein
 Ctg5_length_914768	nonstop_annotator	exon	611211	614216	.	-	0	ID=LWC14_00964.exon1;Parent=LWC14_00964_1;product=hypothetical protein
 Ctg5_length_914768	nonstop_annotator	CDS	611211	614216	.	-	0	ID=cds.LWC14_00964;Parent=LWC14_00964_1;product=hypothetical protein
+Ctg5_length_914768	aragorn	gene	619187	619259	.	+	.	ID=LWC14_07273;locus_tag=LWC14_07273
+Ctg5_length_914768	aragorn	tRNA	619187	619259	.	+	.	ID=LWC14_07273_1;Parent=LWC14_07273;product=tRNA-Asn(gtt)
 Ctg5_length_914768	nonstop_annotator	gene	620006	621883	.	+	0	ID=LWC14_05731;locus_tag=LWC14_05731
 Ctg5_length_914768	nonstop_annotator	mRNA	620006	621883	.	+	0	ID=LWC14_05731_1;Parent=LWC14_05731;product=phosphoacetylglucosamine mutase
 Ctg5_length_914768	nonstop_annotator	exon	620122	621873	.	+	0	ID=LWC14_05731.exon1;Parent=LWC14_05731_1;product=phosphoacetylglucosamine mutase
@@ -4678,10 +4712,16 @@ Ctg5_length_914768	nonstop_annotator	gene	897240	898196	.	+	2	ID=LWC14_04230;loc
 Ctg5_length_914768	nonstop_annotator	mRNA	897240	898196	.	+	2	ID=LWC14_04230_1;Parent=LWC14_04230;product=hypothetical protein, conserved
 Ctg5_length_914768	nonstop_annotator	exon	897258	898112	.	+	2	ID=LWC14_04230.exon1;Parent=LWC14_04230_1;product=hypothetical protein, conserved
 Ctg5_length_914768	nonstop_annotator	CDS	897258	898112	.	+	2	ID=cds.LWC14_04230;Parent=LWC14_04230_1;product=hypothetical protein, conserved
+Ctg6_length_518510	blast	gene	1	973	.	-	.	ID=LWC14_07335;locus_tag=LWC14_07335
+Ctg6_length_518510	blast	rRNA	1	973	.	-	.	ID=LWC14_07335_1;Parent=LWC14_07335;product=large subunit alpha (28S alpha) ribosomal RNA
 Ctg6_length_518510	nonstop_annotator	gene	1150	1630	.	-	1	ID=LWC14_04157;locus_tag=LWC14_04157
 Ctg6_length_518510	nonstop_annotator	mRNA	1150	1630	.	-	1	ID=LWC14_04157_1;Parent=LWC14_04157;product=hypothetical protein, conserved
 Ctg6_length_518510	nonstop_annotator	exon	1202	1504	.	-	1	ID=LWC14_04157.exon1;Parent=LWC14_04157_1;product=hypothetical protein, conserved
 Ctg6_length_518510	nonstop_annotator	CDS	1202	1504	.	-	1	ID=cds.LWC14_04157;Parent=LWC14_04157_1;product=hypothetical protein, conserved
+Ctg6_length_518510	blast	gene	1316	1486	.	-	.	ID=LWC14_07336;locus_tag=LWC14_07336
+Ctg6_length_518510	blast	rRNA	1316	1486	.	-	.	ID=LWC14_07336_1;Parent=LWC14_07336;product=5.8S ribosomal RNA
+Ctg6_length_518510	blast	gene	1726	4056	.	-	.	ID=LWC14_07334;locus_tag=LWC14_07334
+Ctg6_length_518510	blast	rRNA	1726	4056	.	-	.	ID=LWC14_07334_1;Parent=LWC14_07334;product=18S ribosomal RNA
 Ctg6_length_518510	nonstop_annotator	gene	3988	5467	.	+	0	ID=LWC14_01281;locus_tag=LWC14_01281
 Ctg6_length_518510	nonstop_annotator	mRNA	3988	5467	.	+	0	ID=LWC14_01281_1;Parent=LWC14_01281;product=hypothetical protein
 Ctg6_length_518510	nonstop_annotator	exon	4030	4476	.	+	0	ID=LWC14_01281.exon1;Parent=LWC14_01281_1;product=hypothetical protein
@@ -4894,6 +4934,8 @@ Ctg6_length_518510	nonstop_annotator	gene	159665	161723	.	-	2	ID=LWC14_04676;loc
 Ctg6_length_518510	nonstop_annotator	mRNA	159665	161723	.	-	2	ID=LWC14_04676_1;Parent=LWC14_04676;product=Inhibitor of apoptosis-promoting Bax1, putative
 Ctg6_length_518510	nonstop_annotator	exon	160549	161592	.	-	2	ID=LWC14_04676.exon1;Parent=LWC14_04676_1;product=Inhibitor of apoptosis-promoting Bax1, putative
 Ctg6_length_518510	nonstop_annotator	CDS	160549	161592	.	-	2	ID=cds.LWC14_04676;Parent=LWC14_04676_1;product=Inhibitor of apoptosis-promoting Bax1, putative
+Ctg6_length_518510	aragorn	gene	160881	160957	.	-	.	ID=LWC14_07293;locus_tag=LWC14_07293
+Ctg6_length_518510	aragorn	tRNA	160881	160957	.	-	.	ID=LWC14_07293_1;Parent=LWC14_07293;product=tRNA-Ile(gat)
 Ctg6_length_518510	nonstop_annotator	gene	162955	166571	.	-	0	ID=LWC14_01273;locus_tag=LWC14_01273
 Ctg6_length_518510	nonstop_annotator	mRNA	162955	166571	.	-	0	ID=LWC14_01273_1;Parent=LWC14_01273;product=hypothetical protein
 Ctg6_length_518510	nonstop_annotator	exon	162996	166526	.	-	0	ID=LWC14_01273.exon1;Parent=LWC14_01273_1;product=hypothetical protein
@@ -8854,6 +8896,12 @@ Ctg12_length_257868	nonstop_annotator	gene	243251	244417	.	-	2	ID=LWC14_06077;lo
 Ctg12_length_257868	nonstop_annotator	mRNA	243251	244417	.	-	2	ID=LWC14_06077_1;Parent=LWC14_06077;product=PUB domain containing protein, putative
 Ctg12_length_257868	nonstop_annotator	exon	243404	244315	.	-	2	ID=LWC14_06077.exon1;Parent=LWC14_06077_1;product=PUB domain containing protein, putative
 Ctg12_length_257868	nonstop_annotator	CDS	243404	244315	.	-	2	ID=cds.LWC14_06077;Parent=LWC14_06077_1;product=PUB domain containing protein, putative
+Ctg12_length_257868	aragorn	gene	244528	244598	.	+	.	ID=LWC14_07290;locus_tag=LWC14_07290
+Ctg12_length_257868	aragorn	tRNA	244528	244598	.	+	.	ID=LWC14_07290_1;Parent=LWC14_07290;product=tRNA-His(gtg)
+Ctg12_length_257868	aragorn	gene	244651	244722	.	-	.	ID=LWC14_07285;locus_tag=LWC14_07285
+Ctg12_length_257868	aragorn	tRNA	244651	244722	.	-	.	ID=LWC14_07285_1;Parent=LWC14_07285;product=tRNA-Glu(ttc)
+Ctg12_length_257868	aragorn	gene	244823	244895	.	+	.	ID=LWC14_07309;locus_tag=LWC14_07309
+Ctg12_length_257868	aragorn	tRNA	244823	244895	.	+	.	ID=LWC14_07309_1;Parent=LWC14_07309;product=tRNA-Phe(gaa)
 Ctg13_length_300672	nonstop_annotator	gene	7144	8333	.	-	1	ID=LWC14_00154;locus_tag=LWC14_00154
 Ctg13_length_300672	nonstop_annotator	mRNA	7144	8333	.	-	1	ID=LWC14_00154_1;Parent=LWC14_00154;product=hypothetical protein
 Ctg13_length_300672	nonstop_annotator	exon	7365	8267	.	-	1	ID=LWC14_00154.exon1;Parent=LWC14_00154_1;product=hypothetical protein
@@ -9406,6 +9454,8 @@ Ctg14_length_947886	nonstop_annotator	gene	204333	206709	.	-	1	ID=LWC14_04652;lo
 Ctg14_length_947886	nonstop_annotator	mRNA	204333	206709	.	-	1	ID=LWC14_04652_1;Parent=LWC14_04652;product=hypothetical protein, conserved
 Ctg14_length_947886	nonstop_annotator	exon	204558	206549	.	-	1	ID=LWC14_04652.exon1;Parent=LWC14_04652_1;product=hypothetical protein, conserved
 Ctg14_length_947886	nonstop_annotator	CDS	204558	206549	.	-	1	ID=cds.LWC14_04652;Parent=LWC14_04652_1;product=hypothetical protein, conserved
+Ctg14_length_947886	aragorn	gene	206902	206989	.	-	.	ID=LWC14_07313;locus_tag=LWC14_07313
+Ctg14_length_947886	aragorn	tRNA	206902	206989	.	-	.	ID=LWC14_07313_1;Parent=LWC14_07313;product=tRNA-SeC(tca)
 Ctg14_length_947886	nonstop_annotator	gene	207830	210657	.	-	1	ID=LWC14_02885;locus_tag=LWC14_02885
 Ctg14_length_947886	nonstop_annotator	mRNA	207830	210657	.	-	1	ID=LWC14_02885_1;Parent=LWC14_02885;product=FHA domain containing protein, putative
 Ctg14_length_947886	nonstop_annotator	exon	207990	210548	.	-	1	ID=LWC14_02885.exon1;Parent=LWC14_02885_1;product=FHA domain containing protein, putative
@@ -10346,6 +10396,10 @@ Ctg15_length_322852	nonstop_annotator	gene	54921	55768	.	-	2	ID=LWC14_03114;locu
 Ctg15_length_322852	nonstop_annotator	mRNA	54921	55768	.	-	2	ID=LWC14_03114_1;Parent=LWC14_03114;product=heat shock protein 70
 Ctg15_length_322852	nonstop_annotator	exon	55080	55502	.	-	2	ID=LWC14_03114.exon1;Parent=LWC14_03114_1;product=heat shock protein 70
 Ctg15_length_322852	nonstop_annotator	CDS	55080	55502	.	-	2	ID=cds.LWC14_03114;Parent=LWC14_03114_1;product=heat shock protein 70
+Ctg15_length_322852	aragorn	gene	55860	55942	.	+	.	ID=LWC14_07298;locus_tag=LWC14_07298
+Ctg15_length_322852	aragorn	tRNA	55860	55942	.	+	.	ID=LWC14_07298_1;Parent=LWC14_07298;product=tRNA-Leu(caa)
+Ctg15_length_322852	aragorn	gene	55992	56072	.	-	.	ID=LWC14_07315;locus_tag=LWC14_07315
+Ctg15_length_322852	aragorn	tRNA	55992	56072	.	-	.	ID=LWC14_07315_1;Parent=LWC14_07315;product=tRNA-Ser(cga)
 Ctg15_length_322852	nonstop_annotator	gene	56765	58709	.	-	2	ID=LWC14_01115;locus_tag=LWC14_01115
 Ctg15_length_322852	nonstop_annotator	mRNA	56765	58709	.	-	2	ID=LWC14_01115_1;Parent=LWC14_01115;product=hypothetical protein
 Ctg15_length_322852	nonstop_annotator	exon	56979	58409	.	-	2	ID=LWC14_01115.exon1;Parent=LWC14_01115_1;product=hypothetical protein
@@ -10842,6 +10896,8 @@ Ctg16_length_250046	nonstop_annotator	gene	161247	163321	.	+	0	ID=LWC14_06451;lo
 Ctg16_length_250046	nonstop_annotator	mRNA	161247	163321	.	+	0	ID=LWC14_06451_1;Parent=LWC14_06451;product=serine peptidase, Clan SC, Family S10
 Ctg16_length_250046	nonstop_annotator	exon	161362	162882	.	+	0	ID=LWC14_06451.exon1;Parent=LWC14_06451_1;product=serine peptidase, Clan SC, Family S10
 Ctg16_length_250046	nonstop_annotator	CDS	161362	162882	.	+	0	ID=cds.LWC14_06451;Parent=LWC14_06451_1;product=serine peptidase, Clan SC, Family S10
+Ctg16_length_250046	aragorn	gene	163407	163478	.	+	.	ID=LWC14_07310;locus_tag=LWC14_07310
+Ctg16_length_250046	aragorn	tRNA	163407	163478	.	+	.	ID=LWC14_07310_1;Parent=LWC14_07310;product=tRNA-Pro(agg)
 Ctg16_length_250046	nonstop_annotator	gene	163418	166671	.	-	0	ID=LWC14_06328;locus_tag=LWC14_06328
 Ctg16_length_250046	nonstop_annotator	mRNA	163418	166671	.	-	0	ID=LWC14_06328_1;Parent=LWC14_06328;product=RNA polymerase III transcription factor (TF)IIIC subunit, putative
 Ctg16_length_250046	nonstop_annotator	exon	163575	166589	.	-	0	ID=LWC14_06328.exon1;Parent=LWC14_06328_1;product=RNA polymerase III transcription factor (TF)IIIC subunit, putative
@@ -11678,6 +11734,8 @@ Ctg17_length_605537	nonstop_annotator	gene	517652	519365	.	-	0	ID=LWC14_05881;lo
 Ctg17_length_605537	nonstop_annotator	mRNA	517652	519365	.	-	0	ID=LWC14_05881_1;Parent=LWC14_05881;product=Programmed cell death protein 2, C-terminal putative domain containing protein, putative
 Ctg17_length_605537	nonstop_annotator	exon	517743	519272	.	-	0	ID=LWC14_05881.exon1;Parent=LWC14_05881_1;product=Programmed cell death protein 2, C-terminal putative domain containing protein, putative
 Ctg17_length_605537	nonstop_annotator	CDS	517743	519272	.	-	0	ID=cds.LWC14_05881;Parent=LWC14_05881_1;product=Programmed cell death protein 2, C-terminal putative domain containing protein, putative
+Ctg17_length_605537	aragorn	gene	524223	524313	.	+	.	ID=LWC14_07326;locus_tag=LWC14_07326
+Ctg17_length_605537	aragorn	tRNA	524223	524313	.	+	.	ID=LWC14_07326_1;Parent=LWC14_07326;product=tRNA-Tyr(gta)
 Ctg17_length_605537	nonstop_annotator	gene	524250	527980	.	-	0	ID=LWC14_05690;locus_tag=LWC14_05690
 Ctg17_length_605537	nonstop_annotator	mRNA	524250	527980	.	-	0	ID=LWC14_05690_1;Parent=LWC14_05690;product=peroxisome biogenesis factor 1, putative
 Ctg17_length_605537	nonstop_annotator	exon	524580	527861	.	-	0	ID=LWC14_05690.exon1;Parent=LWC14_05690_1;product=peroxisome biogenesis factor 1, putative
@@ -11898,6 +11956,8 @@ Ctg18_length_1409826	nonstop_annotator	gene	114664	115357	.	+	2	ID=LWC14_07023;l
 Ctg18_length_1409826	nonstop_annotator	mRNA	114664	115357	.	+	2	ID=LWC14_07023_1;Parent=LWC14_07023;product=Ubiquitin-like autophagy protein Apg12, putative
 Ctg18_length_1409826	nonstop_annotator	exon	114750	115070	.	+	2	ID=LWC14_07023.exon1;Parent=LWC14_07023_1;product=Ubiquitin-like autophagy protein Apg12, putative
 Ctg18_length_1409826	nonstop_annotator	CDS	114750	115070	.	+	2	ID=cds.LWC14_07023;Parent=LWC14_07023_1;product=Ubiquitin-like autophagy protein Apg12, putative
+Ctg18_length_1409826	aragorn	gene	117073	117146	.	+	.	ID=LWC14_07274;locus_tag=LWC14_07274
+Ctg18_length_1409826	aragorn	tRNA	117073	117146	.	+	.	ID=LWC14_07274_1;Parent=LWC14_07274;product=tRNA-Asn(gtt)
 Ctg18_length_1409826	nonstop_annotator	gene	117321	118499	.	-	2	ID=LWC14_04275;locus_tag=LWC14_04275
 Ctg18_length_1409826	nonstop_annotator	mRNA	117321	118499	.	-	2	ID=LWC14_04275_1;Parent=LWC14_04275;product=hypothetical protein, conserved
 Ctg18_length_1409826	nonstop_annotator	exon	117410	118480	.	-	2	ID=LWC14_04275.exon1;Parent=LWC14_04275_1;product=hypothetical protein, conserved
@@ -13198,6 +13258,14 @@ Ctg18_length_1409826	nonstop_annotator	gene	1059917	1061018	.	+	1	ID=LWC14_05988
 Ctg18_length_1409826	nonstop_annotator	mRNA	1059917	1061018	.	+	1	ID=LWC14_05988_1;Parent=LWC14_05988;product=Protein of unknown function (DUF2962), putative
 Ctg18_length_1409826	nonstop_annotator	exon	1060157	1060909	.	+	1	ID=LWC14_05988.exon1;Parent=LWC14_05988_1;product=Protein of unknown function (DUF2962), putative
 Ctg18_length_1409826	nonstop_annotator	CDS	1060157	1060909	.	+	1	ID=cds.LWC14_05988;Parent=LWC14_05988_1;product=Protein of unknown function (DUF2962), putative
+Ctg18_length_1409826	aragorn	gene	1061117	1061200	.	-	.	ID=LWC14_07295;locus_tag=LWC14_07295
+Ctg18_length_1409826	aragorn	tRNA	1061117	1061200	.	-	.	ID=LWC14_07295_1;Parent=LWC14_07295;product=tRNA-Leu(aag)
+Ctg18_length_1409826	aragorn	gene	1061281	1061352	.	-	.	ID=LWC14_07306;locus_tag=LWC14_07306
+Ctg18_length_1409826	aragorn	tRNA	1061281	1061352	.	-	.	ID=LWC14_07306_1;Parent=LWC14_07306;product=tRNA-Met(cat)
+Ctg18_length_1409826	aragorn	gene	1061453	1061524	.	+	.	ID=LWC14_07312;locus_tag=LWC14_07312
+Ctg18_length_1409826	aragorn	tRNA	1061453	1061524	.	+	.	ID=LWC14_07312_1;Parent=LWC14_07312;product=tRNA-Pro(tgg)
+Ctg18_length_1409826	aragorn	gene	1061575	1061646	.	-	.	ID=LWC14_07278;locus_tag=LWC14_07278
+Ctg18_length_1409826	aragorn	tRNA	1061575	1061646	.	-	.	ID=LWC14_07278_1;Parent=LWC14_07278;product=tRNA-Cys(gca)
 Ctg18_length_1409826	nonstop_annotator	gene	1061838	1063570	.	+	1	ID=LWC14_05283;locus_tag=LWC14_05283
 Ctg18_length_1409826	nonstop_annotator	mRNA	1061838	1063570	.	+	1	ID=LWC14_05283_1;Parent=LWC14_05283;product=Mitoribosomal SSU assembly factor 29
 Ctg18_length_1409826	nonstop_annotator	exon	1062182	1063387	.	+	1	ID=LWC14_05283.exon1;Parent=LWC14_05283_1;product=Mitoribosomal SSU assembly factor 29
@@ -15618,6 +15686,8 @@ Ctg26_length_141477	nonstop_annotator	gene	120691	124830	.	-	2	ID=LWC14_03540;lo
 Ctg26_length_141477	nonstop_annotator	mRNA	120691	124830	.	-	2	ID=LWC14_03540_1;Parent=LWC14_03540;product=hypothetical protein, conserved
 Ctg26_length_141477	nonstop_annotator	exon	123749	124732	.	-	2	ID=LWC14_03540.exon1;Parent=LWC14_03540_1;product=hypothetical protein, conserved
 Ctg26_length_141477	nonstop_annotator	CDS	123749	124732	.	-	2	ID=cds.LWC14_03540;Parent=LWC14_03540_1;product=hypothetical protein, conserved
+Ctg26_length_141477	aragorn	gene	127476	127547	.	+	.	ID=LWC14_07276;locus_tag=LWC14_07276
+Ctg26_length_141477	aragorn	tRNA	127476	127547	.	+	.	ID=LWC14_07276_1;Parent=LWC14_07276;product=tRNA-Asp(gtc)
 Ctg26_length_141477	nonstop_annotator	gene	132429	136110	.	-	2	ID=LWC14_03774;locus_tag=LWC14_03774
 Ctg26_length_141477	nonstop_annotator	mRNA	132429	136110	.	-	2	ID=LWC14_03774_1;Parent=LWC14_03774;product=hypothetical protein, conserved
 Ctg26_length_141477	nonstop_annotator	exon	132560	136042	.	-	2	ID=LWC14_03774.exon1;Parent=LWC14_03774_1;product=hypothetical protein, conserved
@@ -15690,6 +15760,8 @@ Ctg27_length_404805	nonstop_annotator	gene	49807	52122	.	+	2	ID=LWC14_03724;locu
 Ctg27_length_404805	nonstop_annotator	mRNA	49807	52122	.	+	2	ID=LWC14_03724_1;Parent=LWC14_03724;product=hypothetical protein, conserved
 Ctg27_length_404805	nonstop_annotator	exon	49944	52100	.	+	2	ID=LWC14_03724.exon1;Parent=LWC14_03724_1;product=hypothetical protein, conserved
 Ctg27_length_404805	nonstop_annotator	CDS	49944	52100	.	+	2	ID=cds.LWC14_03724;Parent=LWC14_03724_1;product=hypothetical protein, conserved
+Ctg27_length_404805	aragorn	gene	52772	52846	.	+	.	ID=LWC14_07265;locus_tag=LWC14_07265
+Ctg27_length_404805	aragorn	tRNA	52772	52846	.	+	.	ID=LWC14_07265_1;Parent=LWC14_07265;product=tRNA-Arg(acg)
 Ctg27_length_404805	nonstop_annotator	gene	52997	55612	.	-	0	ID=LWC14_00613;locus_tag=LWC14_00613
 Ctg27_length_404805	nonstop_annotator	mRNA	52997	55612	.	-	0	ID=LWC14_00613_1;Parent=LWC14_00613;product=hypothetical protein
 Ctg27_length_404805	nonstop_annotator	exon	53362	55476	.	-	0	ID=LWC14_00613.exon1;Parent=LWC14_00613_1;product=hypothetical protein
@@ -16154,6 +16226,12 @@ Ctg28_length_81690	nonstop_annotator	gene	59818	63818	.	-	2	ID=LWC14_02889;locus
 Ctg28_length_81690	nonstop_annotator	mRNA	59818	63818	.	-	2	ID=LWC14_02889_1;Parent=LWC14_02889;product=Fidgetin, putative
 Ctg28_length_81690	nonstop_annotator	exon	60002	63676	.	-	2	ID=LWC14_02889.exon1;Parent=LWC14_02889_1;product=Fidgetin, putative
 Ctg28_length_81690	nonstop_annotator	CDS	60002	63676	.	-	2	ID=cds.LWC14_02889;Parent=LWC14_02889_1;product=Fidgetin, putative
+Ctg28_length_82368	aragorn	gene	200	270	.	-	.	ID=LWC14_07281;locus_tag=LWC14_07281
+Ctg28_length_82368	aragorn	tRNA	200	270	.	-	.	ID=LWC14_07281_1;Parent=LWC14_07281;product=tRNA-Glu(cta)
+Ctg28_length_82368	aragorn	gene	330	403	.	-	.	ID=LWC14_07272;locus_tag=LWC14_07272
+Ctg28_length_82368	aragorn	tRNA	330	403	.	-	.	ID=LWC14_07272_1;Parent=LWC14_07272;product=tRNA-Asn(gtt)
+Ctg28_length_82368	aragorn	gene	502	584	.	+	.	ID=LWC14_07299;locus_tag=LWC14_07299
+Ctg28_length_82368	aragorn	tRNA	502	584	.	+	.	ID=LWC14_07299_1;Parent=LWC14_07299;product=tRNA-Leu(cag)
 Ctg29_length_525938	nonstop_annotator	gene	2	1146	.	-	2	ID=LWC14_00513;locus_tag=LWC14_00513
 Ctg29_length_525938	nonstop_annotator	mRNA	2	1146	.	-	2	ID=LWC14_00513_1;Parent=LWC14_00513;product=hypothetical protein
 Ctg29_length_525938	nonstop_annotator	exon	322	1146	.	-	2	ID=LWC14_00513.exon1;Parent=LWC14_00513_1;product=hypothetical protein
@@ -17118,6 +17196,10 @@ Ctg30_length_652959	nonstop_annotator	gene	390987	392683	.	-	2	ID=LWC14_00799;lo
 Ctg30_length_652959	nonstop_annotator	mRNA	390987	392683	.	-	2	ID=LWC14_00799_1;Parent=LWC14_00799;product=hypothetical protein
 Ctg30_length_652959	nonstop_annotator	exon	390992	392683	.	-	2	ID=LWC14_00799.exon1;Parent=LWC14_00799_1;product=hypothetical protein
 Ctg30_length_652959	nonstop_annotator	CDS	390992	392683	.	-	2	ID=cds.LWC14_00799;Parent=LWC14_00799_1;product=hypothetical protein
+Ctg30_length_652959	aragorn	gene	394448	394523	.	+	.	ID=LWC14_07291;locus_tag=LWC14_07291
+Ctg30_length_652959	aragorn	tRNA	394448	394523	.	+	.	ID=LWC14_07291_1;Parent=LWC14_07291;product=tRNA-Ile(aat)
+Ctg30_length_652959	aragorn	gene	394620	394702	.	+	.	ID=LWC14_07314;locus_tag=LWC14_07314
+Ctg30_length_652959	aragorn	tRNA	394620	394702	.	+	.	ID=LWC14_07314_1;Parent=LWC14_07314;product=tRNA-Ser(aga)
 Ctg30_length_652959	nonstop_annotator	gene	394966	395725	.	+	1	ID=LWC14_03806;locus_tag=LWC14_03806
 Ctg30_length_652959	nonstop_annotator	mRNA	394966	395725	.	+	1	ID=LWC14_03806_1;Parent=LWC14_03806;product=hypothetical protein, conserved
 Ctg30_length_652959	nonstop_annotator	exon	395072	395548	.	+	1	ID=LWC14_03806.exon1;Parent=LWC14_03806_1;product=hypothetical protein, conserved
@@ -17234,6 +17316,10 @@ Ctg30_length_652959	nonstop_annotator	gene	544198	547642	.	+	1	ID=LWC14_00778;lo
 Ctg30_length_652959	nonstop_annotator	mRNA	544198	547642	.	+	1	ID=LWC14_00778_1;Parent=LWC14_00778;product=hypothetical protein
 Ctg30_length_652959	nonstop_annotator	exon	544640	547036	.	+	1	ID=LWC14_00778.exon1;Parent=LWC14_00778_1;product=hypothetical protein
 Ctg30_length_652959	nonstop_annotator	CDS	544640	547036	.	+	1	ID=cds.LWC14_00778;Parent=LWC14_00778_1;product=hypothetical protein
+Ctg30_length_652959	aragorn	gene	547816	547889	.	-	.	ID=LWC14_07283;locus_tag=LWC14_07283
+Ctg30_length_652959	aragorn	tRNA	547816	547889	.	-	.	ID=LWC14_07283_1;Parent=LWC14_07283;product=tRNA-Glu(ctc)
+Ctg30_length_652959	aragorn	gene	547948	548018	.	-	.	ID=LWC14_07288;locus_tag=LWC14_07288
+Ctg30_length_652959	aragorn	tRNA	547948	548018	.	-	.	ID=LWC14_07288_1;Parent=LWC14_07288;product=tRNA-Gly(gcc)
 Ctg30_length_652959	nonstop_annotator	gene	548229	554447	.	+	2	ID=LWC14_02901;locus_tag=LWC14_02901
 Ctg30_length_652959	nonstop_annotator	mRNA	548229	554447	.	+	2	ID=LWC14_02901_1;Parent=LWC14_02901;product=Flagellar Member 4
 Ctg30_length_652959	nonstop_annotator	exon	548304	553979	.	+	2	ID=LWC14_02901.exon1;Parent=LWC14_02901_1;product=Flagellar Member 4
@@ -17974,6 +18060,8 @@ Ctg34_length_306897	nonstop_annotator	gene	136360	139604	.	-	0	ID=LWC14_00407;lo
 Ctg34_length_306897	nonstop_annotator	mRNA	136360	139604	.	-	0	ID=LWC14_00407_1;Parent=LWC14_00407;product=hypothetical protein
 Ctg34_length_306897	nonstop_annotator	exon	138151	139590	.	-	0	ID=LWC14_00407.exon1;Parent=LWC14_00407_1;product=hypothetical protein
 Ctg34_length_306897	nonstop_annotator	CDS	138151	139590	.	-	0	ID=cds.LWC14_00407;Parent=LWC14_00407_1;product=hypothetical protein
+Ctg34_length_306897	aragorn	gene	141591	141664	.	+	.	ID=LWC14_07328;locus_tag=LWC14_07328
+Ctg34_length_306897	aragorn	tRNA	141591	141664	.	+	.	ID=LWC14_07328_1;Parent=LWC14_07328;product=tRNA-Val(cac)
 Ctg34_length_306897	nonstop_annotator	gene	141790	142792	.	-	0	ID=LWC14_06530;locus_tag=LWC14_06530
 Ctg34_length_306897	nonstop_annotator	mRNA	141790	142792	.	-	0	ID=LWC14_06530_1;Parent=LWC14_06530;product=small GTP-binding protein RAB6, putative
 Ctg34_length_306897	nonstop_annotator	exon	141841	142626	.	-	0	ID=LWC14_06530.exon1;Parent=LWC14_06530_1;product=small GTP-binding protein RAB6, putative
@@ -18814,6 +18902,16 @@ Ctg35_length_582086	nonstop_annotator	gene	553421	557940	.	+	0	ID=LWC14_03829;lo
 Ctg35_length_582086	nonstop_annotator	mRNA	553421	557940	.	+	0	ID=LWC14_03829_1;Parent=LWC14_03829;product=hypothetical protein, conserved
 Ctg35_length_582086	nonstop_annotator	exon	553537	557877	.	+	0	ID=LWC14_03829.exon1;Parent=LWC14_03829_1;product=hypothetical protein, conserved
 Ctg35_length_582086	nonstop_annotator	CDS	553537	557877	.	+	0	ID=cds.LWC14_03829;Parent=LWC14_03829_1;product=hypothetical protein, conserved
+Ctg35_length_582086	aragorn	gene	558086	558167	.	-	.	ID=LWC14_07301;locus_tag=LWC14_07301
+Ctg35_length_582086	aragorn	tRNA	558086	558167	.	-	.	ID=LWC14_07301_1;Parent=LWC14_07301;product=tRNA-Leu(tag)
+Ctg35_length_582086	aragorn	gene	558259	558342	.	+	.	ID=LWC14_07318;locus_tag=LWC14_07318
+Ctg35_length_582086	aragorn	tRNA	558259	558342	.	+	.	ID=LWC14_07318_1;Parent=LWC14_07318;product=tRNA-Ser(tga)
+Ctg35_length_582086	aragorn	gene	558409	558499	.	-	.	ID=LWC14_07325;locus_tag=LWC14_07325
+Ctg35_length_582086	aragorn	tRNA	558409	558499	.	-	.	ID=LWC14_07325_1;Parent=LWC14_07325;product=tRNA-Tyr(gta)
+Ctg35_length_582086	aragorn	gene	558611	558685	.	+	.	ID=LWC14_07327;locus_tag=LWC14_07327
+Ctg35_length_582086	aragorn	tRNA	558611	558685	.	+	.	ID=LWC14_07327_1;Parent=LWC14_07327;product=tRNA-Val(aac)
+Ctg35_length_582086	aragorn	gene	558745	558819	.	+	.	ID=LWC14_07292;locus_tag=LWC14_07292
+Ctg35_length_582086	aragorn	tRNA	558745	558819	.	+	.	ID=LWC14_07292_1;Parent=LWC14_07292;product=tRNA-Ile(aat)
 Ctg35_length_582086	nonstop_annotator	gene	559046	562215	.	-	0	ID=LWC14_05097;locus_tag=LWC14_05097
 Ctg35_length_582086	nonstop_annotator	mRNA	559046	562215	.	-	0	ID=LWC14_05097_1;Parent=LWC14_05097;product=mitochondrial ATP-dependent zinc metallopeptidase, putative
 Ctg35_length_582086	nonstop_annotator	exon	559221	562049	.	-	0	ID=LWC14_05097.exon1;Parent=LWC14_05097_1;product=mitochondrial ATP-dependent zinc metallopeptidase, putative
@@ -19434,6 +19532,8 @@ Ctg38_length_238073	nonstop_annotator	gene	166533	172242	.	+	2	ID=LWC14_06748;lo
 Ctg38_length_238073	nonstop_annotator	mRNA	166533	172242	.	+	2	ID=LWC14_06748_1;Parent=LWC14_06748;product=Tetratricopeptide repeat, putative
 Ctg38_length_238073	nonstop_annotator	exon	166761	171602	.	+	2	ID=LWC14_06748.exon1;Parent=LWC14_06748_1;product=Tetratricopeptide repeat, putative
 Ctg38_length_238073	nonstop_annotator	CDS	166761	171602	.	+	2	ID=cds.LWC14_06748;Parent=LWC14_06748_1;product=Tetratricopeptide repeat, putative
+Ctg38_length_238073	aragorn	gene	173851	173931	.	-	.	ID=LWC14_07317;locus_tag=LWC14_07317
+Ctg38_length_238073	aragorn	tRNA	173851	173931	.	-	.	ID=LWC14_07317_1;Parent=LWC14_07317;product=tRNA-Ser(gct)
 Ctg38_length_238073	nonstop_annotator	gene	177139	179322	.	+	1	ID=LWC14_01310;locus_tag=LWC14_01310
 Ctg38_length_238073	nonstop_annotator	mRNA	177139	179322	.	+	1	ID=LWC14_01310_1;Parent=LWC14_01310;product=hypothetical protein
 Ctg38_length_238073	nonstop_annotator	exon	177269	178999	.	+	1	ID=LWC14_01310.exon1;Parent=LWC14_01310_1;product=hypothetical protein
@@ -19442,6 +19542,8 @@ Ctg38_length_238073	nonstop_annotator	gene	181959	186839	.	+	1	ID=LWC14_01748;lo
 Ctg38_length_238073	nonstop_annotator	mRNA	181959	186839	.	+	1	ID=LWC14_01748_1;Parent=LWC14_01748;product=amino acid transporter, putative
 Ctg38_length_238073	nonstop_annotator	exon	182021	183763	.	+	1	ID=LWC14_01748.exon1;Parent=LWC14_01748_1;product=amino acid transporter, putative
 Ctg38_length_238073	nonstop_annotator	CDS	182021	183763	.	+	1	ID=cds.LWC14_01748;Parent=LWC14_01748_1;product=amino acid transporter, putative
+Ctg38_length_238073	aragorn	gene	186748	186828	.	-	.	ID=LWC14_07316;locus_tag=LWC14_07316
+Ctg38_length_238073	aragorn	tRNA	186748	186828	.	-	.	ID=LWC14_07316_1;Parent=LWC14_07316;product=tRNA-Ser(gct)
 Ctg38_length_238073	nonstop_annotator	gene	186840	188838	.	-	0	ID=LWC14_04457;locus_tag=LWC14_04457
 Ctg38_length_238073	nonstop_annotator	mRNA	186840	188838	.	-	0	ID=LWC14_04457_1;Parent=LWC14_04457;product=hypothetical protein, conserved
 Ctg38_length_238073	nonstop_annotator	exon	187146	188057	.	-	0	ID=LWC14_04457.exon1;Parent=LWC14_04457_1;product=hypothetical protein, conserved
@@ -21146,6 +21248,12 @@ Ctg41_length_853671	nonstop_annotator	gene	692489	693173	.	-	2	ID=LWC14_06388;lo
 Ctg41_length_853671	nonstop_annotator	mRNA	692489	693173	.	-	2	ID=LWC14_06388_1;Parent=LWC14_06388;product=RNA-binding protein, putative
 Ctg41_length_853671	nonstop_annotator	exon	692495	693118	.	-	2	ID=LWC14_06388.exon1;Parent=LWC14_06388_1;product=RNA-binding protein, putative
 Ctg41_length_853671	nonstop_annotator	CDS	692495	693118	.	-	2	ID=cds.LWC14_06388;Parent=LWC14_06388_1;product=RNA-binding protein, putative
+Ctg41_length_853671	aragorn	gene	695766	695837	.	-	.	ID=LWC14_07264;locus_tag=LWC14_07264
+Ctg41_length_853671	aragorn	tRNA	695766	695837	.	-	.	ID=LWC14_07264_1;Parent=LWC14_07264;product=tRNA-Ala(tgc)
+Ctg41_length_853671	aragorn	gene	695929	696001	.	+	.	ID=LWC14_07271;locus_tag=LWC14_07271
+Ctg41_length_853671	aragorn	tRNA	695929	696001	.	+	.	ID=LWC14_07271_1;Parent=LWC14_07271;product=tRNA-Arg(tct)
+Ctg41_length_853671	aragorn	gene	696061	696135	.	+	.	ID=LWC14_07269;locus_tag=LWC14_07269
+Ctg41_length_853671	aragorn	tRNA	696061	696135	.	+	.	ID=LWC14_07269_1;Parent=LWC14_07269;product=tRNA-Arg(cct)
 Ctg41_length_853671	nonstop_annotator	gene	696308	698704	.	-	0	ID=LWC14_01835;locus_tag=LWC14_01835
 Ctg41_length_853671	nonstop_annotator	mRNA	696308	698704	.	-	0	ID=LWC14_01835_1;Parent=LWC14_01835;product=ATP-binding cassette sub-family F member 1, putative
 Ctg41_length_853671	nonstop_annotator	exon	696508	698556	.	-	0	ID=LWC14_01835.exon1;Parent=LWC14_01835_1;product=ATP-binding cassette sub-family F member 1, putative
@@ -22490,6 +22598,8 @@ Ctg45_length_311575	nonstop_annotator	gene	172328	181059	.	+	0	ID=LWC14_01851;lo
 Ctg45_length_311575	nonstop_annotator	mRNA	172328	181059	.	+	0	ID=LWC14_01851_1;Parent=LWC14_01851;product=ATP-dependent DEAD/H RNA helicase, putative
 Ctg45_length_311575	nonstop_annotator	exon	172861	180882	.	+	0	ID=LWC14_01851.exon1;Parent=LWC14_01851_1;product=ATP-dependent DEAD/H RNA helicase, putative
 Ctg45_length_311575	nonstop_annotator	CDS	172861	180882	.	+	0	ID=cds.LWC14_01851;Parent=LWC14_01851_1;product=ATP-dependent DEAD/H RNA helicase, putative
+Ctg45_length_311575	aragorn	gene	180843	180916	.	-	.	ID=LWC14_07260;locus_tag=LWC14_07260
+Ctg45_length_311575	aragorn	tRNA	180843	180916	.	-	.	ID=LWC14_07260_1;Parent=LWC14_07260;product=tRNA-Ala(agc)
 Ctg45_length_311575	nonstop_annotator	gene	181162	183353	.	-	2	ID=LWC14_04428;locus_tag=LWC14_04428
 Ctg45_length_311575	nonstop_annotator	mRNA	181162	183353	.	-	2	ID=LWC14_04428_1;Parent=LWC14_04428;product=hypothetical protein, conserved
 Ctg45_length_311575	nonstop_annotator	exon	181185	183308	.	-	2	ID=LWC14_04428.exon1;Parent=LWC14_04428_1;product=hypothetical protein, conserved
@@ -22802,82 +22912,552 @@ Ctg46_length_203179	nonstop_annotator	gene	196339	197164	.	+	1	ID=LWC14_00997;lo
 Ctg46_length_203179	nonstop_annotator	mRNA	196339	197164	.	+	1	ID=LWC14_00997_1;Parent=LWC14_00997;product=hypothetical protein
 Ctg46_length_203179	nonstop_annotator	exon	196475	196858	.	+	1	ID=LWC14_00997.exon1;Parent=LWC14_00997_1;product=hypothetical protein
 Ctg46_length_203179	nonstop_annotator	CDS	196475	196858	.	+	1	ID=cds.LWC14_00997;Parent=LWC14_00997_1;product=hypothetical protein
-Ctg6_length_518510	blast	gene	1	973	.	-	.	ID=LWC14_07335;locus_tag=LWC14_07335
-Ctg6_length_518510	blast	rRNA	1	973	.	-	.	ID=LWC14_07335_1;Parent=LWC14_07335;product=large subunit alpha (28S alpha) ribosomal RNA
-Ctg5_length_914768	blast	gene	103	221	.	+	.	ID=LWC14_07330;locus_tag=LWC14_07330
-Ctg5_length_914768	blast	rRNA	103	221	.	+	.	ID=LWC14_07330_1;Parent=LWC14_07330;product=5S ribosomal RNA
-Ctg50_length_307361	blast	gene	300	470	.	+	.	ID=LWC14_07333;locus_tag=LWC14_07333
-Ctg50_length_307361	blast	rRNA	300	470	.	+	.	ID=LWC14_07333_1;Parent=LWC14_07333;product=5.8S ribosomal RNA
-Ctg28_length_82368	aragorn	gene	502	584	.	+	.	ID=LWC14_07299;locus_tag=LWC14_07299
-Ctg28_length_82368	aragorn	tRNA	502	584	.	+	.	ID=LWC14_07299_1;Parent=LWC14_07299;product=tRNA-Leu(cag)
-Ctg50_length_307361	blast	gene	813	2696	.	+	.	ID=LWC14_07331;locus_tag=LWC14_07331
-Ctg50_length_307361	blast	rRNA	813	2696	.	+	.	ID=LWC14_07331_1;Parent=LWC14_07331;product=large subunit alpha (28S alpha) ribosomal RNA
-Ctg6_length_518510	blast	gene	1316	1486	.	-	.	ID=LWC14_07336;locus_tag=LWC14_07336
-Ctg6_length_518510	blast	rRNA	1316	1486	.	-	.	ID=LWC14_07336_1;Parent=LWC14_07336;product=5.8S ribosomal RNA
-Ctg6_length_518510	blast	gene	1726	4056	.	-	.	ID=LWC14_07334;locus_tag=LWC14_07334
-Ctg6_length_518510	blast	rRNA	1726	4056	.	-	.	ID=LWC14_07334_1;Parent=LWC14_07334;product=18S ribosomal RNA
-Ctg50_length_307361	blast	gene	3454	4617	.	+	.	ID=LWC14_07332;locus_tag=LWC14_07332
-Ctg50_length_307361	blast	rRNA	3454	4617	.	+	.	ID=LWC14_07332_1;Parent=LWC14_07332;product=large subunit beta (28S beta) ribosomal RNA
-Ctg50_length_307361	aragorn	gene	8641	8723	.	-	.	ID=LWC14_07300;locus_tag=LWC14_07300
-Ctg50_length_307361	aragorn	tRNA	8641	8723	.	-	.	ID=LWC14_07300_1;Parent=LWC14_07300;product=tRNA-Leu(taa)
-Ctg50_length_307361	aragorn	gene	8980	9051	.	+	.	ID=LWC14_07311;locus_tag=LWC14_07311
-Ctg50_length_307361	aragorn	tRNA	8980	9051	.	+	.	ID=LWC14_07311_1;Parent=LWC14_07311;product=tRNA-Pro(cgg)
-Ctg61_length_82014	aragorn	gene	23622	23694	.	-	.	ID=LWC14_07308;locus_tag=LWC14_07308
-Ctg61_length_82014	aragorn	tRNA	23622	23694	.	-	.	ID=LWC14_07308_1;Parent=LWC14_07308;product=tRNA-Phe(gaa)
-Ctg15_length_322852	aragorn	gene	55992	56072	.	-	.	ID=LWC14_07315;locus_tag=LWC14_07315
-Ctg15_length_322852	aragorn	tRNA	55992	56072	.	-	.	ID=LWC14_07315_1;Parent=LWC14_07315;product=tRNA-Ser(cga)
-Ctg1_length_335614	aragorn	gene	92877	92948	.	-	.	ID=LWC14_07320;locus_tag=LWC14_07320
-Ctg1_length_335614	aragorn	tRNA	92877	92948	.	-	.	ID=LWC14_07320_1;Parent=LWC14_07320;product=tRNA-Thr(agt)
-Ctg34_length_306897	aragorn	gene	141591	141664	.	+	.	ID=LWC14_07328;locus_tag=LWC14_07328
-Ctg34_length_306897	aragorn	tRNA	141591	141664	.	+	.	ID=LWC14_07328_1;Parent=LWC14_07328;product=tRNA-Val(cac)
-Ctg65_length_329517	aragorn	gene	160041	160112	.	-	.	ID=LWC14_07319;locus_tag=LWC14_07319
-Ctg65_length_329517	aragorn	tRNA	160041	160112	.	-	.	ID=LWC14_07319_1;Parent=LWC14_07319;product=tRNA-Thr(agt)
-Ctg16_length_250046	aragorn	gene	163407	163478	.	+	.	ID=LWC14_07310;locus_tag=LWC14_07310
-Ctg16_length_250046	aragorn	tRNA	163407	163478	.	+	.	ID=LWC14_07310_1;Parent=LWC14_07310;product=tRNA-Pro(agg)
-Ctg38_length_238073	aragorn	gene	173851	173931	.	-	.	ID=LWC14_07317;locus_tag=LWC14_07317
-Ctg38_length_238073	aragorn	tRNA	173851	173931	.	-	.	ID=LWC14_07317_1;Parent=LWC14_07317;product=tRNA-Ser(gct)
-Ctg38_length_238073	aragorn	gene	186748	186828	.	-	.	ID=LWC14_07316;locus_tag=LWC14_07316
-Ctg38_length_238073	aragorn	tRNA	186748	186828	.	-	.	ID=LWC14_07316_1;Parent=LWC14_07316;product=tRNA-Ser(gct)
-Ctg14_length_947886	aragorn	gene	206902	206989	.	-	.	ID=LWC14_07313;locus_tag=LWC14_07313
-Ctg14_length_947886	aragorn	tRNA	206902	206989	.	-	.	ID=LWC14_07313_1;Parent=LWC14_07313;product=tRNA-SeC(tca)
-Ctg12_length_257868	aragorn	gene	244823	244895	.	+	.	ID=LWC14_07309;locus_tag=LWC14_07309
-Ctg12_length_257868	aragorn	tRNA	244823	244895	.	+	.	ID=LWC14_07309_1;Parent=LWC14_07309;product=tRNA-Phe(gaa)
-Ctg51_length_441521	aragorn	gene	332873	332947	.	+	.	ID=LWC14_07307;locus_tag=LWC14_07307
-Ctg51_length_441521	aragorn	tRNA	332873	332947	.	+	.	ID=LWC14_07307_1;Parent=LWC14_07307;product=tRNA-Met(cat)
-Ctg30_length_652959	aragorn	gene	394620	394702	.	+	.	ID=LWC14_07314;locus_tag=LWC14_07314
-Ctg30_length_652959	aragorn	tRNA	394620	394702	.	+	.	ID=LWC14_07314_1;Parent=LWC14_07314;product=tRNA-Ser(aga)
-Ctg2_length_511893	aragorn	gene	397697	397770	.	+	.	ID=LWC14_07304;locus_tag=LWC14_07304
-Ctg2_length_511893	aragorn	tRNA	397697	397770	.	+	.	ID=LWC14_07304_1;Parent=LWC14_07304;product=tRNA-Lys(ttt)
-Ctg2_length_511893	aragorn	gene	398116	398191	.	-	.	ID=LWC14_07303;locus_tag=LWC14_07303
-Ctg2_length_511893	aragorn	tRNA	398116	398191	.	-	.	ID=LWC14_07303_1;Parent=LWC14_07303;product=tRNA-Lys(ctt)
-Ctg2_length_511893	aragorn	gene	398250	398321	.	-	.	ID=LWC14_07323;locus_tag=LWC14_07323
-Ctg2_length_511893	aragorn	tRNA	398250	398321	.	-	.	ID=LWC14_07323_1;Parent=LWC14_07323;product=tRNA-Trp(cca)
-Ctg2_length_511893	aragorn	gene	398708	398783	.	+	.	ID=LWC14_07329;locus_tag=LWC14_07329
-Ctg2_length_511893	aragorn	tRNA	398708	398783	.	+	.	ID=LWC14_07329_1;Parent=LWC14_07329;product=tRNA-Val(tac)
-Ctg2_length_511893	aragorn	gene	399014	399085	.	+	.	ID=LWC14_07322;locus_tag=LWC14_07322
-Ctg2_length_511893	aragorn	tRNA	399014	399085	.	+	.	ID=LWC14_07322_1;Parent=LWC14_07322;product=tRNA-Thr(tgt)
-Ctg2_length_511893	aragorn	gene	399416	399489	.	+	.	ID=LWC14_07305;locus_tag=LWC14_07305
-Ctg2_length_511893	aragorn	tRNA	399416	399489	.	+	.	ID=LWC14_07305_1;Parent=LWC14_07305;product=tRNA-Lys(ttt)
-Ctg0_length_1405360	aragorn	gene	424882	424955	.	-	.	ID=LWC14_07302;locus_tag=LWC14_07302
-Ctg0_length_1405360	aragorn	tRNA	424882	424955	.	-	.	ID=LWC14_07302_1;Parent=LWC14_07302;product=tRNA-Lys(ctt)
-Ctg0_length_1405360	aragorn	gene	425014	425085	.	-	.	ID=LWC14_07324;locus_tag=LWC14_07324
-Ctg0_length_1405360	aragorn	tRNA	425014	425085	.	-	.	ID=LWC14_07324_1;Parent=LWC14_07324;product=tRNA-Trp(cca)
-Ctg17_length_605537	aragorn	gene	524223	524313	.	+	.	ID=LWC14_07326;locus_tag=LWC14_07326
-Ctg17_length_605537	aragorn	tRNA	524223	524313	.	+	.	ID=LWC14_07326_1;Parent=LWC14_07326;product=tRNA-Tyr(gta)
-Ctg0_length_1405360	aragorn	gene	536938	537009	.	-	.	ID=LWC14_07321;locus_tag=LWC14_07321
-Ctg0_length_1405360	aragorn	tRNA	536938	537009	.	-	.	ID=LWC14_07321_1;Parent=LWC14_07321;product=tRNA-Thr(cgt)
-Ctg35_length_582086	aragorn	gene	558086	558167	.	-	.	ID=LWC14_07301;locus_tag=LWC14_07301
-Ctg35_length_582086	aragorn	tRNA	558086	558167	.	-	.	ID=LWC14_07301_1;Parent=LWC14_07301;product=tRNA-Leu(tag)
-Ctg35_length_582086	aragorn	gene	558259	558342	.	+	.	ID=LWC14_07318;locus_tag=LWC14_07318
-Ctg35_length_582086	aragorn	tRNA	558259	558342	.	+	.	ID=LWC14_07318_1;Parent=LWC14_07318;product=tRNA-Ser(tga)
-Ctg35_length_582086	aragorn	gene	558409	558499	.	-	.	ID=LWC14_07325;locus_tag=LWC14_07325
-Ctg35_length_582086	aragorn	tRNA	558409	558499	.	-	.	ID=LWC14_07325_1;Parent=LWC14_07325;product=tRNA-Tyr(gta)
-Ctg35_length_582086	aragorn	gene	558611	558685	.	+	.	ID=LWC14_07327;locus_tag=LWC14_07327
-Ctg35_length_582086	aragorn	tRNA	558611	558685	.	+	.	ID=LWC14_07327_1;Parent=LWC14_07327;product=tRNA-Val(aac)
-Ctg18_length_1409826	aragorn	gene	1061281	1061352	.	-	.	ID=LWC14_07306;locus_tag=LWC14_07306
-Ctg18_length_1409826	aragorn	tRNA	1061281	1061352	.	-	.	ID=LWC14_07306_1;Parent=LWC14_07306;product=tRNA-Met(cat)
-Ctg18_length_1409826	aragorn	gene	1061453	1061524	.	+	.	ID=LWC14_07312;locus_tag=LWC14_07312
-Ctg18_length_1409826	aragorn	tRNA	1061453	1061524	.	+	.	ID=LWC14_07312_1;Parent=LWC14_07312;product=tRNA-Pro(tgg)
+Ctg47_length_425809	nonstop_annotator	gene	1617	3089	.	+	1	ID=LWC14_01345;locus_tag=LWC14_01345
+Ctg47_length_425809	nonstop_annotator	mRNA	1617	3089	.	+	1	ID=LWC14_01345_1;Parent=LWC14_01345;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	1859	2182	.	+	1	ID=LWC14_01345.exon1;Parent=LWC14_01345_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	1859	2182	.	+	1	ID=cds.LWC14_01345;Parent=LWC14_01345_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	4753	10231	.	+	0	ID=LWC14_02730;locus_tag=LWC14_02730
+Ctg47_length_425809	nonstop_annotator	mRNA	4753	10231	.	+	0	ID=LWC14_02730_1;Parent=LWC14_02730;product=Endonuclease-reverse transcriptase/Reverse transcriptase (RNA-dependent DNA polymerase), putative
+Ctg47_length_425809	nonstop_annotator	exon	4792	9057	.	+	0	ID=LWC14_02730.exon1;Parent=LWC14_02730_1;product=Endonuclease-reverse transcriptase/Reverse transcriptase (RNA-dependent DNA polymerase), putative
+Ctg47_length_425809	nonstop_annotator	CDS	4792	9057	.	+	0	ID=cds.LWC14_02730;Parent=LWC14_02730_1;product=Endonuclease-reverse transcriptase/Reverse transcriptase (RNA-dependent DNA polymerase), putative
+Ctg47_length_425809	nonstop_annotator	gene	10319	11501	.	+	0	ID=LWC14_04001;locus_tag=LWC14_04001
+Ctg47_length_425809	nonstop_annotator	mRNA	10319	11501	.	+	0	ID=LWC14_04001_1;Parent=LWC14_04001;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	10420	11304	.	+	0	ID=LWC14_04001.exon1;Parent=LWC14_04001_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	10420	11304	.	+	0	ID=cds.LWC14_04001;Parent=LWC14_04001_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	11502	12507	.	+	0	ID=LWC14_02004;locus_tag=LWC14_02004
+Ctg47_length_425809	nonstop_annotator	mRNA	11502	12507	.	+	0	ID=LWC14_02004_1;Parent=LWC14_02004;product=calmodulin, putative
+Ctg47_length_425809	nonstop_annotator	exon	11659	12114	.	+	0	ID=LWC14_02004.exon1;Parent=LWC14_02004_1;product=calmodulin, putative
+Ctg47_length_425809	nonstop_annotator	CDS	11659	12114	.	+	0	ID=cds.LWC14_02004;Parent=LWC14_02004_1;product=calmodulin, putative
+Ctg47_length_425809	nonstop_annotator	gene	12871	15411	.	+	0	ID=LWC14_04002;locus_tag=LWC14_04002
+Ctg47_length_425809	nonstop_annotator	mRNA	12871	15411	.	+	0	ID=LWC14_04002_1;Parent=LWC14_04002;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	13069	14592	.	+	0	ID=LWC14_04002.exon1;Parent=LWC14_04002_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	13069	14592	.	+	0	ID=cds.LWC14_04002;Parent=LWC14_04002_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	15518	18064	.	+	2	ID=LWC14_05998;locus_tag=LWC14_05998
+Ctg47_length_425809	nonstop_annotator	mRNA	15518	18064	.	+	2	ID=LWC14_05998_1;Parent=LWC14_05998;product=Protein of unknown function (DUF498/DUF598), putative
+Ctg47_length_425809	nonstop_annotator	exon	15606	17501	.	+	2	ID=LWC14_05998.exon1;Parent=LWC14_05998_1;product=Protein of unknown function (DUF498/DUF598), putative
+Ctg47_length_425809	nonstop_annotator	CDS	15606	17501	.	+	2	ID=cds.LWC14_05998;Parent=LWC14_05998_1;product=Protein of unknown function (DUF498/DUF598), putative
+Ctg47_length_425809	nonstop_annotator	gene	18290	19650	.	+	0	ID=LWC14_06892;locus_tag=LWC14_06892
+Ctg47_length_425809	nonstop_annotator	mRNA	18290	19650	.	+	0	ID=LWC14_06892_1;Parent=LWC14_06892;product=tRNA intron endonuclease, catalytic C-terminal domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	exon	18376	18918	.	+	0	ID=LWC14_06892.exon1;Parent=LWC14_06892_1;product=tRNA intron endonuclease, catalytic C-terminal domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	CDS	18376	18918	.	+	0	ID=cds.LWC14_06892;Parent=LWC14_06892_1;product=tRNA intron endonuclease, catalytic C-terminal domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	gene	19651	20727	.	+	2	ID=LWC14_01530;locus_tag=LWC14_01530
+Ctg47_length_425809	nonstop_annotator	mRNA	19651	20727	.	+	2	ID=LWC14_01530_1;Parent=LWC14_01530;product=60S ribosomal protein L34, putative
+Ctg47_length_425809	nonstop_annotator	exon	19749	20249	.	+	2	ID=LWC14_01530.exon1;Parent=LWC14_01530_1;product=60S ribosomal protein L34, putative
+Ctg47_length_425809	nonstop_annotator	CDS	19749	20249	.	+	2	ID=cds.LWC14_01530;Parent=LWC14_01530_1;product=60S ribosomal protein L34, putative
+Ctg47_length_425809	nonstop_annotator	gene	20869	21772	.	+	2	ID=LWC14_01441;locus_tag=LWC14_01441
+Ctg47_length_425809	nonstop_annotator	mRNA	20869	21772	.	+	2	ID=LWC14_01441_1;Parent=LWC14_01441;product=40S ribosomal protein S27, putative
+Ctg47_length_425809	nonstop_annotator	exon	20877	21314	.	+	2	ID=LWC14_01441.exon1;Parent=LWC14_01441_1;product=40S ribosomal protein S27, putative
+Ctg47_length_425809	nonstop_annotator	CDS	20877	21314	.	+	2	ID=cds.LWC14_01441;Parent=LWC14_01441_1;product=40S ribosomal protein S27, putative
+Ctg47_length_425809	nonstop_annotator	gene	21877	22865	.	+	1	ID=LWC14_01492;locus_tag=LWC14_01492
+Ctg47_length_425809	nonstop_annotator	mRNA	21877	22865	.	+	1	ID=LWC14_01492_1;Parent=LWC14_01492;product=60S ribosomal protein L10a, putative
+Ctg47_length_425809	nonstop_annotator	exon	22079	22720	.	+	1	ID=LWC14_01492.exon1;Parent=LWC14_01492_1;product=60S ribosomal protein L10a, putative
+Ctg47_length_425809	nonstop_annotator	CDS	22079	22720	.	+	1	ID=cds.LWC14_01492;Parent=LWC14_01492_1;product=60S ribosomal protein L10a, putative
+Ctg47_length_425809	nonstop_annotator	gene	22866	24378	.	+	1	ID=LWC14_06829;locus_tag=LWC14_06829
+Ctg47_length_425809	nonstop_annotator	mRNA	22866	24378	.	+	1	ID=LWC14_06829_1;Parent=LWC14_06829;product=transcription factor BTF3, putative
+Ctg47_length_425809	nonstop_annotator	exon	23414	23719	.	+	1	ID=LWC14_06829.exon1;Parent=LWC14_06829_1;product=transcription factor BTF3, putative
+Ctg47_length_425809	nonstop_annotator	CDS	23414	23719	.	+	1	ID=cds.LWC14_06829;Parent=LWC14_06829_1;product=transcription factor BTF3, putative
+Ctg47_length_425809	nonstop_annotator	gene	24563	26741	.	+	0	ID=LWC14_06583;locus_tag=LWC14_06583
+Ctg47_length_425809	nonstop_annotator	mRNA	24563	26741	.	+	0	ID=LWC14_06583_1;Parent=LWC14_06583;product=Spindle pole body protein 1
+Ctg47_length_425809	nonstop_annotator	exon	24730	25710	.	+	0	ID=LWC14_06583.exon1;Parent=LWC14_06583_1;product=Spindle pole body protein 1
+Ctg47_length_425809	nonstop_annotator	CDS	24730	25710	.	+	0	ID=cds.LWC14_06583;Parent=LWC14_06583_1;product=Spindle pole body protein 1
+Ctg47_length_425809	nonstop_annotator	gene	26971	29289	.	+	0	ID=LWC14_01752;locus_tag=LWC14_01752
+Ctg47_length_425809	nonstop_annotator	mRNA	26971	29289	.	+	0	ID=LWC14_01752_1;Parent=LWC14_01752;product=aminomethyltransferase, mitochondrial, putative
+Ctg47_length_425809	nonstop_annotator	exon	27115	28269	.	+	0	ID=LWC14_01752.exon1;Parent=LWC14_01752_1;product=aminomethyltransferase, mitochondrial, putative
+Ctg47_length_425809	nonstop_annotator	CDS	27115	28269	.	+	0	ID=cds.LWC14_01752;Parent=LWC14_01752_1;product=aminomethyltransferase, mitochondrial, putative
+Ctg47_length_425809	nonstop_annotator	gene	29511	31563	.	+	1	ID=LWC14_07238;locus_tag=LWC14_07238
+Ctg47_length_425809	nonstop_annotator	mRNA	29511	31563	.	+	1	ID=LWC14_07238_1;Parent=LWC14_07238;product=Zinc finger, C3HC4 type (RING finger), putative
+Ctg47_length_425809	nonstop_annotator	exon	29726	31066	.	+	1	ID=LWC14_07238.exon1;Parent=LWC14_07238_1;product=Zinc finger, C3HC4 type (RING finger), putative
+Ctg47_length_425809	nonstop_annotator	CDS	29726	31066	.	+	1	ID=cds.LWC14_07238;Parent=LWC14_07238_1;product=Zinc finger, C3HC4 type (RING finger), putative
+Ctg47_length_425809	nonstop_annotator	gene	31564	33232	.	+	2	ID=LWC14_01358;locus_tag=LWC14_01358
+Ctg47_length_425809	nonstop_annotator	mRNA	31564	33232	.	+	2	ID=LWC14_01358_1;Parent=LWC14_01358;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	31614	33158	.	+	2	ID=LWC14_01358.exon1;Parent=LWC14_01358_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	31614	33158	.	+	2	ID=cds.LWC14_01358;Parent=LWC14_01358_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	33323	36476	.	+	1	ID=LWC14_03045;locus_tag=LWC14_03045
+Ctg47_length_425809	nonstop_annotator	mRNA	33323	36476	.	+	1	ID=LWC14_03045_1;Parent=LWC14_03045;product=glycyl-tRNA synthetase, putative
+Ctg47_length_425809	nonstop_annotator	exon	33608	35599	.	+	1	ID=LWC14_03045.exon1;Parent=LWC14_03045_1;product=glycyl-tRNA synthetase, putative
+Ctg47_length_425809	nonstop_annotator	CDS	33608	35599	.	+	1	ID=cds.LWC14_03045;Parent=LWC14_03045_1;product=glycyl-tRNA synthetase, putative
+Ctg47_length_425809	nonstop_annotator	gene	36696	40013	.	+	2	ID=LWC14_06562;locus_tag=LWC14_06562
+Ctg47_length_425809	nonstop_annotator	mRNA	36696	40013	.	+	2	ID=LWC14_06562_1;Parent=LWC14_06562;product=Snf7, putative
+Ctg47_length_425809	nonstop_annotator	exon	36846	37520	.	+	2	ID=LWC14_06562.exon1;Parent=LWC14_06562_1;product=Snf7, putative
+Ctg47_length_425809	nonstop_annotator	CDS	36846	37520	.	+	2	ID=cds.LWC14_06562;Parent=LWC14_06562_1;product=Snf7, putative
+Ctg47_length_425809	nonstop_annotator	gene	40102	42765	.	+	2	ID=LWC14_02792;locus_tag=LWC14_02792
+Ctg47_length_425809	nonstop_annotator	mRNA	40102	42765	.	+	2	ID=LWC14_02792_1;Parent=LWC14_02792;product=eukaryotic translation initiation factor 3 subunit i
+Ctg47_length_425809	nonstop_annotator	exon	40509	41576	.	+	2	ID=LWC14_02792.exon1;Parent=LWC14_02792_1;product=eukaryotic translation initiation factor 3 subunit i
+Ctg47_length_425809	nonstop_annotator	CDS	40509	41576	.	+	2	ID=cds.LWC14_02792;Parent=LWC14_02792_1;product=eukaryotic translation initiation factor 3 subunit i
+Ctg47_length_425809	nonstop_annotator	gene	42903	44907	.	+	2	ID=LWC14_04004;locus_tag=LWC14_04004
+Ctg47_length_425809	nonstop_annotator	mRNA	42903	44907	.	+	2	ID=LWC14_04004_1;Parent=LWC14_04004;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	43098	44357	.	+	2	ID=LWC14_04004.exon1;Parent=LWC14_04004_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	43098	44357	.	+	2	ID=cds.LWC14_04004;Parent=LWC14_04004_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	46691	49490	.	+	0	ID=LWC14_06735;locus_tag=LWC14_06735
+Ctg47_length_425809	nonstop_annotator	mRNA	46691	49490	.	+	0	ID=LWC14_06735_1;Parent=LWC14_06735;product=telomerase reverse transcriptase
+Ctg47_length_425809	nonstop_annotator	exon	46858	49305	.	+	0	ID=LWC14_06735.exon1;Parent=LWC14_06735_1;product=telomerase reverse transcriptase
+Ctg47_length_425809	nonstop_annotator	CDS	46858	49305	.	+	0	ID=cds.LWC14_06735;Parent=LWC14_06735_1;product=telomerase reverse transcriptase
+Ctg47_length_425809	nonstop_annotator	gene	49491	52352	.	+	0	ID=LWC14_06736;locus_tag=LWC14_06736
+Ctg47_length_425809	nonstop_annotator	mRNA	49491	52352	.	+	0	ID=LWC14_06736_1;Parent=LWC14_06736;product=telomerase reverse transcriptase
+Ctg47_length_425809	nonstop_annotator	exon	49612	52272	.	+	0	ID=LWC14_06736.exon1;Parent=LWC14_06736_1;product=telomerase reverse transcriptase
+Ctg47_length_425809	nonstop_annotator	CDS	49612	52272	.	+	0	ID=cds.LWC14_06736;Parent=LWC14_06736_1;product=telomerase reverse transcriptase
+Ctg47_length_425809	nonstop_annotator	gene	52499	54989	.	+	1	ID=LWC14_04304;locus_tag=LWC14_04304
+Ctg47_length_425809	nonstop_annotator	mRNA	52499	54989	.	+	1	ID=LWC14_04304_1;Parent=LWC14_04304;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	52643	54382	.	+	1	ID=LWC14_04304.exon1;Parent=LWC14_04304_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	52643	54382	.	+	1	ID=cds.LWC14_04304;Parent=LWC14_04304_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	55192	59084	.	+	2	ID=LWC14_01342;locus_tag=LWC14_01342
+Ctg47_length_425809	nonstop_annotator	mRNA	55192	59084	.	+	2	ID=LWC14_01342_1;Parent=LWC14_01342;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	55311	58862	.	+	2	ID=LWC14_01342.exon1;Parent=LWC14_01342_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	55311	58862	.	+	2	ID=cds.LWC14_01342;Parent=LWC14_01342_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	59270	65174	.	+	1	ID=LWC14_04303;locus_tag=LWC14_04303
+Ctg47_length_425809	nonstop_annotator	mRNA	59270	65174	.	+	1	ID=LWC14_04303_1;Parent=LWC14_04303;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	59393	64960	.	+	1	ID=LWC14_04303.exon1;Parent=LWC14_04303_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	59393	64960	.	+	1	ID=cds.LWC14_04303;Parent=LWC14_04303_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	65344	66871	.	+	2	ID=LWC14_06331;locus_tag=LWC14_06331
+Ctg47_length_425809	nonstop_annotator	mRNA	65344	66871	.	+	2	ID=LWC14_06331_1;Parent=LWC14_06331;product=RNA polymerase-associated protein CDC73, putative
+Ctg47_length_425809	nonstop_annotator	exon	65448	66713	.	+	2	ID=LWC14_06331.exon1;Parent=LWC14_06331_1;product=RNA polymerase-associated protein CDC73, putative
+Ctg47_length_425809	nonstop_annotator	CDS	65448	66713	.	+	2	ID=cds.LWC14_06331;Parent=LWC14_06331_1;product=RNA polymerase-associated protein CDC73, putative
+Ctg47_length_425809	nonstop_annotator	gene	67068	68701	.	+	0	ID=LWC14_01870;locus_tag=LWC14_01870
+Ctg47_length_425809	nonstop_annotator	mRNA	67068	68701	.	+	0	ID=LWC14_01870_1;Parent=LWC14_01870;product=ATP-dependent protease subunit HslV
+Ctg47_length_425809	nonstop_annotator	exon	67231	67971	.	+	0	ID=LWC14_01870.exon1;Parent=LWC14_01870_1;product=ATP-dependent protease subunit HslV
+Ctg47_length_425809	nonstop_annotator	CDS	67231	67971	.	+	0	ID=cds.LWC14_01870;Parent=LWC14_01870_1;product=ATP-dependent protease subunit HslV
+Ctg47_length_425809	nonstop_annotator	gene	68841	69831	.	+	1	ID=LWC14_04302;locus_tag=LWC14_04302
+Ctg47_length_425809	nonstop_annotator	mRNA	68841	69831	.	+	1	ID=LWC14_04302_1;Parent=LWC14_04302;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	68990	69760	.	+	1	ID=LWC14_04302.exon1;Parent=LWC14_04302_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	68990	69760	.	+	1	ID=cds.LWC14_04302;Parent=LWC14_04302_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	70006	72520	.	+	1	ID=LWC14_05684;locus_tag=LWC14_05684
+Ctg47_length_425809	nonstop_annotator	mRNA	70006	72520	.	+	1	ID=LWC14_05684_1;Parent=LWC14_05684;product=Peroxin 3, putative
+Ctg47_length_425809	nonstop_annotator	exon	70070	72226	.	+	1	ID=LWC14_05684.exon1;Parent=LWC14_05684_1;product=Peroxin 3, putative
+Ctg47_length_425809	nonstop_annotator	CDS	70070	72226	.	+	1	ID=cds.LWC14_05684;Parent=LWC14_05684_1;product=Peroxin 3, putative
+Ctg47_length_425809	nonstop_annotator	gene	72726	74222	.	+	0	ID=LWC14_03049;locus_tag=LWC14_03049
+Ctg47_length_425809	nonstop_annotator	mRNA	72726	74222	.	+	0	ID=LWC14_03049_1;Parent=LWC14_03049;product=Golgi SNAP receptor complex member 1, putative
+Ctg47_length_425809	nonstop_annotator	exon	72886	74031	.	+	0	ID=LWC14_03049.exon1;Parent=LWC14_03049_1;product=Golgi SNAP receptor complex member 1, putative
+Ctg47_length_425809	nonstop_annotator	CDS	72886	74031	.	+	0	ID=cds.LWC14_03049;Parent=LWC14_03049_1;product=Golgi SNAP receptor complex member 1, putative
+Ctg47_length_425809	nonstop_annotator	gene	74397	80918	.	+	0	ID=LWC14_05010;locus_tag=LWC14_05010
+Ctg47_length_425809	nonstop_annotator	mRNA	74397	80918	.	+	0	ID=LWC14_05010_1;Parent=LWC14_05010;product=metallo-peptidase, Clan MC, Family M14, putative
+Ctg47_length_425809	nonstop_annotator	exon	74491	80100	.	+	0	ID=LWC14_05010.exon1;Parent=LWC14_05010_1;product=metallo-peptidase, Clan MC, Family M14, putative
+Ctg47_length_425809	nonstop_annotator	CDS	74491	80100	.	+	0	ID=cds.LWC14_05010;Parent=LWC14_05010_1;product=metallo-peptidase, Clan MC, Family M14, putative
+Ctg47_length_425809	nonstop_annotator	gene	81181	83894	.	+	1	ID=LWC14_04301;locus_tag=LWC14_04301
+Ctg47_length_425809	nonstop_annotator	mRNA	81181	83894	.	+	1	ID=LWC14_04301_1;Parent=LWC14_04301;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	81353	83320	.	+	1	ID=LWC14_04301.exon1;Parent=LWC14_04301_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	81353	83320	.	+	1	ID=cds.LWC14_04301;Parent=LWC14_04301_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	84035	85712	.	+	0	ID=LWC14_06727;locus_tag=LWC14_06727
+Ctg47_length_425809	nonstop_annotator	mRNA	84035	85712	.	+	0	ID=LWC14_06727_1;Parent=LWC14_06727;product=TatD related DNase, putative
+Ctg47_length_425809	nonstop_annotator	exon	84127	85398	.	+	0	ID=LWC14_06727.exon1;Parent=LWC14_06727_1;product=TatD related DNase, putative
+Ctg47_length_425809	nonstop_annotator	CDS	84127	85398	.	+	0	ID=cds.LWC14_06727;Parent=LWC14_06727_1;product=TatD related DNase, putative
+Ctg47_length_425809	nonstop_annotator	gene	85713	88665	.	+	1	ID=LWC14_06188;locus_tag=LWC14_06188
+Ctg47_length_425809	nonstop_annotator	mRNA	85713	88665	.	+	1	ID=LWC14_06188_1;Parent=LWC14_06188;product=regulator of chromosome condensation 1-like protein
+Ctg47_length_425809	nonstop_annotator	exon	85760	88486	.	+	1	ID=LWC14_06188.exon1;Parent=LWC14_06188_1;product=regulator of chromosome condensation 1-like protein
+Ctg47_length_425809	nonstop_annotator	CDS	85760	88486	.	+	1	ID=cds.LWC14_06188;Parent=LWC14_06188_1;product=regulator of chromosome condensation 1-like protein
+Ctg47_length_425809	nonstop_annotator	gene	89297	90711	.	+	0	ID=LWC14_06484;locus_tag=LWC14_06484
+Ctg47_length_425809	nonstop_annotator	mRNA	89297	90711	.	+	0	ID=LWC14_06484_1;Parent=LWC14_06484;product=Serine/threonine-protein phosphatase PGAM5, mitochondrial, putative
+Ctg47_length_425809	nonstop_annotator	exon	89398	90528	.	+	0	ID=LWC14_06484.exon1;Parent=LWC14_06484_1;product=Serine/threonine-protein phosphatase PGAM5, mitochondrial, putative
+Ctg47_length_425809	nonstop_annotator	CDS	89398	90528	.	+	0	ID=cds.LWC14_06484;Parent=LWC14_06484_1;product=Serine/threonine-protein phosphatase PGAM5, mitochondrial, putative
+Ctg47_length_425809	nonstop_annotator	gene	96865	98920	.	+	0	ID=LWC14_04300;locus_tag=LWC14_04300
+Ctg47_length_425809	nonstop_annotator	mRNA	96865	98920	.	+	0	ID=LWC14_04300_1;Parent=LWC14_04300;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	96949	98670	.	+	0	ID=LWC14_04300.exon1;Parent=LWC14_04300_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	96949	98670	.	+	0	ID=cds.LWC14_04300;Parent=LWC14_04300_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	99175	101468	.	+	2	ID=LWC14_01350;locus_tag=LWC14_01350
+Ctg47_length_425809	nonstop_annotator	mRNA	99175	101468	.	+	2	ID=LWC14_01350_1;Parent=LWC14_01350;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	99315	100487	.	+	2	ID=LWC14_01350.exon1;Parent=LWC14_01350_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	99315	100487	.	+	2	ID=cds.LWC14_01350;Parent=LWC14_01350_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	101662	105907	.	+	0	ID=LWC14_04299;locus_tag=LWC14_04299
+Ctg47_length_425809	nonstop_annotator	mRNA	101662	105907	.	+	0	ID=LWC14_04299_1;Parent=LWC14_04299;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	101740	102405	.	+	0	ID=LWC14_04299.exon1;Parent=LWC14_04299_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	101740	102405	.	+	0	ID=cds.LWC14_04299;Parent=LWC14_04299_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	105970	106831	.	+	1	ID=LWC14_06610;locus_tag=LWC14_06610
+Ctg47_length_425809	nonstop_annotator	mRNA	105970	106831	.	+	1	ID=LWC14_06610_1;Parent=LWC14_06610;product=SSU ribosomal protein, mitochondrial, putative
+Ctg47_length_425809	nonstop_annotator	exon	106103	106684	.	+	1	ID=LWC14_06610.exon1;Parent=LWC14_06610_1;product=SSU ribosomal protein, mitochondrial, putative
+Ctg47_length_425809	nonstop_annotator	CDS	106103	106684	.	+	1	ID=cds.LWC14_06610;Parent=LWC14_06610_1;product=SSU ribosomal protein, mitochondrial, putative
+Ctg47_length_425809	nonstop_annotator	gene	106954	108386	.	+	2	ID=LWC14_01343;locus_tag=LWC14_01343
+Ctg47_length_425809	nonstop_annotator	mRNA	106954	108386	.	+	2	ID=LWC14_01343_1;Parent=LWC14_01343;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	107100	107903	.	+	2	ID=LWC14_01343.exon1;Parent=LWC14_01343_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	107100	107903	.	+	2	ID=cds.LWC14_01343;Parent=LWC14_01343_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	108443	110217	.	+	1	ID=LWC14_01359;locus_tag=LWC14_01359
+Ctg47_length_425809	nonstop_annotator	mRNA	108443	110217	.	+	1	ID=LWC14_01359_1;Parent=LWC14_01359;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	108638	109237	.	+	1	ID=LWC14_01359.exon1;Parent=LWC14_01359_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	108638	109237	.	+	1	ID=cds.LWC14_01359;Parent=LWC14_01359_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	110218	111281	.	+	0	ID=LWC14_02563;locus_tag=LWC14_02563
+Ctg47_length_425809	nonstop_annotator	mRNA	110218	111281	.	+	0	ID=LWC14_02563_1;Parent=LWC14_02563;product=DNA-directed RNA polymerase I subunit, putative
+Ctg47_length_425809	nonstop_annotator	exon	110287	111132	.	+	0	ID=LWC14_02563.exon1;Parent=LWC14_02563_1;product=DNA-directed RNA polymerase I subunit, putative
+Ctg47_length_425809	nonstop_annotator	CDS	110287	111132	.	+	0	ID=cds.LWC14_02563;Parent=LWC14_02563_1;product=DNA-directed RNA polymerase I subunit, putative
+Ctg47_length_425809	nonstop_annotator	gene	111449	114700	.	+	2	ID=LWC14_04298;locus_tag=LWC14_04298
+Ctg47_length_425809	nonstop_annotator	mRNA	111449	114700	.	+	2	ID=LWC14_04298_1;Parent=LWC14_04298;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	111519	114485	.	+	2	ID=LWC14_04298.exon1;Parent=LWC14_04298_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	111519	114485	.	+	2	ID=cds.LWC14_04298;Parent=LWC14_04298_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	117786	120238	.	+	2	ID=LWC14_07043;locus_tag=LWC14_07043
+Ctg47_length_425809	nonstop_annotator	mRNA	117786	120238	.	+	2	ID=LWC14_07043_1;Parent=LWC14_07043;product=UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase, putative
+Ctg47_length_425809	nonstop_annotator	exon	117891	119624	.	+	2	ID=LWC14_07043.exon1;Parent=LWC14_07043_1;product=UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase, putative
+Ctg47_length_425809	nonstop_annotator	CDS	117891	119624	.	+	2	ID=cds.LWC14_07043;Parent=LWC14_07043_1;product=UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase, putative
+Ctg47_length_425809	nonstop_annotator	gene	120368	122048	.	+	0	ID=LWC14_02537;locus_tag=LWC14_02537
+Ctg47_length_425809	nonstop_annotator	mRNA	120368	122048	.	+	0	ID=LWC14_02537_1;Parent=LWC14_02537;product=dna replication complex gins protein psf2
+Ctg47_length_425809	nonstop_annotator	exon	120526	121338	.	+	0	ID=LWC14_02537.exon1;Parent=LWC14_02537_1;product=dna replication complex gins protein psf2
+Ctg47_length_425809	nonstop_annotator	CDS	120526	121338	.	+	0	ID=cds.LWC14_02537;Parent=LWC14_02537_1;product=dna replication complex gins protein psf2
+Ctg47_length_425809	nonstop_annotator	gene	122183	126942	.	+	2	ID=LWC14_04297;locus_tag=LWC14_04297
+Ctg47_length_425809	nonstop_annotator	mRNA	122183	126942	.	+	2	ID=LWC14_04297_1;Parent=LWC14_04297;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	122520	126185	.	+	2	ID=LWC14_04297.exon1;Parent=LWC14_04297_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	122520	126185	.	+	2	ID=cds.LWC14_04297;Parent=LWC14_04297_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	127633	131554	.	+	2	ID=LWC14_05799;locus_tag=LWC14_05799
+Ctg47_length_425809	nonstop_annotator	mRNA	127633	131554	.	+	2	ID=LWC14_05799_1;Parent=LWC14_05799;product=PQQ-like domain/WD domain, G-beta repeat/Utp21 specific WD40 associated putative domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	exon	127755	131399	.	+	2	ID=LWC14_05799.exon1;Parent=LWC14_05799_1;product=PQQ-like domain/WD domain, G-beta repeat/Utp21 specific WD40 associated putative domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	CDS	127755	131399	.	+	2	ID=cds.LWC14_05799;Parent=LWC14_05799_1;product=PQQ-like domain/WD domain, G-beta repeat/Utp21 specific WD40 associated putative domain containing protein, putative
+Ctg47_length_425809	aragorn	gene	131732	131805	.	-	.	ID=LWC14_07279;locus_tag=LWC14_07279
+Ctg47_length_425809	aragorn	tRNA	131732	131805	.	-	.	ID=LWC14_07279_1;Parent=LWC14_07279;product=tRNA-Gln(ctg)
+Ctg47_length_425809	nonstop_annotator	gene	131897	132630	.	+	1	ID=LWC14_01339;locus_tag=LWC14_01339
+Ctg47_length_425809	nonstop_annotator	mRNA	131897	132630	.	+	1	ID=LWC14_01339_1;Parent=LWC14_01339;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	131939	132526	.	+	1	ID=LWC14_01339.exon1;Parent=LWC14_01339_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	131939	132526	.	+	1	ID=cds.LWC14_01339;Parent=LWC14_01339_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	135560	135977	.	+	1	ID=LWC14_01360;locus_tag=LWC14_01360
+Ctg47_length_425809	nonstop_annotator	mRNA	135560	135977	.	+	1	ID=LWC14_01360_1;Parent=LWC14_01360;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	135593	135925	.	+	1	ID=LWC14_01360.exon1;Parent=LWC14_01360_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	135593	135925	.	+	1	ID=cds.LWC14_01360;Parent=LWC14_01360_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	139897	144633	.	+	1	ID=LWC14_05623;locus_tag=LWC14_05623
+Ctg47_length_425809	nonstop_annotator	mRNA	139897	144633	.	+	1	ID=LWC14_05623_1;Parent=LWC14_05623;product=paraflagellar rod component, putative
+Ctg47_length_425809	nonstop_annotator	exon	139997	143254	.	+	1	ID=LWC14_05623.exon1;Parent=LWC14_05623_1;product=paraflagellar rod component, putative
+Ctg47_length_425809	nonstop_annotator	CDS	139997	143254	.	+	1	ID=cds.LWC14_05623;Parent=LWC14_05623_1;product=paraflagellar rod component, putative
+Ctg47_length_425809	nonstop_annotator	gene	144800	147897	.	+	1	ID=LWC14_04318;locus_tag=LWC14_04318
+Ctg47_length_425809	nonstop_annotator	mRNA	144800	147897	.	+	1	ID=LWC14_04318_1;Parent=LWC14_04318;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	144920	147400	.	+	1	ID=LWC14_04318.exon1;Parent=LWC14_04318_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	144920	147400	.	+	1	ID=cds.LWC14_04318;Parent=LWC14_04318_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	150499	154675	.	+	0	ID=LWC14_02226;locus_tag=LWC14_02226
+Ctg47_length_425809	nonstop_annotator	mRNA	150499	154675	.	+	0	ID=LWC14_02226_1;Parent=LWC14_02226;product=CMGC/DYRK protein kinase, putative
+Ctg47_length_425809	nonstop_annotator	exon	152059	153987	.	+	0	ID=LWC14_02226.exon1;Parent=LWC14_02226_1;product=CMGC/DYRK protein kinase, putative
+Ctg47_length_425809	nonstop_annotator	CDS	152059	153987	.	+	0	ID=cds.LWC14_02226;Parent=LWC14_02226_1;product=CMGC/DYRK protein kinase, putative
+Ctg47_length_425809	nonstop_annotator	gene	154676	156071	.	+	1	ID=LWC14_01356;locus_tag=LWC14_01356
+Ctg47_length_425809	nonstop_annotator	mRNA	154676	156071	.	+	1	ID=LWC14_01356_1;Parent=LWC14_01356;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	154805	156004	.	+	1	ID=LWC14_01356.exon1;Parent=LWC14_01356_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	154805	156004	.	+	1	ID=cds.LWC14_01356;Parent=LWC14_01356_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	157141	159321	.	+	1	ID=LWC14_04317;locus_tag=LWC14_04317
+Ctg47_length_425809	nonstop_annotator	mRNA	157141	159321	.	+	1	ID=LWC14_04317_1;Parent=LWC14_04317;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	157364	159298	.	+	1	ID=LWC14_04317.exon1;Parent=LWC14_04317_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	157364	159298	.	+	1	ID=cds.LWC14_04317;Parent=LWC14_04317_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	161675	169034	.	+	0	ID=LWC14_05515;locus_tag=LWC14_05515
+Ctg47_length_425809	nonstop_annotator	mRNA	161675	169034	.	+	0	ID=LWC14_05515_1;Parent=LWC14_05515;product=Nucleoporin NUP152
+Ctg47_length_425809	nonstop_annotator	exon	161944	168129	.	+	0	ID=LWC14_05515.exon1;Parent=LWC14_05515_1;product=Nucleoporin NUP152
+Ctg47_length_425809	nonstop_annotator	CDS	161944	168129	.	+	0	ID=cds.LWC14_05515;Parent=LWC14_05515_1;product=Nucleoporin NUP152
+Ctg47_length_425809	nonstop_annotator	gene	169184	172427	.	+	0	ID=LWC14_06592;locus_tag=LWC14_06592
+Ctg47_length_425809	nonstop_annotator	mRNA	169184	172427	.	+	0	ID=LWC14_06592_1;Parent=LWC14_06592;product=Splicing factor CRN, putative
+Ctg47_length_425809	nonstop_annotator	exon	169252	172332	.	+	0	ID=LWC14_06592.exon1;Parent=LWC14_06592_1;product=Splicing factor CRN, putative
+Ctg47_length_425809	nonstop_annotator	CDS	169252	172332	.	+	0	ID=cds.LWC14_06592;Parent=LWC14_06592_1;product=Splicing factor CRN, putative
+Ctg47_length_425809	nonstop_annotator	gene	172578	178102	.	+	1	ID=LWC14_01656;locus_tag=LWC14_01656
+Ctg47_length_425809	nonstop_annotator	mRNA	172578	178102	.	+	1	ID=LWC14_01656_1;Parent=LWC14_01656;product=ADP-ribosylation factor family, putative
+Ctg47_length_425809	nonstop_annotator	exon	172697	178012	.	+	1	ID=LWC14_01656.exon1;Parent=LWC14_01656_1;product=ADP-ribosylation factor family, putative
+Ctg47_length_425809	nonstop_annotator	CDS	172697	178012	.	+	1	ID=cds.LWC14_01656;Parent=LWC14_01656_1;product=ADP-ribosylation factor family, putative
+Ctg47_length_425809	nonstop_annotator	gene	178230	181462	.	+	2	ID=LWC14_06913;locus_tag=LWC14_06913
+Ctg47_length_425809	nonstop_annotator	mRNA	178230	181462	.	+	2	ID=LWC14_06913_1;Parent=LWC14_06913;product=trypanothione synthetase, putative
+Ctg47_length_425809	nonstop_annotator	exon	178401	181124	.	+	2	ID=LWC14_06913.exon1;Parent=LWC14_06913_1;product=trypanothione synthetase, putative
+Ctg47_length_425809	nonstop_annotator	CDS	178401	181124	.	+	2	ID=cds.LWC14_06913;Parent=LWC14_06913_1;product=trypanothione synthetase, putative
+Ctg47_length_425809	nonstop_annotator	gene	181614	183839	.	+	2	ID=LWC14_06494;locus_tag=LWC14_06494
+Ctg47_length_425809	nonstop_annotator	mRNA	181614	183839	.	+	2	ID=LWC14_06494_1;Parent=LWC14_06494;product=SET domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	exon	181725	183761	.	+	2	ID=LWC14_06494.exon1;Parent=LWC14_06494_1;product=SET domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	CDS	181725	183761	.	+	2	ID=cds.LWC14_06494;Parent=LWC14_06494_1;product=SET domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	gene	184019	192686	.	+	1	ID=LWC14_05825;locus_tag=LWC14_05825
+Ctg47_length_425809	nonstop_annotator	mRNA	184019	192686	.	+	1	ID=LWC14_05825_1;Parent=LWC14_05825;product=predicted C2 domain protein
+Ctg47_length_425809	nonstop_annotator	exon	184319	192544	.	+	1	ID=LWC14_05825.exon1;Parent=LWC14_05825_1;product=predicted C2 domain protein
+Ctg47_length_425809	nonstop_annotator	CDS	184319	192544	.	+	1	ID=cds.LWC14_05825;Parent=LWC14_05825_1;product=predicted C2 domain protein
+Ctg47_length_425809	nonstop_annotator	gene	200723	204908	.	+	2	ID=LWC14_01349;locus_tag=LWC14_01349
+Ctg47_length_425809	nonstop_annotator	mRNA	200723	204908	.	+	2	ID=LWC14_01349_1;Parent=LWC14_01349;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	200808	202619	.	+	2	ID=LWC14_01349.exon1;Parent=LWC14_01349_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	200808	202619	.	+	2	ID=cds.LWC14_01349;Parent=LWC14_01349_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	205004	209056	.	+	1	ID=LWC14_01341;locus_tag=LWC14_01341
+Ctg47_length_425809	nonstop_annotator	mRNA	205004	209056	.	+	1	ID=LWC14_01341_1;Parent=LWC14_01341;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	205286	208711	.	+	1	ID=LWC14_01341.exon1;Parent=LWC14_01341_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	205286	208711	.	+	1	ID=cds.LWC14_01341;Parent=LWC14_01341_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	209609	211594	.	+	1	ID=LWC14_06193;locus_tag=LWC14_06193
+Ctg47_length_425809	nonstop_annotator	mRNA	209609	211594	.	+	1	ID=LWC14_06193_1;Parent=LWC14_06193;product=Regulatory particle triple-A ATPase subunit 6
+Ctg47_length_425809	nonstop_annotator	exon	209813	211096	.	+	1	ID=LWC14_06193.exon1;Parent=LWC14_06193_1;product=Regulatory particle triple-A ATPase subunit 6
+Ctg47_length_425809	nonstop_annotator	CDS	209813	211096	.	+	1	ID=cds.LWC14_06193;Parent=LWC14_06193_1;product=Regulatory particle triple-A ATPase subunit 6
+Ctg47_length_425809	nonstop_annotator	gene	211685	215767	.	+	0	ID=LWC14_02969;locus_tag=LWC14_02969
+Ctg47_length_425809	nonstop_annotator	mRNA	211685	215767	.	+	0	ID=LWC14_02969_1;Parent=LWC14_02969;product=gamma-tubulin complex subunit, putative
+Ctg47_length_425809	nonstop_annotator	exon	211828	215319	.	+	0	ID=LWC14_02969.exon1;Parent=LWC14_02969_1;product=gamma-tubulin complex subunit, putative
+Ctg47_length_425809	nonstop_annotator	CDS	211828	215319	.	+	0	ID=cds.LWC14_02969;Parent=LWC14_02969_1;product=gamma-tubulin complex subunit, putative
+Ctg47_length_425809	nonstop_annotator	gene	215948	219190	.	+	0	ID=LWC14_01855;locus_tag=LWC14_01855
+Ctg47_length_425809	nonstop_annotator	mRNA	215948	219190	.	+	0	ID=LWC14_01855_1;Parent=LWC14_01855;product=ATP-dependent DEAD/H RNA helicase, putative
+Ctg47_length_425809	nonstop_annotator	exon	216082	219054	.	+	0	ID=LWC14_01855.exon1;Parent=LWC14_01855_1;product=ATP-dependent DEAD/H RNA helicase, putative
+Ctg47_length_425809	nonstop_annotator	CDS	216082	219054	.	+	0	ID=cds.LWC14_01855;Parent=LWC14_01855_1;product=ATP-dependent DEAD/H RNA helicase, putative
+Ctg47_length_425809	nonstop_annotator	gene	219346	220261	.	+	1	ID=LWC14_04316;locus_tag=LWC14_04316
+Ctg47_length_425809	nonstop_annotator	mRNA	219346	220261	.	+	1	ID=LWC14_04316_1;Parent=LWC14_04316;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	219419	220153	.	+	1	ID=LWC14_04316.exon1;Parent=LWC14_04316_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	219419	220153	.	+	1	ID=cds.LWC14_04316;Parent=LWC14_04316_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	220318	221067	.	+	0	ID=LWC14_01507;locus_tag=LWC14_01507
+Ctg47_length_425809	nonstop_annotator	mRNA	220318	221067	.	+	0	ID=LWC14_01507_1;Parent=LWC14_01507;product=60S ribosomal protein L22
+Ctg47_length_425809	nonstop_annotator	exon	220483	220872	.	+	0	ID=LWC14_01507.exon1;Parent=LWC14_01507_1;product=60S ribosomal protein L22
+Ctg47_length_425809	nonstop_annotator	CDS	220483	220872	.	+	0	ID=cds.LWC14_01507;Parent=LWC14_01507_1;product=60S ribosomal protein L22
+Ctg47_length_425809	nonstop_annotator	gene	221163	222912	.	+	2	ID=LWC14_01337;locus_tag=LWC14_01337
+Ctg47_length_425809	nonstop_annotator	mRNA	221163	222912	.	+	2	ID=LWC14_01337_1;Parent=LWC14_01337;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	221274	222392	.	+	2	ID=LWC14_01337.exon1;Parent=LWC14_01337_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	221274	222392	.	+	2	ID=cds.LWC14_01337;Parent=LWC14_01337_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	223038	224591	.	+	0	ID=LWC14_04315;locus_tag=LWC14_04315
+Ctg47_length_425809	nonstop_annotator	mRNA	223038	224591	.	+	0	ID=LWC14_04315_1;Parent=LWC14_04315;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	223186	224148	.	+	0	ID=LWC14_04315.exon1;Parent=LWC14_04315_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	223186	224148	.	+	0	ID=cds.LWC14_04315;Parent=LWC14_04315_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	224644	227660	.	+	0	ID=LWC14_05151;locus_tag=LWC14_05151
+Ctg47_length_425809	nonstop_annotator	mRNA	224644	227660	.	+	0	ID=LWC14_05151_1;Parent=LWC14_05151;product=mitochondrial intermediate peptidase
+Ctg47_length_425809	nonstop_annotator	exon	224863	227052	.	+	0	ID=LWC14_05151.exon1;Parent=LWC14_05151_1;product=mitochondrial intermediate peptidase
+Ctg47_length_425809	nonstop_annotator	CDS	224863	227052	.	+	0	ID=cds.LWC14_05151;Parent=LWC14_05151_1;product=mitochondrial intermediate peptidase
+Ctg47_length_425809	nonstop_annotator	gene	227779	229029	.	+	1	ID=LWC14_05095;locus_tag=LWC14_05095
+Ctg47_length_425809	nonstop_annotator	mRNA	227779	229029	.	+	1	ID=LWC14_05095_1;Parent=LWC14_05095;product=Mitochondrial ATP synthase subunit, putative
+Ctg47_length_425809	nonstop_annotator	exon	227987	228499	.	+	1	ID=LWC14_05095.exon1;Parent=LWC14_05095_1;product=Mitochondrial ATP synthase subunit, putative
+Ctg47_length_425809	nonstop_annotator	CDS	227987	228499	.	+	1	ID=cds.LWC14_05095;Parent=LWC14_05095_1;product=Mitochondrial ATP synthase subunit, putative
+Ctg47_length_425809	nonstop_annotator	gene	229030	230269	.	+	1	ID=LWC14_02154;locus_tag=LWC14_02154
+Ctg47_length_425809	nonstop_annotator	mRNA	229030	230269	.	+	1	ID=LWC14_02154_1;Parent=LWC14_02154;product=chaperone protein DnaJ, putative
+Ctg47_length_425809	nonstop_annotator	exon	229163	230161	.	+	1	ID=LWC14_02154.exon1;Parent=LWC14_02154_1;product=chaperone protein DnaJ, putative
+Ctg47_length_425809	nonstop_annotator	CDS	229163	230161	.	+	1	ID=cds.LWC14_02154;Parent=LWC14_02154_1;product=chaperone protein DnaJ, putative
+Ctg47_length_425809	nonstop_annotator	gene	230473	232576	.	+	2	ID=LWC14_05156;locus_tag=LWC14_05156
+Ctg47_length_425809	nonstop_annotator	mRNA	230473	232576	.	+	2	ID=LWC14_05156_1;Parent=LWC14_05156;product=Mitochondrial N(5)-glutamine methyltransferase MTQ1, putative
+Ctg47_length_425809	nonstop_annotator	exon	230535	232547	.	+	2	ID=LWC14_05156.exon1;Parent=LWC14_05156_1;product=Mitochondrial N(5)-glutamine methyltransferase MTQ1, putative
+Ctg47_length_425809	nonstop_annotator	CDS	230535	232547	.	+	2	ID=cds.LWC14_05156;Parent=LWC14_05156_1;product=Mitochondrial N(5)-glutamine methyltransferase MTQ1, putative
+Ctg47_length_425809	nonstop_annotator	gene	232744	233781	.	+	1	ID=LWC14_02250;locus_tag=LWC14_02250
+Ctg47_length_425809	nonstop_annotator	mRNA	232744	233781	.	+	1	ID=LWC14_02250_1;Parent=LWC14_02250;product=Component of motile flagella 12
+Ctg47_length_425809	nonstop_annotator	exon	232844	233644	.	+	1	ID=LWC14_02250.exon1;Parent=LWC14_02250_1;product=Component of motile flagella 12
+Ctg47_length_425809	nonstop_annotator	CDS	232844	233644	.	+	1	ID=cds.LWC14_02250;Parent=LWC14_02250_1;product=Component of motile flagella 12
+Ctg47_length_425809	nonstop_annotator	gene	234860	239427	.	+	1	ID=LWC14_04314;locus_tag=LWC14_04314
+Ctg47_length_425809	nonstop_annotator	mRNA	234860	239427	.	+	1	ID=LWC14_04314_1;Parent=LWC14_04314;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	234974	238807	.	+	1	ID=LWC14_04314.exon1;Parent=LWC14_04314_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	234974	238807	.	+	1	ID=cds.LWC14_04314;Parent=LWC14_04314_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	239574	240933	.	+	0	ID=LWC14_05342;locus_tag=LWC14_05342
+Ctg47_length_425809	nonstop_annotator	mRNA	239574	240933	.	+	0	ID=LWC14_05342_1;Parent=LWC14_05342;product=myosin heavy chain kinase A, putative
+Ctg47_length_425809	nonstop_annotator	exon	239704	240717	.	+	0	ID=LWC14_05342.exon1;Parent=LWC14_05342_1;product=myosin heavy chain kinase A, putative
+Ctg47_length_425809	nonstop_annotator	CDS	239704	240717	.	+	0	ID=cds.LWC14_05342;Parent=LWC14_05342_1;product=myosin heavy chain kinase A, putative
+Ctg47_length_425809	nonstop_annotator	gene	240934	241666	.	+	2	ID=LWC14_01352;locus_tag=LWC14_01352
+Ctg47_length_425809	nonstop_annotator	mRNA	240934	241666	.	+	2	ID=LWC14_01352_1;Parent=LWC14_01352;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	240984	241520	.	+	2	ID=LWC14_01352.exon1;Parent=LWC14_01352_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	240984	241520	.	+	2	ID=cds.LWC14_01352;Parent=LWC14_01352_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	242095	245543	.	+	0	ID=LWC14_06069;locus_tag=LWC14_06069
+Ctg47_length_425809	nonstop_annotator	mRNA	242095	245543	.	+	0	ID=LWC14_06069_1;Parent=LWC14_06069;product=PSP1 C-terminal conserved region, putative
+Ctg47_length_425809	nonstop_annotator	exon	242737	245346	.	+	0	ID=LWC14_06069.exon1;Parent=LWC14_06069_1;product=PSP1 C-terminal conserved region, putative
+Ctg47_length_425809	nonstop_annotator	CDS	242737	245346	.	+	0	ID=cds.LWC14_06069;Parent=LWC14_06069_1;product=PSP1 C-terminal conserved region, putative
+Ctg47_length_425809	nonstop_annotator	gene	247013	249206	.	+	1	ID=LWC14_04313;locus_tag=LWC14_04313
+Ctg47_length_425809	nonstop_annotator	mRNA	247013	249206	.	+	1	ID=LWC14_04313_1;Parent=LWC14_04313;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	247235	248995	.	+	1	ID=LWC14_04313.exon1;Parent=LWC14_04313_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	247235	248995	.	+	1	ID=cds.LWC14_04313;Parent=LWC14_04313_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	249400	252588	.	+	0	ID=LWC14_05696;locus_tag=LWC14_05696
+Ctg47_length_425809	nonstop_annotator	mRNA	249400	252588	.	+	0	ID=LWC14_05696_1;Parent=LWC14_05696;product=PHD-zinc-finger like domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	exon	249505	252585	.	+	0	ID=LWC14_05696.exon1;Parent=LWC14_05696_1;product=PHD-zinc-finger like domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	CDS	249505	252585	.	+	0	ID=cds.LWC14_05696;Parent=LWC14_05696_1;product=PHD-zinc-finger like domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	gene	252701	254478	.	+	1	ID=LWC14_04312;locus_tag=LWC14_04312
+Ctg47_length_425809	nonstop_annotator	mRNA	252701	254478	.	+	1	ID=LWC14_04312_1;Parent=LWC14_04312;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	252809	254449	.	+	1	ID=LWC14_04312.exon1;Parent=LWC14_04312_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	252809	254449	.	+	1	ID=cds.LWC14_04312;Parent=LWC14_04312_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	254593	259439	.	+	2	ID=LWC14_04311;locus_tag=LWC14_04311
+Ctg47_length_425809	nonstop_annotator	mRNA	254593	259439	.	+	2	ID=LWC14_04311_1;Parent=LWC14_04311;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	254673	259001	.	+	2	ID=LWC14_04311.exon1;Parent=LWC14_04311_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	254673	259001	.	+	2	ID=cds.LWC14_04311;Parent=LWC14_04311_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	259636	262034	.	+	2	ID=LWC14_05460;locus_tag=LWC14_05460
+Ctg47_length_425809	nonstop_annotator	mRNA	259636	262034	.	+	2	ID=LWC14_05460_1;Parent=LWC14_05460;product=non-canonical purine NTP pyrophosphatase, RdgB/HAM1 family, putative
+Ctg47_length_425809	nonstop_annotator	exon	259752	260465	.	+	2	ID=LWC14_05460.exon1;Parent=LWC14_05460_1;product=non-canonical purine NTP pyrophosphatase, RdgB/HAM1 family, putative
+Ctg47_length_425809	nonstop_annotator	CDS	259752	260465	.	+	2	ID=cds.LWC14_05460;Parent=LWC14_05460_1;product=non-canonical purine NTP pyrophosphatase, RdgB/HAM1 family, putative
+Ctg47_length_425809	nonstop_annotator	gene	262466	265539	.	+	2	ID=LWC14_04588;locus_tag=LWC14_04588
+Ctg47_length_425809	nonstop_annotator	mRNA	262466	265539	.	+	2	ID=LWC14_04588_1;Parent=LWC14_04588;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	262590	264890	.	+	2	ID=LWC14_04588.exon1;Parent=LWC14_04588_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	262590	264890	.	+	2	ID=cds.LWC14_04588;Parent=LWC14_04588_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	265594	266882	.	+	2	ID=LWC14_05325;locus_tag=LWC14_05325
+Ctg47_length_425809	nonstop_annotator	mRNA	265594	266882	.	+	2	ID=LWC14_05325_1;Parent=LWC14_05325;product=mRNA turnover protein 4, putative
+Ctg47_length_425809	nonstop_annotator	exon	265842	266597	.	+	2	ID=LWC14_05325.exon1;Parent=LWC14_05325_1;product=mRNA turnover protein 4, putative
+Ctg47_length_425809	nonstop_annotator	CDS	265842	266597	.	+	2	ID=cds.LWC14_05325;Parent=LWC14_05325_1;product=mRNA turnover protein 4, putative
+Ctg47_length_425809	nonstop_annotator	gene	272522	273350	.	+	0	ID=LWC14_04587;locus_tag=LWC14_04587
+Ctg47_length_425809	nonstop_annotator	mRNA	272522	273350	.	+	0	ID=LWC14_04587_1;Parent=LWC14_04587;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	272620	272985	.	+	0	ID=LWC14_04587.exon1;Parent=LWC14_04587_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	272620	272985	.	+	0	ID=cds.LWC14_04587;Parent=LWC14_04587_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	274087	284440	.	+	0	ID=LWC14_01354;locus_tag=LWC14_01354
+Ctg47_length_425809	nonstop_annotator	mRNA	274087	284440	.	+	0	ID=LWC14_01354_1;Parent=LWC14_01354;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	274852	280572	.	+	0	ID=LWC14_01354.exon1;Parent=LWC14_01354_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	274852	280572	.	+	0	ID=cds.LWC14_01354;Parent=LWC14_01354_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	284441	285978	.	+	1	ID=LWC14_01355;locus_tag=LWC14_01355
+Ctg47_length_425809	nonstop_annotator	mRNA	284441	285978	.	+	1	ID=LWC14_01355_1;Parent=LWC14_01355;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	284453	285268	.	+	1	ID=LWC14_01355.exon1;Parent=LWC14_01355_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	284453	285268	.	+	1	ID=cds.LWC14_01355;Parent=LWC14_01355_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	286115	288520	.	+	2	ID=LWC14_04586;locus_tag=LWC14_04586
+Ctg47_length_425809	nonstop_annotator	mRNA	286115	288520	.	+	2	ID=LWC14_04586_1;Parent=LWC14_04586;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	286275	288404	.	+	2	ID=LWC14_04586.exon1;Parent=LWC14_04586_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	286275	288404	.	+	2	ID=cds.LWC14_04586;Parent=LWC14_04586_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	288639	289310	.	+	0	ID=LWC14_04585;locus_tag=LWC14_04585
+Ctg47_length_425809	nonstop_annotator	mRNA	288639	289310	.	+	0	ID=LWC14_04585_1;Parent=LWC14_04585;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	288730	289281	.	+	0	ID=LWC14_04585.exon1;Parent=LWC14_04585_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	288730	289281	.	+	0	ID=cds.LWC14_04585;Parent=LWC14_04585_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	289601	295712	.	+	1	ID=LWC14_02251;locus_tag=LWC14_02251
+Ctg47_length_425809	nonstop_annotator	mRNA	289601	295712	.	+	1	ID=LWC14_02251_1;Parent=LWC14_02251;product=Component of motile flagella 14
+Ctg47_length_425809	nonstop_annotator	exon	289655	294385	.	+	1	ID=LWC14_02251.exon1;Parent=LWC14_02251_1;product=Component of motile flagella 14
+Ctg47_length_425809	nonstop_annotator	CDS	289655	294385	.	+	1	ID=cds.LWC14_02251;Parent=LWC14_02251_1;product=Component of motile flagella 14
+Ctg47_length_425809	nonstop_annotator	gene	295900	296801	.	+	2	ID=LWC14_05764;locus_tag=LWC14_05764
+Ctg47_length_425809	nonstop_annotator	mRNA	295900	296801	.	+	2	ID=LWC14_05764_1;Parent=LWC14_05764;product=PIG-P, putative
+Ctg47_length_425809	nonstop_annotator	exon	296016	296438	.	+	2	ID=LWC14_05764.exon1;Parent=LWC14_05764_1;product=PIG-P, putative
+Ctg47_length_425809	nonstop_annotator	CDS	296016	296438	.	+	2	ID=cds.LWC14_05764;Parent=LWC14_05764_1;product=PIG-P, putative
+Ctg47_length_425809	nonstop_annotator	gene	296802	298971	.	+	0	ID=LWC14_04584;locus_tag=LWC14_04584
+Ctg47_length_425809	nonstop_annotator	mRNA	296802	298971	.	+	0	ID=LWC14_04584_1;Parent=LWC14_04584;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	296809	298938	.	+	0	ID=LWC14_04584.exon1;Parent=LWC14_04584_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	296809	298938	.	+	0	ID=cds.LWC14_04584;Parent=LWC14_04584_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	299107	301128	.	+	1	ID=LWC14_06316;locus_tag=LWC14_06316
+Ctg47_length_425809	nonstop_annotator	mRNA	299107	301128	.	+	1	ID=LWC14_06316_1;Parent=LWC14_06316;product=RNA editing mediator complex protein 1
+Ctg47_length_425809	nonstop_annotator	exon	299240	300877	.	+	1	ID=LWC14_06316.exon1;Parent=LWC14_06316_1;product=RNA editing mediator complex protein 1
+Ctg47_length_425809	nonstop_annotator	CDS	299240	300877	.	+	1	ID=cds.LWC14_06316;Parent=LWC14_06316_1;product=RNA editing mediator complex protein 1
+Ctg47_length_425809	nonstop_annotator	gene	301307	303288	.	+	1	ID=LWC14_05628;locus_tag=LWC14_05628
+Ctg47_length_425809	nonstop_annotator	mRNA	301307	303288	.	+	1	ID=LWC14_05628_1;Parent=LWC14_05628;product=paraflagellar rod component, putative
+Ctg47_length_425809	nonstop_annotator	exon	301466	302422	.	+	1	ID=LWC14_05628.exon1;Parent=LWC14_05628_1;product=paraflagellar rod component, putative
+Ctg47_length_425809	nonstop_annotator	CDS	301466	302422	.	+	1	ID=cds.LWC14_05628;Parent=LWC14_05628_1;product=paraflagellar rod component, putative
+Ctg47_length_425809	nonstop_annotator	gene	303426	305670	.	+	2	ID=LWC14_01347;locus_tag=LWC14_01347
+Ctg47_length_425809	nonstop_annotator	mRNA	303426	305670	.	+	2	ID=LWC14_01347_1;Parent=LWC14_01347;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	303501	305558	.	+	2	ID=LWC14_01347.exon1;Parent=LWC14_01347_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	303501	305558	.	+	2	ID=cds.LWC14_01347;Parent=LWC14_01347_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	305882	307751	.	+	2	ID=LWC14_04405;locus_tag=LWC14_04405
+Ctg47_length_425809	nonstop_annotator	mRNA	305882	307751	.	+	2	ID=LWC14_04405_1;Parent=LWC14_04405;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	305970	307310	.	+	2	ID=LWC14_04405.exon1;Parent=LWC14_04405_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	305970	307310	.	+	2	ID=cds.LWC14_04405;Parent=LWC14_04405_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	307833	309628	.	+	1	ID=LWC14_04785;locus_tag=LWC14_04785
+Ctg47_length_425809	nonstop_annotator	mRNA	307833	309628	.	+	1	ID=LWC14_04785_1;Parent=LWC14_04785;product=Kinetoplast polyadenylation factor 4
+Ctg47_length_425809	nonstop_annotator	exon	308159	309232	.	+	1	ID=LWC14_04785.exon1;Parent=LWC14_04785_1;product=Kinetoplast polyadenylation factor 4
+Ctg47_length_425809	nonstop_annotator	CDS	308159	309232	.	+	1	ID=cds.LWC14_04785;Parent=LWC14_04785_1;product=Kinetoplast polyadenylation factor 4
+Ctg47_length_425809	nonstop_annotator	gene	309821	312009	.	+	0	ID=LWC14_05804;locus_tag=LWC14_05804
+Ctg47_length_425809	nonstop_annotator	mRNA	309821	312009	.	+	0	ID=LWC14_05804_1;Parent=LWC14_05804;product=pre-mRNA splicing factor 46, putative
+Ctg47_length_425809	nonstop_annotator	exon	310003	311742	.	+	0	ID=LWC14_05804.exon1;Parent=LWC14_05804_1;product=pre-mRNA splicing factor 46, putative
+Ctg47_length_425809	nonstop_annotator	CDS	310003	311742	.	+	0	ID=cds.LWC14_05804;Parent=LWC14_05804_1;product=pre-mRNA splicing factor 46, putative
+Ctg47_length_425809	nonstop_annotator	gene	312010	313618	.	+	0	ID=LWC14_01353;locus_tag=LWC14_01353
+Ctg47_length_425809	nonstop_annotator	mRNA	312010	313618	.	+	0	ID=LWC14_01353_1;Parent=LWC14_01353;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	312028	313551	.	+	0	ID=LWC14_01353.exon1;Parent=LWC14_01353_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	312028	313551	.	+	0	ID=cds.LWC14_01353;Parent=LWC14_01353_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	313733	318157	.	+	0	ID=LWC14_04885;locus_tag=LWC14_04885
+Ctg47_length_425809	nonstop_annotator	mRNA	313733	318157	.	+	0	ID=LWC14_04885_1;Parent=LWC14_04885;product=Leucine-rich repeat domain containing protein
+Ctg47_length_425809	nonstop_annotator	exon	313822	317910	.	+	0	ID=LWC14_04885.exon1;Parent=LWC14_04885_1;product=Leucine-rich repeat domain containing protein
+Ctg47_length_425809	nonstop_annotator	CDS	313822	317910	.	+	0	ID=cds.LWC14_04885;Parent=LWC14_04885_1;product=Leucine-rich repeat domain containing protein
+Ctg47_length_425809	nonstop_annotator	gene	318334	320649	.	+	2	ID=LWC14_01348;locus_tag=LWC14_01348
+Ctg47_length_425809	nonstop_annotator	mRNA	318334	320649	.	+	2	ID=LWC14_01348_1;Parent=LWC14_01348;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	318474	319322	.	+	2	ID=LWC14_01348.exon1;Parent=LWC14_01348_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	318474	319322	.	+	2	ID=cds.LWC14_01348;Parent=LWC14_01348_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	320916	322542	.	+	2	ID=LWC14_01340;locus_tag=LWC14_01340
+Ctg47_length_425809	nonstop_annotator	mRNA	320916	322542	.	+	2	ID=LWC14_01340_1;Parent=LWC14_01340;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	321264	321983	.	+	2	ID=LWC14_01340.exon1;Parent=LWC14_01340_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	321264	321983	.	+	2	ID=cds.LWC14_01340;Parent=LWC14_01340_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	324068	325009	.	-	2	ID=LWC14_02828;locus_tag=LWC14_02828
+Ctg47_length_425809	nonstop_annotator	mRNA	324068	325009	.	-	2	ID=LWC14_02828_1;Parent=LWC14_02828;product=exosome-associated protein 4
+Ctg47_length_425809	nonstop_annotator	exon	324198	324938	.	-	2	ID=LWC14_02828.exon1;Parent=LWC14_02828_1;product=exosome-associated protein 4
+Ctg47_length_425809	nonstop_annotator	CDS	324198	324938	.	-	2	ID=cds.LWC14_02828;Parent=LWC14_02828_1;product=exosome-associated protein 4
+Ctg47_length_425809	nonstop_annotator	gene	325128	332040	.	-	1	ID=LWC14_01351;locus_tag=LWC14_01351
+Ctg47_length_425809	nonstop_annotator	mRNA	325128	332040	.	-	1	ID=LWC14_01351_1;Parent=LWC14_01351;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	325171	332028	.	-	1	ID=LWC14_01351.exon1;Parent=LWC14_01351_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	325171	332028	.	-	1	ID=cds.LWC14_01351;Parent=LWC14_01351_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	332196	334113	.	-	2	ID=LWC14_04284;locus_tag=LWC14_04284
+Ctg47_length_425809	nonstop_annotator	mRNA	332196	334113	.	-	2	ID=LWC14_04284_1;Parent=LWC14_04284;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	332865	333962	.	-	2	ID=LWC14_04284.exon1;Parent=LWC14_04284_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	332865	333962	.	-	2	ID=cds.LWC14_04284;Parent=LWC14_04284_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	334289	337176	.	-	2	ID=LWC14_01344;locus_tag=LWC14_01344
+Ctg47_length_425809	nonstop_annotator	mRNA	334289	337176	.	-	2	ID=LWC14_01344_1;Parent=LWC14_01344;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	334848	337118	.	-	2	ID=LWC14_01344.exon1;Parent=LWC14_01344_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	334848	337118	.	-	2	ID=cds.LWC14_01344;Parent=LWC14_01344_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	339721	341161	.	-	1	ID=LWC14_05033;locus_tag=LWC14_05033
+Ctg47_length_425809	nonstop_annotator	mRNA	339721	341161	.	-	1	ID=LWC14_05033_1;Parent=LWC14_05033;product=methylthioribose-1-phosphate isomerase, putative
+Ctg47_length_425809	nonstop_annotator	exon	340003	341145	.	-	1	ID=LWC14_05033.exon1;Parent=LWC14_05033_1;product=methylthioribose-1-phosphate isomerase, putative
+Ctg47_length_425809	nonstop_annotator	CDS	340003	341145	.	-	1	ID=cds.LWC14_05033;Parent=LWC14_05033_1;product=methylthioribose-1-phosphate isomerase, putative
+Ctg47_length_425809	nonstop_annotator	gene	341162	342444	.	-	2	ID=LWC14_06407;locus_tag=LWC14_06407
+Ctg47_length_425809	nonstop_annotator	mRNA	341162	342444	.	-	2	ID=LWC14_06407_1;Parent=LWC14_06407;product=RWD domain/Uncharacterized protein family UPF0029, putative
+Ctg47_length_425809	nonstop_annotator	exon	341397	342317	.	-	2	ID=LWC14_06407.exon1;Parent=LWC14_06407_1;product=RWD domain/Uncharacterized protein family UPF0029, putative
+Ctg47_length_425809	nonstop_annotator	CDS	341397	342317	.	-	2	ID=cds.LWC14_06407;Parent=LWC14_06407_1;product=RWD domain/Uncharacterized protein family UPF0029, putative
+Ctg47_length_425809	nonstop_annotator	gene	342551	345004	.	-	0	ID=LWC14_01396;locus_tag=LWC14_01396
+Ctg47_length_425809	nonstop_annotator	mRNA	342551	345004	.	-	0	ID=LWC14_01396_1;Parent=LWC14_01396;product=2OG-Fe(II) oxygenase superfamily, putative
+Ctg47_length_425809	nonstop_annotator	exon	342683	344935	.	-	0	ID=LWC14_01396.exon1;Parent=LWC14_01396_1;product=2OG-Fe(II) oxygenase superfamily, putative
+Ctg47_length_425809	nonstop_annotator	CDS	342683	344935	.	-	0	ID=cds.LWC14_01396;Parent=LWC14_01396_1;product=2OG-Fe(II) oxygenase superfamily, putative
+Ctg47_length_425809	nonstop_annotator	gene	345114	346856	.	-	2	ID=LWC14_02588;locus_tag=LWC14_02588
+Ctg47_length_425809	nonstop_annotator	mRNA	345114	346856	.	-	2	ID=LWC14_02588_1;Parent=LWC14_02588;product=DnaJ domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	exon	345177	346634	.	-	2	ID=LWC14_02588.exon1;Parent=LWC14_02588_1;product=DnaJ domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	CDS	345177	346634	.	-	2	ID=cds.LWC14_02588;Parent=LWC14_02588_1;product=DnaJ domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	gene	347002	353185	.	-	2	ID=LWC14_04285;locus_tag=LWC14_04285
+Ctg47_length_425809	nonstop_annotator	mRNA	347002	353185	.	-	2	ID=LWC14_04285_1;Parent=LWC14_04285;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	350238	351371	.	-	2	ID=LWC14_04285.exon1;Parent=LWC14_04285_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	350238	351371	.	-	2	ID=cds.LWC14_04285;Parent=LWC14_04285_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	353332	355786	.	-	2	ID=LWC14_06931;locus_tag=LWC14_06931
+Ctg47_length_425809	nonstop_annotator	mRNA	353332	355786	.	-	2	ID=LWC14_06931_1;Parent=LWC14_06931;product=tubulin delta chain
+Ctg47_length_425809	nonstop_annotator	exon	353478	355703	.	-	2	ID=LWC14_06931.exon1;Parent=LWC14_06931_1;product=tubulin delta chain
+Ctg47_length_425809	nonstop_annotator	CDS	353478	355703	.	-	2	ID=cds.LWC14_06931;Parent=LWC14_06931_1;product=tubulin delta chain
+Ctg47_length_425809	nonstop_annotator	gene	355941	357964	.	-	0	ID=LWC14_01346;locus_tag=LWC14_01346
+Ctg47_length_425809	nonstop_annotator	mRNA	355941	357964	.	-	0	ID=LWC14_01346_1;Parent=LWC14_01346;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	356924	357838	.	-	0	ID=LWC14_01346.exon1;Parent=LWC14_01346_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	356924	357838	.	-	0	ID=cds.LWC14_01346;Parent=LWC14_01346_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	358024	359191	.	-	2	ID=LWC14_01457;locus_tag=LWC14_01457
+Ctg47_length_425809	nonstop_annotator	mRNA	358024	359191	.	-	2	ID=LWC14_01457_1;Parent=LWC14_01457;product=40S ribosomal protein SA, putative
+Ctg47_length_425809	nonstop_annotator	exon	358356	359090	.	-	2	ID=LWC14_01457.exon1;Parent=LWC14_01457_1;product=40S ribosomal protein SA, putative
+Ctg47_length_425809	nonstop_annotator	CDS	358356	359090	.	-	2	ID=cds.LWC14_01457;Parent=LWC14_01457_1;product=40S ribosomal protein SA, putative
+Ctg47_length_425809	nonstop_annotator	gene	359339	362239	.	-	0	ID=LWC14_02272;locus_tag=LWC14_02272
+Ctg47_length_425809	nonstop_annotator	mRNA	359339	362239	.	-	0	ID=LWC14_02272_1;Parent=LWC14_02272;product=Component of motile flagella 9
+Ctg47_length_425809	nonstop_annotator	exon	359603	362179	.	-	0	ID=LWC14_02272.exon1;Parent=LWC14_02272_1;product=Component of motile flagella 9
+Ctg47_length_425809	nonstop_annotator	CDS	359603	362179	.	-	0	ID=cds.LWC14_02272;Parent=LWC14_02272_1;product=Component of motile flagella 9
+Ctg47_length_425809	nonstop_annotator	gene	362402	364342	.	-	2	ID=LWC14_01338;locus_tag=LWC14_01338
+Ctg47_length_425809	nonstop_annotator	mRNA	362402	364342	.	-	2	ID=LWC14_01338_1;Parent=LWC14_01338;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	362571	364322	.	-	2	ID=LWC14_01338.exon1;Parent=LWC14_01338_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	362571	364322	.	-	2	ID=cds.LWC14_01338;Parent=LWC14_01338_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	364446	366205	.	-	2	ID=LWC14_04286;locus_tag=LWC14_04286
+Ctg47_length_425809	nonstop_annotator	mRNA	364446	366205	.	-	2	ID=LWC14_04286_1;Parent=LWC14_04286;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	364746	366038	.	-	2	ID=LWC14_04286.exon1;Parent=LWC14_04286_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	364746	366038	.	-	2	ID=cds.LWC14_04286;Parent=LWC14_04286_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	366286	367484	.	-	2	ID=LWC14_01416;locus_tag=LWC14_01416
+Ctg47_length_425809	nonstop_annotator	mRNA	366286	367484	.	-	2	ID=LWC14_01416_1;Parent=LWC14_01416;product=32 kDa ER-associated protein
+Ctg47_length_425809	nonstop_annotator	exon	366552	367397	.	-	2	ID=LWC14_01416.exon1;Parent=LWC14_01416_1;product=32 kDa ER-associated protein
+Ctg47_length_425809	nonstop_annotator	CDS	366552	367397	.	-	2	ID=cds.LWC14_01416;Parent=LWC14_01416_1;product=32 kDa ER-associated protein
+Ctg47_length_425809	nonstop_annotator	gene	367656	369290	.	-	0	ID=LWC14_01389;locus_tag=LWC14_01389
+Ctg47_length_425809	nonstop_annotator	mRNA	367656	369290	.	-	0	ID=LWC14_01389_1;Parent=LWC14_01389;product=20S-pre-rRNA D-site endonuclease NOB1
+Ctg47_length_425809	nonstop_annotator	exon	367817	369202	.	-	0	ID=LWC14_01389.exon1;Parent=LWC14_01389_1;product=20S-pre-rRNA D-site endonuclease NOB1
+Ctg47_length_425809	nonstop_annotator	CDS	367817	369202	.	-	0	ID=cds.LWC14_01389;Parent=LWC14_01389_1;product=20S-pre-rRNA D-site endonuclease NOB1
+Ctg47_length_425809	nonstop_annotator	gene	369291	371302	.	-	0	ID=LWC14_04287;locus_tag=LWC14_04287
+Ctg47_length_425809	nonstop_annotator	mRNA	369291	371302	.	-	0	ID=LWC14_04287_1;Parent=LWC14_04287;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	369578	371185	.	-	0	ID=LWC14_04287.exon1;Parent=LWC14_04287_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	369578	371185	.	-	0	ID=cds.LWC14_04287;Parent=LWC14_04287_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	371401	373453	.	-	0	ID=LWC14_04288;locus_tag=LWC14_04288
+Ctg47_length_425809	nonstop_annotator	mRNA	371401	373453	.	-	0	ID=LWC14_04288_1;Parent=LWC14_04288;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	371594	373390	.	-	0	ID=LWC14_04288.exon1;Parent=LWC14_04288_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	371594	373390	.	-	0	ID=cds.LWC14_04288;Parent=LWC14_04288_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	373454	375215	.	-	0	ID=LWC14_02058;locus_tag=LWC14_02058
+Ctg47_length_425809	nonstop_annotator	mRNA	373454	375215	.	-	0	ID=LWC14_02058_1;Parent=LWC14_02058;product=Casein kinase II subunit beta, putative
+Ctg47_length_425809	nonstop_annotator	exon	374336	375136	.	-	0	ID=LWC14_02058.exon1;Parent=LWC14_02058_1;product=Casein kinase II subunit beta, putative
+Ctg47_length_425809	nonstop_annotator	CDS	374336	375136	.	-	0	ID=cds.LWC14_02058;Parent=LWC14_02058_1;product=Casein kinase II subunit beta, putative
+Ctg47_length_425809	nonstop_annotator	gene	375437	379912	.	-	1	ID=LWC14_06086;locus_tag=LWC14_06086
+Ctg47_length_425809	nonstop_annotator	mRNA	375437	379912	.	-	1	ID=LWC14_06086_1;Parent=LWC14_06086;product=pumillio/PUF RNA binding protein 11
+Ctg47_length_425809	nonstop_annotator	exon	376564	379830	.	-	1	ID=LWC14_06086.exon1;Parent=LWC14_06086_1;product=pumillio/PUF RNA binding protein 11
+Ctg47_length_425809	nonstop_annotator	CDS	376564	379830	.	-	1	ID=cds.LWC14_06086;Parent=LWC14_06086_1;product=pumillio/PUF RNA binding protein 11
+Ctg47_length_425809	nonstop_annotator	gene	380096	381159	.	-	2	ID=LWC14_02616;locus_tag=LWC14_02616
+Ctg47_length_425809	nonstop_annotator	mRNA	380096	381159	.	-	2	ID=LWC14_02616_1;Parent=LWC14_02616;product=Domain of unknown function (DUF4496), putative
+Ctg47_length_425809	nonstop_annotator	exon	380379	381122	.	-	2	ID=LWC14_02616.exon1;Parent=LWC14_02616_1;product=Domain of unknown function (DUF4496), putative
+Ctg47_length_425809	nonstop_annotator	CDS	380379	381122	.	-	2	ID=cds.LWC14_02616;Parent=LWC14_02616_1;product=Domain of unknown function (DUF4496), putative
+Ctg47_length_425809	nonstop_annotator	gene	381160	382384	.	-	1	ID=LWC14_01458;locus_tag=LWC14_01458
+Ctg47_length_425809	nonstop_annotator	mRNA	381160	382384	.	-	1	ID=LWC14_01458_1;Parent=LWC14_01458;product=40S ribosomal protein SA, putative
+Ctg47_length_425809	nonstop_annotator	exon	381550	382284	.	-	1	ID=LWC14_01458.exon1;Parent=LWC14_01458_1;product=40S ribosomal protein SA, putative
+Ctg47_length_425809	nonstop_annotator	CDS	381550	382284	.	-	1	ID=cds.LWC14_01458;Parent=LWC14_01458_1;product=40S ribosomal protein SA, putative
+Ctg47_length_425809	nonstop_annotator	gene	383357	384667	.	-	0	ID=LWC14_07131;locus_tag=LWC14_07131
+Ctg47_length_425809	nonstop_annotator	mRNA	383357	384667	.	-	0	ID=LWC14_07131_1;Parent=LWC14_07131;product=Voltage-dependent anion channel, putative
+Ctg47_length_425809	nonstop_annotator	exon	383666	384514	.	-	0	ID=LWC14_07131.exon1;Parent=LWC14_07131_1;product=Voltage-dependent anion channel, putative
+Ctg47_length_425809	nonstop_annotator	CDS	383666	384514	.	-	0	ID=cds.LWC14_07131;Parent=LWC14_07131_1;product=Voltage-dependent anion channel, putative
+Ctg47_length_425809	nonstop_annotator	gene	384795	386137	.	-	0	ID=LWC14_01357;locus_tag=LWC14_01357
+Ctg47_length_425809	nonstop_annotator	mRNA	384795	386137	.	-	0	ID=LWC14_01357_1;Parent=LWC14_01357;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	exon	385388	386131	.	-	0	ID=LWC14_01357.exon1;Parent=LWC14_01357_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	CDS	385388	386131	.	-	0	ID=cds.LWC14_01357;Parent=LWC14_01357_1;product=hypothetical protein
+Ctg47_length_425809	nonstop_annotator	gene	386138	387530	.	-	0	ID=LWC14_07128;locus_tag=LWC14_07128
+Ctg47_length_425809	nonstop_annotator	mRNA	386138	387530	.	-	0	ID=LWC14_07128_1;Parent=LWC14_07128;product=VHS domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	exon	386384	387364	.	-	0	ID=LWC14_07128.exon1;Parent=LWC14_07128_1;product=VHS domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	CDS	386384	387364	.	-	0	ID=cds.LWC14_07128;Parent=LWC14_07128_1;product=VHS domain containing protein, putative
+Ctg47_length_425809	nonstop_annotator	gene	387643	390149	.	-	0	ID=LWC14_04752;locus_tag=LWC14_04752
+Ctg47_length_425809	nonstop_annotator	mRNA	387643	390149	.	-	0	ID=LWC14_04752_1;Parent=LWC14_04752;product=kinesin-D
+Ctg47_length_425809	nonstop_annotator	exon	388160	390004	.	-	0	ID=LWC14_04752.exon1;Parent=LWC14_04752_1;product=kinesin-D
+Ctg47_length_425809	nonstop_annotator	CDS	388160	390004	.	-	0	ID=cds.LWC14_04752;Parent=LWC14_04752_1;product=kinesin-D
+Ctg47_length_425809	nonstop_annotator	gene	390279	392547	.	-	0	ID=LWC14_05814;locus_tag=LWC14_05814
+Ctg47_length_425809	nonstop_annotator	mRNA	390279	392547	.	-	0	ID=LWC14_05814_1;Parent=LWC14_05814;product=pre-mRNA-splicing factor CWC22, putative
+Ctg47_length_425809	nonstop_annotator	exon	390455	392422	.	-	0	ID=LWC14_05814.exon1;Parent=LWC14_05814_1;product=pre-mRNA-splicing factor CWC22, putative
+Ctg47_length_425809	nonstop_annotator	CDS	390455	392422	.	-	0	ID=cds.LWC14_05814;Parent=LWC14_05814_1;product=pre-mRNA-splicing factor CWC22, putative
+Ctg47_length_425809	nonstop_annotator	gene	392646	393712	.	-	1	ID=LWC14_07105;locus_tag=LWC14_07105
+Ctg47_length_425809	nonstop_annotator	mRNA	392646	393712	.	-	1	ID=LWC14_07105_1;Parent=LWC14_07105;product=vacuolar sorting-associated protein-like, putative
+Ctg47_length_425809	nonstop_annotator	exon	393049	393684	.	-	1	ID=LWC14_07105.exon1;Parent=LWC14_07105_1;product=vacuolar sorting-associated protein-like, putative
+Ctg47_length_425809	nonstop_annotator	CDS	393049	393684	.	-	1	ID=cds.LWC14_07105;Parent=LWC14_07105_1;product=vacuolar sorting-associated protein-like, putative
+Ctg47_length_425809	nonstop_annotator	gene	393713	396010	.	-	1	ID=LWC14_01687;locus_tag=LWC14_01687
+Ctg47_length_425809	nonstop_annotator	mRNA	393713	396010	.	-	1	ID=LWC14_01687_1;Parent=LWC14_01687;product=aldehyde dehydrogenase, putative
+Ctg47_length_425809	nonstop_annotator	exon	394363	395991	.	-	1	ID=LWC14_01687.exon1;Parent=LWC14_01687_1;product=aldehyde dehydrogenase, putative
+Ctg47_length_425809	nonstop_annotator	CDS	394363	395991	.	-	1	ID=cds.LWC14_01687;Parent=LWC14_01687_1;product=aldehyde dehydrogenase, putative
+Ctg47_length_425809	nonstop_annotator	gene	396011	400355	.	-	1	ID=LWC14_06696;locus_tag=LWC14_06696
+Ctg47_length_425809	nonstop_annotator	mRNA	396011	400355	.	-	1	ID=LWC14_06696_1;Parent=LWC14_06696;product=SWI/SNF-related helicase, putative
+Ctg47_length_425809	nonstop_annotator	exon	396259	400323	.	-	1	ID=LWC14_06696.exon1;Parent=LWC14_06696_1;product=SWI/SNF-related helicase, putative
+Ctg47_length_425809	nonstop_annotator	CDS	396259	400323	.	-	1	ID=cds.LWC14_06696;Parent=LWC14_06696_1;product=SWI/SNF-related helicase, putative
+Ctg47_length_425809	nonstop_annotator	gene	400523	406028	.	-	2	ID=LWC14_04289;locus_tag=LWC14_04289
+Ctg47_length_425809	nonstop_annotator	mRNA	400523	406028	.	-	2	ID=LWC14_04289_1;Parent=LWC14_04289;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	401625	405974	.	-	2	ID=LWC14_04289.exon1;Parent=LWC14_04289_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	401625	405974	.	-	2	ID=cds.LWC14_04289;Parent=LWC14_04289_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	406210	408004	.	-	1	ID=LWC14_04290;locus_tag=LWC14_04290
+Ctg47_length_425809	nonstop_annotator	mRNA	406210	408004	.	-	1	ID=LWC14_04290_1;Parent=LWC14_04290;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	exon	406675	407943	.	-	1	ID=LWC14_04290.exon1;Parent=LWC14_04290_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	CDS	406675	407943	.	-	1	ID=cds.LWC14_04290;Parent=LWC14_04290_1;product=hypothetical protein, conserved
+Ctg47_length_425809	nonstop_annotator	gene	408095	412740	.	-	2	ID=LWC14_03034;locus_tag=LWC14_03034
+Ctg47_length_425809	nonstop_annotator	mRNA	408095	412740	.	-	2	ID=LWC14_03034_1;Parent=LWC14_03034;product=glycosyl hydrolase, putative
+Ctg47_length_425809	nonstop_annotator	exon	408717	412589	.	-	2	ID=LWC14_03034.exon1;Parent=LWC14_03034_1;product=glycosyl hydrolase, putative
+Ctg47_length_425809	nonstop_annotator	CDS	408717	412589	.	-	2	ID=cds.LWC14_03034;Parent=LWC14_03034_1;product=glycosyl hydrolase, putative
 Ctg48_length_582818	nonstop_annotator	gene	7995	9370	.	+	0	ID=LWC14_03152;locus_tag=LWC14_03152
 Ctg48_length_582818	nonstop_annotator	mRNA	7995	9370	.	+	0	ID=LWC14_03152_1;Parent=LWC14_03152;product=histone H2A, putative
 Ctg48_length_582818	nonstop_annotator	exon	8131	8529	.	+	0	ID=LWC14_03152.exon1;Parent=LWC14_03152_1;product=histone H2A, putative
@@ -23738,10 +24318,20 @@ Ctg50_length_307361	nonstop_annotator	gene	33	632	.	+	2	ID=LWC14_04156;locus_tag
 Ctg50_length_307361	nonstop_annotator	mRNA	33	632	.	+	2	ID=LWC14_04156_1;Parent=LWC14_04156;product=hypothetical protein, conserved
 Ctg50_length_307361	nonstop_annotator	exon	84	584	.	+	2	ID=LWC14_04156.exon1;Parent=LWC14_04156_1;product=hypothetical protein, conserved
 Ctg50_length_307361	nonstop_annotator	CDS	84	584	.	+	2	ID=cds.LWC14_04156;Parent=LWC14_04156_1;product=hypothetical protein, conserved
+Ctg50_length_307361	blast	gene	300	470	.	+	.	ID=LWC14_07333;locus_tag=LWC14_07333
+Ctg50_length_307361	blast	rRNA	300	470	.	+	.	ID=LWC14_07333_1;Parent=LWC14_07333;product=5.8S ribosomal RNA
+Ctg50_length_307361	blast	gene	813	2696	.	+	.	ID=LWC14_07331;locus_tag=LWC14_07331
+Ctg50_length_307361	blast	rRNA	813	2696	.	+	.	ID=LWC14_07331_1;Parent=LWC14_07331;product=large subunit alpha (28S alpha) ribosomal RNA
+Ctg50_length_307361	blast	gene	3454	4617	.	+	.	ID=LWC14_07332;locus_tag=LWC14_07332
+Ctg50_length_307361	blast	rRNA	3454	4617	.	+	.	ID=LWC14_07332_1;Parent=LWC14_07332;product=large subunit beta (28S beta) ribosomal RNA
 Ctg50_length_307361	nonstop_annotator	gene	3556	4304	.	+	2	ID=LWC14_00136;locus_tag=LWC14_00136
 Ctg50_length_307361	nonstop_annotator	mRNA	3556	4304	.	+	2	ID=LWC14_00136_1;Parent=LWC14_00136;product=hypothetical protein
 Ctg50_length_307361	nonstop_annotator	exon	3591	4286	.	+	2	ID=LWC14_00136.exon1;Parent=LWC14_00136_1;product=hypothetical protein
 Ctg50_length_307361	nonstop_annotator	CDS	3591	4286	.	+	2	ID=cds.LWC14_00136;Parent=LWC14_00136_1;product=hypothetical protein
+Ctg50_length_307361	aragorn	gene	8641	8723	.	-	.	ID=LWC14_07300;locus_tag=LWC14_07300
+Ctg50_length_307361	aragorn	tRNA	8641	8723	.	-	.	ID=LWC14_07300_1;Parent=LWC14_07300;product=tRNA-Leu(taa)
+Ctg50_length_307361	aragorn	gene	8980	9051	.	+	.	ID=LWC14_07311;locus_tag=LWC14_07311
+Ctg50_length_307361	aragorn	tRNA	8980	9051	.	+	.	ID=LWC14_07311_1;Parent=LWC14_07311;product=tRNA-Pro(cgg)
 Ctg50_length_307361	nonstop_annotator	gene	9175	10808	.	-	1	ID=LWC14_05265;locus_tag=LWC14_05265
 Ctg50_length_307361	nonstop_annotator	mRNA	9175	10808	.	-	1	ID=LWC14_05265_1;Parent=LWC14_05265;product=Mitoribosomal LSU assembly factor 6
 Ctg50_length_307361	nonstop_annotator	exon	9212	10738	.	-	1	ID=LWC14_05265.exon1;Parent=LWC14_05265_1;product=Mitoribosomal LSU assembly factor 6
@@ -24158,6 +24748,8 @@ Ctg50_length_307361	nonstop_annotator	gene	305381	306297	.	-	1	ID=LWC14_00120;lo
 Ctg50_length_307361	nonstop_annotator	mRNA	305381	306297	.	-	1	ID=LWC14_00120_1;Parent=LWC14_00120;product=hypothetical protein
 Ctg50_length_307361	nonstop_annotator	exon	305441	306256	.	-	1	ID=LWC14_00120.exon1;Parent=LWC14_00120_1;product=hypothetical protein
 Ctg50_length_307361	nonstop_annotator	CDS	305441	306256	.	-	1	ID=cds.LWC14_00120;Parent=LWC14_00120_1;product=hypothetical protein
+Ctg50_length_307361	aragorn	gene	306977	307051	.	+	.	ID=LWC14_07282;locus_tag=LWC14_07282
+Ctg50_length_307361	aragorn	tRNA	306977	307051	.	+	.	ID=LWC14_07282_1;Parent=LWC14_07282;product=tRNA-Glu(cta)
 Ctg51_length_441521	nonstop_annotator	gene	11249	18362	.	+	1	ID=LWC14_06228;locus_tag=LWC14_06228
 Ctg51_length_441521	nonstop_annotator	mRNA	11249	18362	.	+	1	ID=LWC14_06228_1;Parent=LWC14_06228;product=ribokinase, putative
 Ctg51_length_441521	nonstop_annotator	exon	11546	16408	.	+	1	ID=LWC14_06228.exon1;Parent=LWC14_06228_1;product=ribokinase, putative
@@ -24334,6 +24926,18 @@ Ctg51_length_441521	nonstop_annotator	gene	171028	174366	.	+	0	ID=LWC14_06081;lo
 Ctg51_length_441521	nonstop_annotator	mRNA	171028	174366	.	+	0	ID=LWC14_06081_1;Parent=LWC14_06081;product=pumilio/PUF RNA binding protein 10, putative
 Ctg51_length_441521	nonstop_annotator	exon	171133	174186	.	+	0	ID=LWC14_06081.exon1;Parent=LWC14_06081_1;product=pumilio/PUF RNA binding protein 10, putative
 Ctg51_length_441521	nonstop_annotator	CDS	171133	174186	.	+	0	ID=cds.LWC14_06081;Parent=LWC14_06081_1;product=pumilio/PUF RNA binding protein 10, putative
+Ctg51_length_441521	aragorn	gene	174749	174822	.	-	.	ID=LWC14_07263;locus_tag=LWC14_07263
+Ctg51_length_441521	aragorn	tRNA	174749	174822	.	-	.	ID=LWC14_07263_1;Parent=LWC14_07263;product=tRNA-Ala(cgc)
+Ctg51_length_441521	aragorn	gene	174881	174951	.	-	.	ID=LWC14_07287;locus_tag=LWC14_07287
+Ctg51_length_441521	aragorn	tRNA	174881	174951	.	-	.	ID=LWC14_07287_1;Parent=LWC14_07287;product=tRNA-Gly(ccc)
+Ctg51_length_441521	aragorn	gene	175019	175101	.	+	.	ID=LWC14_07297;locus_tag=LWC14_07297
+Ctg51_length_441521	aragorn	tRNA	175019	175101	.	+	.	ID=LWC14_07297_1;Parent=LWC14_07297;product=tRNA-Leu(aag)
+Ctg51_length_441521	aragorn	gene	185104	185186	.	-	.	ID=LWC14_07296;locus_tag=LWC14_07296
+Ctg51_length_441521	aragorn	tRNA	185104	185186	.	-	.	ID=LWC14_07296_1;Parent=LWC14_07296;product=tRNA-Leu(aag)
+Ctg51_length_441521	aragorn	gene	185254	185324	.	+	.	ID=LWC14_07286;locus_tag=LWC14_07286
+Ctg51_length_441521	aragorn	tRNA	185254	185324	.	+	.	ID=LWC14_07286_1;Parent=LWC14_07286;product=tRNA-Gly(ccc)
+Ctg51_length_441521	aragorn	gene	185383	185456	.	+	.	ID=LWC14_07262;locus_tag=LWC14_07262
+Ctg51_length_441521	aragorn	tRNA	185383	185456	.	+	.	ID=LWC14_07262_1;Parent=LWC14_07262;product=tRNA-Ala(cgc)
 Ctg51_length_441521	nonstop_annotator	gene	186337	190996	.	+	0	ID=LWC14_05320;locus_tag=LWC14_05320
 Ctg51_length_441521	nonstop_annotator	mRNA	186337	190996	.	+	0	ID=LWC14_05320_1;Parent=LWC14_05320;product=mRNA cap guanine-N7 methyltransferase, putative
 Ctg51_length_441521	nonstop_annotator	exon	186469	190161	.	+	0	ID=LWC14_05320.exon1;Parent=LWC14_05320_1;product=mRNA cap guanine-N7 methyltransferase, putative
@@ -24486,6 +25090,12 @@ Ctg51_length_441521	nonstop_annotator	gene	328837	331147	.	+	2	ID=LWC14_06076;lo
 Ctg51_length_441521	nonstop_annotator	mRNA	328837	331147	.	+	2	ID=LWC14_06076_1;Parent=LWC14_06076;product=PUB domain containing protein, putative
 Ctg51_length_441521	nonstop_annotator	exon	328962	330314	.	+	2	ID=LWC14_06076.exon1;Parent=LWC14_06076_1;product=PUB domain containing protein, putative
 Ctg51_length_441521	nonstop_annotator	CDS	328962	330314	.	+	2	ID=cds.LWC14_06076;Parent=LWC14_06076_1;product=PUB domain containing protein, putative
+Ctg51_length_441521	aragorn	gene	332721	332794	.	-	.	ID=LWC14_07266;locus_tag=LWC14_07266
+Ctg51_length_441521	aragorn	tRNA	332721	332794	.	-	.	ID=LWC14_07266_1;Parent=LWC14_07266;product=tRNA-Arg(acg)
+Ctg51_length_441521	aragorn	gene	332873	332947	.	+	.	ID=LWC14_07307;locus_tag=LWC14_07307
+Ctg51_length_441521	aragorn	tRNA	332873	332947	.	+	.	ID=LWC14_07307_1;Parent=LWC14_07307;product=tRNA-Met(cat)
+Ctg51_length_441521	aragorn	gene	332998	333069	.	-	.	ID=LWC14_07277;locus_tag=LWC14_07277
+Ctg51_length_441521	aragorn	tRNA	332998	333069	.	-	.	ID=LWC14_07277_1;Parent=LWC14_07277;product=tRNA-Asp(gtc)
 Ctg51_length_441521	nonstop_annotator	gene	333367	335072	.	+	1	ID=LWC14_05319;locus_tag=LWC14_05319
 Ctg51_length_441521	nonstop_annotator	mRNA	333367	335072	.	+	1	ID=LWC14_05319_1;Parent=LWC14_05319;product=MRB1-associated protein
 Ctg51_length_441521	nonstop_annotator	exon	333527	334804	.	+	1	ID=LWC14_05319.exon1;Parent=LWC14_05319_1;product=MRB1-associated protein
@@ -24658,6 +25268,8 @@ Ctg52_length_198271	nonstop_annotator	gene	56801	60091	.	-	2	ID=LWC14_00870;locu
 Ctg52_length_198271	nonstop_annotator	mRNA	56801	60091	.	-	2	ID=LWC14_00870_1;Parent=LWC14_00870;product=hypothetical protein
 Ctg52_length_198271	nonstop_annotator	exon	57078	59918	.	-	2	ID=LWC14_00870.exon1;Parent=LWC14_00870_1;product=hypothetical protein
 Ctg52_length_198271	nonstop_annotator	CDS	57078	59918	.	-	2	ID=cds.LWC14_00870;Parent=LWC14_00870_1;product=hypothetical protein
+Ctg52_length_198271	aragorn	gene	60207	60280	.	+	.	ID=LWC14_07267;locus_tag=LWC14_07267
+Ctg52_length_198271	aragorn	tRNA	60207	60280	.	+	.	ID=LWC14_07267_1;Parent=LWC14_07267;product=tRNA-Arg(acg)
 Ctg52_length_198271	nonstop_annotator	gene	61510	64190	.	-	0	ID=LWC14_02131;locus_tag=LWC14_02131
 Ctg52_length_198271	nonstop_annotator	mRNA	61510	64190	.	-	0	ID=LWC14_02131_1;Parent=LWC14_02131;product=chaperone protein DnaJ, putative
 Ctg52_length_198271	nonstop_annotator	exon	62258	63991	.	-	0	ID=LWC14_02131.exon1;Parent=LWC14_02131_1;product=chaperone protein DnaJ, putative
@@ -26658,6 +27270,12 @@ Ctg61_length_82014	nonstop_annotator	gene	19877	23357	.	+	2	ID=LWC14_05858;locus
 Ctg61_length_82014	nonstop_annotator	mRNA	19877	23357	.	+	2	ID=LWC14_05858_1;Parent=LWC14_05858;product=Present in the outer mitochondrial membrane proteome 10
 Ctg61_length_82014	nonstop_annotator	exon	20151	22505	.	+	2	ID=LWC14_05858.exon1;Parent=LWC14_05858_1;product=Present in the outer mitochondrial membrane proteome 10
 Ctg61_length_82014	nonstop_annotator	CDS	20151	22505	.	+	2	ID=cds.LWC14_05858;Parent=LWC14_05858_1;product=Present in the outer mitochondrial membrane proteome 10
+Ctg61_length_82014	aragorn	gene	23622	23694	.	-	.	ID=LWC14_07308;locus_tag=LWC14_07308
+Ctg61_length_82014	aragorn	tRNA	23622	23694	.	-	.	ID=LWC14_07308_1;Parent=LWC14_07308;product=tRNA-Phe(gaa)
+Ctg61_length_82014	aragorn	gene	23772	23844	.	+	.	ID=LWC14_07284;locus_tag=LWC14_07284
+Ctg61_length_82014	aragorn	tRNA	23772	23844	.	+	.	ID=LWC14_07284_1;Parent=LWC14_07284;product=tRNA-Glu(tta)
+Ctg61_length_82014	aragorn	gene	24027	24100	.	-	.	ID=LWC14_07268;locus_tag=LWC14_07268
+Ctg61_length_82014	aragorn	tRNA	24027	24100	.	-	.	ID=LWC14_07268_1;Parent=LWC14_07268;product=tRNA-Arg(ccg)
 Ctg61_length_82014	nonstop_annotator	gene	24124	27137	.	-	0	ID=LWC14_04875;locus_tag=LWC14_04875
 Ctg61_length_82014	nonstop_annotator	mRNA	24124	27137	.	-	0	ID=LWC14_04875_1;Parent=LWC14_04875;product=LEM3 (ligand-effect modulator 3) family / CDC50 family, putative
 Ctg61_length_82014	nonstop_annotator	exon	24517	26649	.	-	0	ID=LWC14_04875.exon1;Parent=LWC14_04875_1;product=LEM3 (ligand-effect modulator 3) family / CDC50 family, putative
@@ -27642,6 +28260,8 @@ Ctg65_length_329517	nonstop_annotator	gene	154365	159878	.	+	2	ID=LWC14_07141;lo
 Ctg65_length_329517	nonstop_annotator	mRNA	154365	159878	.	+	2	ID=LWC14_07141_1;Parent=LWC14_07141;product=VRR-NUC domain containing protein, putative
 Ctg65_length_329517	nonstop_annotator	exon	154497	159743	.	+	2	ID=LWC14_07141.exon1;Parent=LWC14_07141_1;product=VRR-NUC domain containing protein, putative
 Ctg65_length_329517	nonstop_annotator	CDS	154497	159743	.	+	2	ID=cds.LWC14_07141;Parent=LWC14_07141_1;product=VRR-NUC domain containing protein, putative
+Ctg65_length_329517	aragorn	gene	160041	160112	.	-	.	ID=LWC14_07319;locus_tag=LWC14_07319
+Ctg65_length_329517	aragorn	tRNA	160041	160112	.	-	.	ID=LWC14_07319_1;Parent=LWC14_07319;product=tRNA-Thr(agt)
 Ctg65_length_329517	nonstop_annotator	gene	160431	162448	.	-	0	ID=LWC14_05002;locus_tag=LWC14_05002
 Ctg65_length_329517	nonstop_annotator	mRNA	160431	162448	.	-	0	ID=LWC14_05002_1;Parent=LWC14_05002;product=membrane-bound acid phosphatase 2
 Ctg65_length_329517	nonstop_annotator	exon	160606	162384	.	-	0	ID=LWC14_05002.exon1;Parent=LWC14_05002_1;product=membrane-bound acid phosphatase 2
@@ -28342,6 +28962,8 @@ Ctg70_length_37778	nonstop_annotator	gene	32280	34199	.	+	1	ID=LWC14_00695;locus
 Ctg70_length_37778	nonstop_annotator	mRNA	32280	34199	.	+	1	ID=LWC14_00695_1;Parent=LWC14_00695;product=hypothetical protein
 Ctg70_length_37778	nonstop_annotator	exon	32417	33361	.	+	1	ID=LWC14_00695.exon1;Parent=LWC14_00695_1;product=hypothetical protein
 Ctg70_length_37778	nonstop_annotator	CDS	32417	33361	.	+	1	ID=cds.LWC14_00695;Parent=LWC14_00695_1;product=hypothetical protein
+Ctg71_length_46347	aragorn	gene	21096	21167	.	+	.	ID=LWC14_07275;locus_tag=LWC14_07275
+Ctg71_length_46347	aragorn	tRNA	21096	21167	.	+	.	ID=LWC14_07275_1;Parent=LWC14_07275;product=tRNA-Asp(gtc)
 Ctg71_length_46347	nonstop_annotator	gene	26319	29107	.	-	2	ID=LWC14_00367;locus_tag=LWC14_00367
 Ctg71_length_46347	nonstop_annotator	mRNA	26319	29107	.	-	2	ID=LWC14_00367_1;Parent=LWC14_00367;product=hypothetical protein
 Ctg71_length_46347	nonstop_annotator	exon	26387	29056	.	-	2	ID=LWC14_00367.exon1;Parent=LWC14_00367_1;product=hypothetical protein

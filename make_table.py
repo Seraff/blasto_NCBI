@@ -250,7 +250,9 @@ def main():
     # preparing RNAs
     with open(TR_RNA_TABLE, newline='') as f:
         for csv_rec in csv.DictReader(f, delimiter='\t'):
-            if csv_rec['contig'] not in annotated_genes:
+            contig_id = csv_rec['contig'].strip()
+
+            if contig_id not in annotated_genes:
                 annotated_genes[contig_id] = []
 
             gene_obj = {}
