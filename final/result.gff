@@ -17624,34 +17624,6 @@ Ctg31_length_170552	nonstop_annotator	gene	158499	160955	.	-	1	ID=LWC14_03031;lo
 Ctg31_length_170552	nonstop_annotator	mRNA	158499	160955	.	-	1	ID=LWC14_03031_1;Parent=LWC14_03031;product=glycosomal transporter (GAT2)
 Ctg31_length_170552	nonstop_annotator	exon	158768	160729	.	-	1	ID=LWC14_03031.exon1;Parent=LWC14_03031_1;product=glycosomal transporter (GAT2)
 Ctg31_length_170552	nonstop_annotator	CDS	158768	160729	.	-	1	ID=cds.LWC14_03031;Parent=LWC14_03031_1;product=glycosomal transporter (GAT2)
-Ctg32_length_42107	nonstop_annotator	gene	13661	14943	.	+	0	ID=LWC14_00701;locus_tag=LWC14_00701
-Ctg32_length_42107	nonstop_annotator	mRNA	13661	14943	.	+	0	ID=LWC14_00701_1;Parent=LWC14_00701;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	exon	14014	14721	.	+	0	ID=LWC14_00701.exon1;Parent=LWC14_00701_1;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	CDS	14014	14721	.	+	0	ID=cds.LWC14_00701;Parent=LWC14_00701_1;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	gene	14944	17502	.	+	1	ID=LWC14_00702;locus_tag=LWC14_00702
-Ctg32_length_42107	nonstop_annotator	mRNA	14944	17502	.	+	1	ID=LWC14_00702_1;Parent=LWC14_00702;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	exon	15212	17485	.	+	1	ID=LWC14_00702.exon1;Parent=LWC14_00702_1;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	CDS	15212	17485	.	+	1	ID=cds.LWC14_00702;Parent=LWC14_00702_1;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	gene	18844	20207	.	-	1	ID=LWC14_00697;locus_tag=LWC14_00697
-Ctg32_length_42107	nonstop_annotator	mRNA	18844	20207	.	-	1	ID=LWC14_00697_1;Parent=LWC14_00697;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	exon	19322	20149	.	-	1	ID=LWC14_00697.exon1;Parent=LWC14_00697_1;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	CDS	19322	20149	.	-	1	ID=cds.LWC14_00697;Parent=LWC14_00697_1;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	gene	20208	20900	.	+	2	ID=LWC14_00698;locus_tag=LWC14_00698
-Ctg32_length_42107	nonstop_annotator	mRNA	20208	20900	.	+	2	ID=LWC14_00698_1;Parent=LWC14_00698;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	exon	20256	20780	.	+	2	ID=LWC14_00698.exon1;Parent=LWC14_00698_1;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	CDS	20256	20780	.	+	2	ID=cds.LWC14_00698;Parent=LWC14_00698_1;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	gene	20901	23622	.	-	2	ID=LWC14_00699;locus_tag=LWC14_00699
-Ctg32_length_42107	nonstop_annotator	mRNA	20901	23622	.	-	2	ID=LWC14_00699_1;Parent=LWC14_00699;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	exon	21754	23388	.	-	2	ID=LWC14_00699.exon1;Parent=LWC14_00699_1;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	CDS	21754	23388	.	-	2	ID=cds.LWC14_00699;Parent=LWC14_00699_1;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	gene	24859	26873	.	+	1	ID=LWC14_00700;locus_tag=LWC14_00700
-Ctg32_length_42107	nonstop_annotator	mRNA	24859	26873	.	+	1	ID=LWC14_00700_1;Parent=LWC14_00700;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	exon	25442	26428	.	+	1	ID=LWC14_00700.exon1;Parent=LWC14_00700_1;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	CDS	25442	26428	.	+	1	ID=cds.LWC14_00700;Parent=LWC14_00700_1;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	gene	28459	28981	.	+	1	ID=LWC14_00696;locus_tag=LWC14_00696
-Ctg32_length_42107	nonstop_annotator	mRNA	28459	28981	.	+	1	ID=LWC14_00696_1;Parent=LWC14_00696;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	exon	28472	28795	.	+	1	ID=LWC14_00696.exon1;Parent=LWC14_00696_1;product=hypothetical protein
-Ctg32_length_42107	nonstop_annotator	CDS	28472	28795	.	+	1	ID=cds.LWC14_00696;Parent=LWC14_00696_1;product=hypothetical protein
 Ctg33_length_272135	nonstop_annotator	gene	4535	8152	.	-	0	ID=LWC14_05944;locus_tag=LWC14_05944
 Ctg33_length_272135	nonstop_annotator	mRNA	4535	8152	.	-	0	ID=LWC14_05944_1;Parent=LWC14_05944;product=protein associated with differentiation 7, putative
 Ctg33_length_272135	nonstop_annotator	exon	6009	7955	.	-	0	ID=LWC14_05944.exon1;Parent=LWC14_05944_1;product=protein associated with differentiation 7, putative
