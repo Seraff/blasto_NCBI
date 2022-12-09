@@ -226,6 +226,12 @@ Changed predicted TLD domain protein to putative TLD domain protein gnl|LWC14|cd
 
 Changed Uncharacterised protein family (UPF0172) to Uncharacterized protein family (UPF0172) gnl|LWC14|cds.LWC14_07057:1->445 
 
+Changed Zinc finger to zinc finger protein gnl|LWC14|cds.LWC14_07238:1->447 
+
+Changed predicted C2 domain protein to putative C2 domain protein gnl|LWC14|cds.LWC14_05825:1->2742 
+
+Changed Domain of unknown function (DUF4496) to protein of unknown function (DUF4496) gnl|LWC14|cds.LWC14_02616:1->248 
+
 Changed U3 small nucleolar ribonucleoprotein protein MPP10 to U3 small nucleolar ribonucleoprotein MPP10 gnl|LWC14|cds.LWC14_06966:1->745 
 
 Changed conserved protein to hypothetical protein gnl|LWC14|cds.LWC14_02296:1->453 

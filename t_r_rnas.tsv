@@ -1,0 +1,78 @@
+type	source	product	contig	start	end	strain
+tRNA	Aragorn	tRNA-Ala(agc)	Ctg45_length_311575	180843	180916	-
+tRNA	Aragorn	tRNA-Ala(agc)	Ctg5_length_914768	383739	383812	+
+tRNA	Aragorn	tRNA-Ala(cgc)	Ctg51_length_441521	185383	185456	+
+tRNA	Aragorn	tRNA-Ala(cgc)	Ctg51_length_441521	174749	174822	-
+tRNA	Aragorn	tRNA-Ala(tgc)	Ctg41_length_853671	695766	695837	-
+tRNA	Aragorn	tRNA-Arg(acg)	Ctg27_length_404805	52772	52846	+
+tRNA	Aragorn	tRNA-Arg(acg)	Ctg51_length_441521	332721	332794	-
+tRNA	Aragorn	tRNA-Arg(acg)	Ctg52_length_198271	60207	60280	+
+tRNA	Aragorn	tRNA-Arg(ccg)	Ctg61_length_82014	24027	24100	-
+tRNA	Aragorn	tRNA-Arg(cct)	Ctg41_length_853671	696061	696135	+
+tRNA	Aragorn	tRNA-Arg(tcg)	Ctg2_length_511893	398830	398902	-
+tRNA	Aragorn	tRNA-Arg(tct)	Ctg41_length_853671	695929	696001	+
+tRNA	Aragorn	tRNA-Asn(gtt)	Ctg28_length_82368	330	403	-
+tRNA	Aragorn	tRNA-Asn(gtt)	Ctg5_length_914768	619187	619259	+
+tRNA	Aragorn	tRNA-Asn(gtt)	Ctg18_length_1409826	117073	117146	+
+tRNA	Aragorn	tRNA-Asp(gtc)	Ctg71_length_46347	21096	21167	+
+tRNA	Aragorn	tRNA-Asp(gtc)	Ctg26_length_141477	127476	127547	+
+tRNA	Aragorn	tRNA-Asp(gtc)	Ctg51_length_441521	332998	333069	-
+tRNA	Aragorn	tRNA-Cys(gca)	Ctg18_length_1409826	1061575	1061646	-
+tRNA	Aragorn	tRNA-Gln(ctg)	Ctg47_length_425809	131732	131805	-
+tRNA	Aragorn	tRNA-Gln(ttg)	Ctg2_length_511893	398551	398622	+
+tRNA	Aragorn	tRNA-Glu(cta)	Ctg28_length_82368	200	270	-
+tRNA	Aragorn	tRNA-Glu(cta)	Ctg50_length_307361	306977	307051	+
+tRNA	Aragorn	tRNA-Glu(ctc)	Ctg30_length_652959	547816	547889	-
+tRNA	Aragorn	tRNA-Glu(tta)	Ctg61_length_82014	23772	23844	+
+tRNA	Aragorn	tRNA-Glu(ttc)	Ctg12_length_257868	244651	244722	-
+tRNA	Aragorn	tRNA-Gly(ccc)	Ctg51_length_441521	185254	185324	+
+tRNA	Aragorn	tRNA-Gly(ccc)	Ctg51_length_441521	174881	174951	-
+tRNA	Aragorn	tRNA-Gly(gcc)	Ctg30_length_652959	547948	548018	-
+tRNA	Aragorn	tRNA-Gly(tcc)	Ctg2_length_511893	398416	398487	+
+tRNA	Aragorn	tRNA-His(gtg)	Ctg12_length_257868	244528	244598	+
+tRNA	Aragorn	tRNA-Ile(aat)	Ctg30_length_652959	394448	394523	+
+tRNA	Aragorn	tRNA-Ile(aat)	Ctg35_length_582086	558745	558819	+
+tRNA	Aragorn	tRNA-Ile(gat)	Ctg6_length_518510	160881	160957	-
+tRNA	Aragorn	tRNA-Ile(tat)	Ctg2_length_511893	397542	397616	-
+tRNA	Aragorn	tRNA-Leu(aag)	Ctg18_length_1409826	1061117	1061200	-
+tRNA	Aragorn	tRNA-Leu(aag)	Ctg51_length_441521	185104	185186	-
+tRNA	Aragorn	tRNA-Leu(aag)	Ctg51_length_441521	175019	175101	+
+tRNA	Aragorn	tRNA-Leu(caa)	Ctg15_length_322852	55860	55942	+
+tRNA	Aragorn	tRNA-Leu(cag)	Ctg28_length_82368	502	584	+
+tRNA	Aragorn	tRNA-Leu(taa)	Ctg50_length_307361	8641	8723	-
+tRNA	Aragorn	tRNA-Leu(tag)	Ctg35_length_582086	558086	558167	-
+tRNA	Aragorn	tRNA-Lys(ctt)	Ctg0_length_1405360	424882	424955	-
+tRNA	Aragorn	tRNA-Lys(ctt)	Ctg2_length_511893	398116	398191	-
+tRNA	Aragorn	tRNA-Lys(ttt)	Ctg2_length_511893	397697	397770	+
+tRNA	Aragorn	tRNA-Lys(ttt)	Ctg2_length_511893	399416	399489	+
+tRNA	Aragorn	tRNA-Met(cat)	Ctg18_length_1409826	1061281	1061352	-
+tRNA	Aragorn	tRNA-Met(cat)	Ctg51_length_441521	332873	332947	+
+tRNA	Aragorn	tRNA-Phe(gaa)	Ctg61_length_82014	23622	23694	-
+tRNA	Aragorn	tRNA-Phe(gaa)	Ctg12_length_257868	244823	244895	+
+tRNA	Aragorn	tRNA-Pro(agg)	Ctg16_length_250046	163407	163478	+
+tRNA	Aragorn	tRNA-Pro(cgg)	Ctg50_length_307361	8980	9051	+
+tRNA	Aragorn	tRNA-Pro(tgg)	Ctg18_length_1409826	1061453	1061524	+
+tRNA	Aragorn	tRNA-SeC(tca)	Ctg14_length_947886	206902	206989	-
+tRNA	Aragorn	tRNA-Ser(aga)	Ctg30_length_652959	394620	394702	+
+tRNA	Aragorn	tRNA-Ser(cga)	Ctg15_length_322852	55992	56072	-
+tRNA	Aragorn	tRNA-Ser(gct)	Ctg38_length_238073	186748	186828	-
+tRNA	Aragorn	tRNA-Ser(gct)	Ctg38_length_238073	173851	173931	-
+tRNA	Aragorn	tRNA-Ser(tga)	Ctg35_length_582086	558259	558342	+
+tRNA	Aragorn	tRNA-Thr(agt)	Ctg65_length_329517	160041	160112	-
+tRNA	Aragorn	tRNA-Thr(agt)	Ctg1_length_335614	92877	92948	-
+tRNA	Aragorn	tRNA-Thr(cgt)	Ctg0_length_1405360	536938	537009	-
+tRNA	Aragorn	tRNA-Thr(tgt)	Ctg2_length_511893	399014	399085	+
+tRNA	Aragorn	tRNA-Trp(cca)	Ctg2_length_511893	398250	398321	-
+tRNA	Aragorn	tRNA-Trp(cca)	Ctg0_length_1405360	425014	425085	-
+tRNA	Aragorn	tRNA-Tyr(gta)	Ctg35_length_582086	558409	558499	-
+tRNA	Aragorn	tRNA-Tyr(gta)	Ctg17_length_605537	524223	524313	+
+tRNA	Aragorn	tRNA-Val(aac)	Ctg35_length_582086	558611	558685	+
+tRNA	Aragorn	tRNA-Val(cac)	Ctg34_length_306897	141591	141664	+
+tRNA	Aragorn	tRNA-Val(tac)	Ctg2_length_511893	398708	398783	+
+rRNA	BLAST	5S ribosomal RNA	Ctg5_length_914768	103	221	+
+rRNA	BLAST	large subunit alpha (28S alpha) ribosomal RNA	Ctg50_length_307361	813	2696	+
+rRNA	BLAST	large subunit beta (28S beta) ribosomal RNA	Ctg50_length_307361	3454	4617	+
+rRNA	BLAST	5.8S ribosomal RNA	Ctg50_length_307361	300	470	+
+rRNA	BLAST	18S ribosomal RNA	Ctg6_length_518510	1726	4056	-
+rRNA	BLAST	large subunit alpha (28S alpha) ribosomal RNA	Ctg6_length_518510	1	973	-
+rRNA	BLAST	5.8S ribosomal RNA	Ctg6_length_518510	1316	1486	-
